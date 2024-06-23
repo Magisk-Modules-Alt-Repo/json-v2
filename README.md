@@ -1,8 +1,8 @@
-# Googlers Magisk Repo
+# Magisk Modules Alt Repo
 
 This repository stores modules for [MMRL](https://github.com/DerGoogler/MMRL).
 
-## Add to MMRL or MRepo
+## Add to MMRL
 
 ```
 https://magisk-modules-alt-repo.github.io/json-v2/
@@ -20,4 +20,9 @@ mmrl repo add "https://magisk-modules-alt-repo.github.io/json-v2/json/modules.js
 
 ### For mods
 
-TODO
+1. Go to actions
+2. Click on "sync-build-deploy"
+3. Click on "Run workflow" and enter a repo that has been added to the **Magisk Modules Alt Repo**
+4. Wait till the action has ended
+
+![](assets/adding-guide.png)
