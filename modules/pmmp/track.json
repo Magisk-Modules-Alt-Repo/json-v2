@@ -1,0 +1,11 @@
+{
+  "id": "pmmp",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/main/update.json",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/pmmp.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/pmmp/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/main/README.md",
+  "added": 1719068160.569835
+}

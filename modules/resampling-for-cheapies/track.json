@@ -1,0 +1,12 @@
+{
+  "id": "resampling-for-cheapies",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies.git",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/changelog.md",
+  "license": "AGPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/README.md",
+  "added": 1719068178.481958
+}

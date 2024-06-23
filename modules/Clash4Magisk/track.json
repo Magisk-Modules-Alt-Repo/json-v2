@@ -1,0 +1,11 @@
+{
+  "id": "Clash4Magisk",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Clash4Magisk/master/update.json",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Clash4Magisk/master/README.md",
+  "added": 1719067742.043893
+}

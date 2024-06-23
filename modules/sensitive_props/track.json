@@ -1,0 +1,11 @@
+{
+  "id": "sensitive_props",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
+  "added": 1719068202.547405
+}

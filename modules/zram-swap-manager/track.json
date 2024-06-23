@@ -1,0 +1,12 @@
+{
+  "id": "zram-swap-manager",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager.git",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/VR-25/zram-swap-manager",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager.git",
+  "donate": "https://patreon.com/VR25",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/README.md",
+  "added": 1719068364.982635
+}

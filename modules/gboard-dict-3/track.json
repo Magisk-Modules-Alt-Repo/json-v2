@@ -1,0 +1,11 @@
+{
+  "id": "gboard-dict-3",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/update.json",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/README.md",
+  "added": 1719067893.603234
+}

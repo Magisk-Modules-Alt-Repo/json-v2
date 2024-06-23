@@ -1,0 +1,10 @@
+{
+  "id": "heimdall-ndk",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/heimdall-v2.x/README.md",
+  "added": 1719067945.708869
+}

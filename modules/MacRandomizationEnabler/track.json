@@ -1,0 +1,11 @@
+{
+  "id": "MacRandomizationEnabler",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler.git",
+  "license": "GPL-2.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md",
+  "added": 1719067981.340433
+}

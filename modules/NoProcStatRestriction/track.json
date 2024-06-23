@@ -1,0 +1,12 @@
+{
+  "id": "NoProcStatRestriction",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/update.json",
+  "license": "WTFPL",
+  "homepage": "https://github.com/Young-Lord/NoProcStatRestriction",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/README.md",
+  "added": 1719068085.494562
+}

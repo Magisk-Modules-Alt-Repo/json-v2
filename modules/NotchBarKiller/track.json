@@ -1,0 +1,11 @@
+{
+  "id": "NotchBarKiller",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller.git",
+  "license": "GPL-2.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NotchBarKiller/master/README.md",
+  "added": 1719068097.438876
+}

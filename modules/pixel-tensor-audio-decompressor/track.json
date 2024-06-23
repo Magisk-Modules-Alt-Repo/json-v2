@@ -1,0 +1,10 @@
+{
+  "id": "pixel-tensor-audio-decompressor",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor.git",
+  "homepage": "https://github.com/JoshuaDoes/pixel-tensor-audio-decompressor",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/issues",
+  "added": 1719068149.393722
+}

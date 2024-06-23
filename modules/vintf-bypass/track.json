@@ -1,0 +1,11 @@
+{
+  "id": "vintf-bypass",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/README.md",
+  "added": 1719068323.858956
+}

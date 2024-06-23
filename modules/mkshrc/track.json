@@ -1,0 +1,12 @@
+{
+  "id": "mkshrc",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues",
+  "donate": "https://github.com/sponsors/DerGoogler",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
+  "added": 1719068059.74496
+}

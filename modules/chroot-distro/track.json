@@ -1,0 +1,10 @@
+{
+  "id": "chroot-distro",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/README.md",
+  "added": 1719067736.641686
+}

@@ -1,0 +1,10 @@
+{
+  "id": "magisk_overlayfs",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
+  "added": 1719068027.27877
+}

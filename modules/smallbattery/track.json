@@ -1,0 +1,10 @@
+{
+  "id": "smallbattery",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/main/README.md",
+  "added": 1719068214.636996
+}

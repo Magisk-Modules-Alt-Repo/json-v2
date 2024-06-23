@@ -1,0 +1,11 @@
+{
+  "id": "cmdpatch",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/README.md",
+  "added": 1719067759.135986
+}

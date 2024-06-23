@@ -1,0 +1,12 @@
+{
+  "id": "node",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/node/issues",
+  "donate": "https://github.com/sponsors/DerGoogler",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
+  "added": 1719068080.044674
+}

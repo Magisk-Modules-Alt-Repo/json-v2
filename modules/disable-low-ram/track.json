@@ -1,0 +1,11 @@
+{
+  "id": "disable-low-ram",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/main/update.json",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/main/README.md",
+  "added": 1719067815.614728
+}

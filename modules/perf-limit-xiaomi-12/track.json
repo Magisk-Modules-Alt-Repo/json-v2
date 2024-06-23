@@ -1,0 +1,11 @@
+{
+  "id": "perf-limit-xiaomi-12",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12.git",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/main/README.md",
+  "added": 1719068142.55562
+}

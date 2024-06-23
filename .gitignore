@@ -1,0 +1,14 @@
+# Local files
+local/
+
+# Log files
+log/
+
+# Util tools
+util/
+
+# Test files
+tests/
+
+# MacOS
+.DS_Store

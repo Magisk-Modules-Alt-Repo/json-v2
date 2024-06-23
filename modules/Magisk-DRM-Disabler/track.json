@@ -1,0 +1,12 @@
+{
+  "id": "Magisk-DRM-Disabler",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler.git",
+  "license": "GPL-3.0",
+  "homepage": "https://gitlab.com/atrate/magisk-drm-disabler",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/master/README.md",
+  "added": 1719068004.747433
+}

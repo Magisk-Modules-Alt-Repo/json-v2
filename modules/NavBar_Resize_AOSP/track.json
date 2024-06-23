@@ -1,0 +1,11 @@
+{
+  "id": "NavBar_Resize_AOSP",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/main/update.json",
+  "license": "GPL-2.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/main/README.md",
+  "added": 1719068067.809637
+}

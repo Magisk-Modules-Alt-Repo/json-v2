@@ -1,0 +1,11 @@
+{
+  "id": "Magisk-Tailscaled",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/update.json",
+  "license": "UNKNOWN",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/README.md",
+  "added": 1719068021.520897
+}

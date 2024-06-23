@@ -1,0 +1,11 @@
+{
+  "id": "GMSDoze",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/update.json",
+  "license": "GPL-2.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/README.md",
+  "added": 1719067910.536928
+}

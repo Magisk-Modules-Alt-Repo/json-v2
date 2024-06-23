@@ -1,0 +1,12 @@
+{
+  "id": "SystemlessDebloater",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/update.json",
+  "license": "LGPL-2.1",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/issues",
+  "donate": "https://zgfg.github.io/PayPal.html",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
+  "added": 1719068247.892871
+}

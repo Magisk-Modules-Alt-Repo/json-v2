@@ -1,0 +1,10 @@
+{
+  "id": "isodrive",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/README.md",
+  "added": 1719067957.555546
+}

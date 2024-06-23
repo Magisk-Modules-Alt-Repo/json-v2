@@ -1,0 +1,10 @@
+{
+  "id": "qdl-ndk",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/qdl-ndk/qdl-master/README.md",
+  "added": 1719068166.665426
+}

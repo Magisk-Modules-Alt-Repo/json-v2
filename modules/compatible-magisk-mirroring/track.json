@@ -1,0 +1,12 @@
+{
+  "id": "compatible-magisk-mirroring",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring.git",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/main/changelog.md",
+  "license": "AGPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/main/README.md",
+  "added": 1719067769.982062
+}

@@ -1,0 +1,11 @@
+{
+  "id": "backup",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/backup.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/backup.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/backup/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
+  "added": 1719067621.067182
+}

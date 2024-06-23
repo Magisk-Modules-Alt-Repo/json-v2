@@ -1,0 +1,11 @@
+{
+  "id": "trichromelibrary-squoosh",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/update.json",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/README.md",
+  "added": 1719068286.821944
+}

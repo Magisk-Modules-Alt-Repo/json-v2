@@ -1,0 +1,11 @@
+{
+  "id": "ThemedProject",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject.git",
+  "license": "UNKNOWN",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/README.md",
+  "added": 1719068275.128093
+}

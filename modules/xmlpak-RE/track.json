@@ -1,0 +1,11 @@
+{
+  "id": "xmlpak-RE",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/update.json",
+  "homepage": "https://github.com/rushiranpise/xmlpak-RE",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/README.md",
+  "added": 1719068341.238523
+}

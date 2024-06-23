@@ -1,0 +1,11 @@
+{
+  "id": "CloudflareDNS4Magisk",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/update.json",
+  "license": "LGPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/README.md",
+  "added": 1719067747.503678
+}

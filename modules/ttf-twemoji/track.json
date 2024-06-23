@@ -1,0 +1,11 @@
+{
+  "id": "ttf-twemoji",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji.git",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/README.md",
+  "added": 1719068292.839718
+}

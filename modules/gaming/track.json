@@ -1,0 +1,11 @@
+{
+  "id": "gaming",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/gaming.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/gaming.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/gaming/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/README.md",
+  "added": 1719067888.293288
+}

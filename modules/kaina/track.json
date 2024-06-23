@@ -1,0 +1,11 @@
+{
+  "id": "kaina",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/kaina.git",
+  "license": "LGPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/kaina.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/kaina/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/kaina/master/README.md",
+  "added": 1719067963.34456
+}

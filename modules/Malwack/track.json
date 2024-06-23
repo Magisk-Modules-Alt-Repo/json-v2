@@ -1,0 +1,10 @@
+{
+  "id": "Malwack",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/update.json",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
+  "added": 1719068038.972528
+}

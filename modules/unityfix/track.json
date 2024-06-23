@@ -1,0 +1,10 @@
+{
+  "id": "unityfix",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/main/README.md",
+  "added": 1719068304.944555
+}

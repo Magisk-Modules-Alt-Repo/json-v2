@@ -1,0 +1,11 @@
+{
+  "id": "Simple_BootloopSaver",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
+  "added": 1719068208.756352
+}

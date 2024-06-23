@@ -1,0 +1,11 @@
+{
+  "id": "systemless-adblocker",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/main/update.json",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/main/README.md",
+  "added": 1719068242.529812
+}

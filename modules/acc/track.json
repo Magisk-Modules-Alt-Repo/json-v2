@@ -1,0 +1,13 @@
+{
+  "id": "acc",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/acc.git",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/changelog.md",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/VR-25/acc",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/acc.git",
+  "donate": "https://patreon.com/VR25",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/README.md",
+  "added": 1719067587.391638
+}

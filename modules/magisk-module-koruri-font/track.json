@@ -1,0 +1,12 @@
+{
+  "id": "magisk-module-koruri-font",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/master/update.json",
+  "license": "WTFPL",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/issues",
+  "donate": "https://github.com/sponsors/AndroPlus-org",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/master/README.md",
+  "added": 1719068010.423123
+}

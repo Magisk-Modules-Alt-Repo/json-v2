@@ -1,0 +1,10 @@
+{
+  "id": "OneController",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/OneController/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OneController/master/README.md",
+  "added": 1719068103.525852
+}

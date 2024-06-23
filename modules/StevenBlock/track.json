@@ -1,0 +1,12 @@
+{
+  "id": "StevenBlock",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/update.json",
+  "license": "GPL-2.0",
+  "homepage": "https://github.com/mikropsoft/StevenBlock",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/README.md",
+  "added": 1719068231.151094
+}

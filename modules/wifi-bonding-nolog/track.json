@@ -1,0 +1,10 @@
+{
+  "id": "wifi-bonding-nolog",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
+  "added": 1719068329.758584
+}

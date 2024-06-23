@@ -1,0 +1,11 @@
+{
+  "id": "YAKT",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/YAKT.git",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/YAKT.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/README.md",
+  "added": 1719068347.172395
+}
