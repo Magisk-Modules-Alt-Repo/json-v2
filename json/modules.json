@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1719138225.698797
+    "timestamp": 1719145504.500749
   },
   "modules": [
     {
@@ -3912,12 +3912,12 @@
     {
       "id": "mkshrc",
       "name": "Systemless Mkshrc",
-      "version": "1.5.14",
-      "versionCode": 1514,
+      "version": "1.5.15",
+      "versionCode": 1515,
       "author": "Der_Googler",
       "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
       "added": 1719068059.74496,
-      "timestamp": 1719051786.0,
+      "timestamp": 1719138340.0,
       "category": null,
       "categories": [
         "Coding",
@@ -3964,18 +3964,25 @@
           "versionCode": 1514,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/mkshrc/1.5.14_1514.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1719138340.0,
+          "version": "1.5.15",
+          "versionCode": 1515,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/mkshrc/1.5.15_1515.zip",
+          "changelog": ""
         }
       ]
     },
     {
       "id": "node_on_android",
       "name": "Systemless Node.js",
-      "version": "1.5.5",
-      "versionCode": 155,
+      "version": "1.5.6",
+      "versionCode": 156,
       "author": "Der_Googler",
       "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
       "added": 1719068080.044674,
-      "timestamp": 1719051838.0,
+      "timestamp": 1719138353.0,
       "category": null,
       "categories": [
         "Coding",
@@ -4019,6 +4026,13 @@
           "version": "1.5.5",
           "versionCode": 155,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/node/1.5.5_155.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1719138353.0,
+          "version": "1.5.6",
+          "versionCode": 156,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/node/1.5.6_156.zip",
           "changelog": ""
         }
       ]
@@ -5326,12 +5340,12 @@
     {
       "id": "xhhttp",
       "name": "xh for Android",
-      "version": "v0.22.0",
-      "versionCode": 221,
+      "version": "v0.22.2",
+      "versionCode": 222,
       "author": "ducaale & Der_Googler",
       "description": "Friendly and fast tool for sending HTTP requests",
       "added": 1719068335.848726,
-      "timestamp": 1719051889.0,
+      "timestamp": 1719138327.0,
       "category": null,
       "categories": [
         "System"
@@ -5373,6 +5387,13 @@
           "version": "v0.22.0",
           "versionCode": 221,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/xhhttp/v0.22.0_221.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1719138327.0,
+          "version": "v0.22.2",
+          "versionCode": 222,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/xhhttp/v0.22.2_222.zip",
           "changelog": ""
         }
       ]
