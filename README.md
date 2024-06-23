@@ -14,6 +14,44 @@ https://magisk-modules-alt-repo.github.io/json-v2/
 mmrl repo add "https://magisk-modules-alt-repo.github.io/json-v2/json/modules.json"
 ```
 
+## Developers
+
+Enhance your modules visibility in MMRL and supported apps! Create a file in `common/repo.json` with the following contents
+
+```json
+{
+  "support": "",
+  "donate": "",
+  "cover": "",
+  "icon": "",
+  "license": "",
+  "homepage": "",
+  "screenshots": [],
+  "category": "",
+  "categories": [],
+  "antifeatures": [],
+  "require": []
+}
+```
+
+| Key           | Attribute | Description                             |
+|---------------|-----------|-----------------------------------------|
+| license       | optional  | [SPDX ID](https://spdx.org/licenses/)   |
+| cover         | optional  | URL                                     |
+| icon          | optional  | URL                                     |
+| screenshots   | optional  | URL[]                                   |
+| antifeatures  | optional  | Str[]                                   |
+| category      | optional  | Str                                     |
+| categories    | optional  | Str[]                                   |
+| homepage      | optional  | URL                                     |
+| support       | optional  | URL                                     |
+| donate        | optional  | URL                                     |
+
+> Non-array properties can also be placed inside the `module.prop` file
+
+> [!IMPORTANT]
+> When you're updating details don't forget to increase the version code otherwise it won't display
+
 ## How to update?
 
 - [magisk-modules-repo-util](https://github.com/Googlers-Repo/magisk-modules-repo-util.git)
