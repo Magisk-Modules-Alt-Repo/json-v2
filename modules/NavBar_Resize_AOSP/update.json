@@ -1,0 +1,13 @@
+{
+  "id": "NavBar_Resize_AOSP",
+  "timestamp": 1661028155.0,
+  "versions": [
+    {
+      "timestamp": 1661028155.0,
+      "version": "v1.1",
+      "versionCode": 11,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NavBar_Resize_AOSP/v1.1_11.zip",
+      "changelog": ""
+    }
+  ]
+}

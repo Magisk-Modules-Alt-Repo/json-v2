@@ -1,0 +1,13 @@
+{
+  "id": "Clash4Magisk",
+  "timestamp": 1663827433.0,
+  "versions": [
+    {
+      "timestamp": 1663827433.0,
+      "version": "1.13.0",
+      "versionCode": 101300022,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Clash4Magisk/1.13.0_101300022.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Clash4Magisk/1.13.0_101300022.md"
+    }
+  ]
+}

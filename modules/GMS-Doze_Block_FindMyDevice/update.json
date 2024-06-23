@@ -1,0 +1,13 @@
+{
+  "id": "GMS-Doze_Block_FindMyDevice",
+  "timestamp": 1683468277.0,
+  "versions": [
+    {
+      "timestamp": 1683468277.0,
+      "version": "v1.4B",
+      "versionCode": 141,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GMS-Doze_Block_FindMyDevice/v1.4B_141.zip",
+      "changelog": ""
+    }
+  ]
+}

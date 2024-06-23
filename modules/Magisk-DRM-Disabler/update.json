@@ -1,0 +1,13 @@
+{
+  "id": "Magisk-DRM-Disabler",
+  "timestamp": 1612778235.0,
+  "versions": [
+    {
+      "timestamp": 1612778235.0,
+      "version": "v1.3.1",
+      "versionCode": 131,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-DRM-Disabler/v1.3.1_131.zip",
+      "changelog": ""
+    }
+  ]
+}

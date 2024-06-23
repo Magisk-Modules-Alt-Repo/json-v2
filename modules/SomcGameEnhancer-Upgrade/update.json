@@ -1,0 +1,13 @@
+{
+  "id": "SomcGameEnhancer-Upgrade",
+  "timestamp": 1663296809.0,
+  "versions": [
+    {
+      "timestamp": 1663296809.0,
+      "version": "v7.0.A.1.20",
+      "versionCode": 14681108,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.md"
+    }
+  ]
+}

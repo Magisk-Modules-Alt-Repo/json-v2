@@ -1,0 +1,13 @@
+{
+  "id": "HideNavBar",
+  "timestamp": 1716752152.0,
+  "versions": [
+    {
+      "timestamp": 1716752152.0,
+      "version": "v27.3",
+      "versionCode": 67,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/v27.3_67.zip",
+      "changelog": ""
+    }
+  ]
+}

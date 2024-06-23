@@ -1,0 +1,13 @@
+{
+  "id": "oneplusdotfix",
+  "timestamp": 1673864734.0,
+  "versions": [
+    {
+      "timestamp": 1673864734.0,
+      "version": "v6.3",
+      "versionCode": 6300,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplusdotfix/v6.3_6300.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplusdotfix/v6.3_6300.md"
+    }
+  ]
+}

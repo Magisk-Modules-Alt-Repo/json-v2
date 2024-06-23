@@ -1,0 +1,13 @@
+{
+  "id": "faina",
+  "timestamp": 1711371168.0,
+  "versions": [
+    {
+      "timestamp": 1711371168.0,
+      "version": "0.1",
+      "versionCode": 1,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/faina/0.1_1.zip",
+      "changelog": ""
+    }
+  ]
+}

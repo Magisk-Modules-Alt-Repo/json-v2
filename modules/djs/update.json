@@ -1,0 +1,13 @@
+{
+  "id": "djs",
+  "timestamp": 1639484648.0,
+  "versions": [
+    {
+      "timestamp": 1639484648.0,
+      "version": "v2021.11.3",
+      "versionCode": 202111030,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/djs/v2021.11.3_202111030.zip",
+      "changelog": ""
+    }
+  ]
+}

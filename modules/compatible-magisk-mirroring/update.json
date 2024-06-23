@@ -1,0 +1,13 @@
+{
+  "id": "compatible-magisk-mirroring",
+  "timestamp": 1713163766.0,
+  "versions": [
+    {
+      "timestamp": 1713163766.0,
+      "version": "v1.1.3",
+      "versionCode": 1103,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/compatible-magisk-mirroring/v1.1.3_1103.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/compatible-magisk-mirroring/v1.1.3_1103.md"
+    }
+  ]
+}

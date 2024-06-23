@@ -1,0 +1,13 @@
+{
+  "id": "ytrevancedinject",
+  "timestamp": 1673704299.0,
+  "versions": [
+    {
+      "timestamp": 1673704299.0,
+      "version": "18.01.36",
+      "versionCode": 4,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ytrevancedinject/18.01.36_4.zip",
+      "changelog": ""
+    }
+  ]
+}

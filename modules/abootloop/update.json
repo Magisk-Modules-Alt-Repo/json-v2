@@ -1,0 +1,13 @@
+{
+  "id": "abootloop",
+  "timestamp": 1718056739.0,
+  "versions": [
+    {
+      "timestamp": 1718056739.0,
+      "version": "v1.3",
+      "versionCode": 4,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3_4.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3_4.md"
+    }
+  ]
+}

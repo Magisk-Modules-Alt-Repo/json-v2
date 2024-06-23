@@ -1,0 +1,13 @@
+{
+  "id": "FluentEmojiMagisk",
+  "timestamp": 1691803198.0,
+  "versions": [
+    {
+      "timestamp": 1691803198.0,
+      "version": "v2023.03.17",
+      "versionCode": 20230317,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/FluentEmojiMagisk/v2023.03.17_20230317.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/FluentEmojiMagisk/v2023.03.17_20230317.md"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "Better-MIUI-Icons",
+  "timestamp": 1615045465.0,
+  "versions": [
+    {
+      "timestamp": 1615045465.0,
+      "version": "MIUI12 v1",
+      "versionCode": 1,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Better-MIUI-Icons/MIUI12_v1_1.zip",
+      "changelog": ""
+    }
+  ]
+}

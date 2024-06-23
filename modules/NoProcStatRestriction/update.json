@@ -1,0 +1,13 @@
+{
+  "id": "NoProcStatRestriction",
+  "timestamp": 1673519027.0,
+  "versions": [
+    {
+      "timestamp": 1673519027.0,
+      "version": "v0.0.2",
+      "versionCode": 2,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NoProcStatRestriction/v0.0.2_2.zip",
+      "changelog": ""
+    }
+  ]
+}

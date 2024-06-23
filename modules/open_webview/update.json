@@ -1,0 +1,13 @@
+{
+  "id": "open_webview",
+  "timestamp": 1709485366.0,
+  "versions": [
+    {
+      "timestamp": 1709485366.0,
+      "version": "2.4.0",
+      "versionCode": 240,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/open_webview/2.4.0_240.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/open_webview/2.4.0_240.md"
+    }
+  ]
+}

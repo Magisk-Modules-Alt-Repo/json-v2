@@ -1,0 +1,13 @@
+{
+  "id": "GoogleDNS4Magisk",
+  "timestamp": 1700979143.0,
+  "versions": [
+    {
+      "timestamp": 1700979143.0,
+      "version": "v2.7f",
+      "versionCode": 27,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GoogleDNS4Magisk/v2.7f_27.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GoogleDNS4Magisk/v2.7f_27.md"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "charch",
+  "timestamp": 1638831717.0,
+  "versions": [
+    {
+      "timestamp": 1638831717.0,
+      "version": "v1.0",
+      "versionCode": 1,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch/v1.0_1.zip",
+      "changelog": ""
+    }
+  ]
+}

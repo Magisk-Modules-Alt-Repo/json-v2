@@ -1,0 +1,13 @@
+{
+  "id": "BuiltIn-BusyBox",
+  "timestamp": 1691527282.0,
+  "versions": [
+    {
+      "timestamp": 1691527282.0,
+      "version": "1.0.7",
+      "versionCode": 107,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/BuiltIn-BusyBox/1.0.7_107.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/BuiltIn-BusyBox/1.0.7_107.md"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "selinux_mode",
+  "timestamp": 1657442127.0,
+  "versions": [
+    {
+      "timestamp": 1657442127.0,
+      "version": "2.6.2",
+      "versionCode": 262,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/selinux_mode/2.6.2_262.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/selinux_mode/2.6.2_262.md"
+    }
+  ]
+}

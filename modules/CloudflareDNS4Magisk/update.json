@@ -1,0 +1,13 @@
+{
+  "id": "CloudflareDNS4Magisk",
+  "timestamp": 1644450020.0,
+  "versions": [
+    {
+      "timestamp": 1644450020.0,
+      "version": "v2.7",
+      "versionCode": 27,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/CloudflareDNS4Magisk/v2.7_27.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/CloudflareDNS4Magisk/v2.7_27.md"
+    }
+  ]
+}

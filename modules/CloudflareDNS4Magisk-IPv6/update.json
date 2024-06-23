@@ -1,0 +1,13 @@
+{
+  "id": "CloudflareDNS4Magisk-IPv6",
+  "timestamp": 1673388915.0,
+  "versions": [
+    {
+      "timestamp": 1673388915.0,
+      "version": "v2.7",
+      "versionCode": 27,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/CloudflareDNS4Magisk-IPv6/v2.7_27.zip",
+      "changelog": ""
+    }
+  ]
+}

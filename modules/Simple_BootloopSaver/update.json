@@ -1,0 +1,13 @@
+{
+  "id": "Simple_BootloopSaver",
+  "timestamp": 1690305811.0,
+  "versions": [
+    {
+      "timestamp": 1690305811.0,
+      "version": "v2",
+      "versionCode": 3,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Simple_BootloopSaver/v2_3.zip",
+      "changelog": ""
+    }
+  ]
+}

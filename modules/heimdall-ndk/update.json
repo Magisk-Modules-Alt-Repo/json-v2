@@ -1,0 +1,13 @@
+{
+  "id": "heimdall-ndk",
+  "timestamp": 1659743807.0,
+  "versions": [
+    {
+      "timestamp": 1659743807.0,
+      "version": "v2.0.2",
+      "versionCode": 202,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/heimdall-ndk/v2.0.2_202.zip",
+      "changelog": ""
+    }
+  ]
+}

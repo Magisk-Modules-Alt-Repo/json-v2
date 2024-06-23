@@ -1,0 +1,13 @@
+{
+  "id": "wifi-bonding-nolog",
+  "timestamp": 1698433306.0,
+  "versions": [
+    {
+      "timestamp": 1698433306.0,
+      "version": "v8",
+      "versionCode": 8,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wifi-bonding-nolog/v8_8.zip",
+      "changelog": ""
+    }
+  ]
+}

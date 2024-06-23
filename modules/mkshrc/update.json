@@ -1,0 +1,13 @@
+{
+  "id": "mkshrc",
+  "timestamp": 1719051786.0,
+  "versions": [
+    {
+      "timestamp": 1719051786.0,
+      "version": "1.5.14",
+      "versionCode": 1514,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/mkshrc/1.5.14_1514.zip",
+      "changelog": ""
+    }
+  ]
+}

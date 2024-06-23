@@ -1,0 +1,13 @@
+{
+  "id": "isodrive",
+  "timestamp": 1693645620.0,
+  "versions": [
+    {
+      "timestamp": 1693645620.0,
+      "version": "2.1",
+      "versionCode": 21,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/isodrive/2.1_21.zip",
+      "changelog": ""
+    }
+  ]
+}

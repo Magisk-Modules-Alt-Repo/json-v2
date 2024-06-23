@@ -1,0 +1,13 @@
+{
+  "id": "smallbattery",
+  "timestamp": 1692753832.0,
+  "versions": [
+    {
+      "timestamp": 1692753832.0,
+      "version": "v1",
+      "versionCode": 1,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/smallbattery/v1_1.zip",
+      "changelog": ""
+    }
+  ]
+}

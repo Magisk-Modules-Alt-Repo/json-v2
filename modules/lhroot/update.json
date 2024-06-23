@@ -1,0 +1,13 @@
+{
+  "id": "lhroot",
+  "timestamp": 1703514265.0,
+  "versions": [
+    {
+      "timestamp": 1703514265.0,
+      "version": "v2.2.0",
+      "versionCode": 1,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/lhroot/v2.2.0_1.zip",
+      "changelog": ""
+    }
+  ]
+}

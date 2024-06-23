@@ -1,0 +1,13 @@
+{
+  "id": "Fdroid-Priv",
+  "timestamp": 1647226419.0,
+  "versions": [
+    {
+      "timestamp": 1647226419.0,
+      "version": "Version 0.2.13",
+      "versionCode": 20220314,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Fdroid-Priv/Version_0.2.13_20220314.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Fdroid-Priv/Version_0.2.13_20220314.md"
+    }
+  ]
+}

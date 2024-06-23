@@ -1,0 +1,13 @@
+{
+  "id": "magisk-autoboot",
+  "timestamp": 1703143514.0,
+  "versions": [
+    {
+      "timestamp": 1703143514.0,
+      "version": "v1.0.1",
+      "versionCode": 10001,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-autoboot/v1.0.1_10001.zip",
+      "changelog": ""
+    }
+  ]
+}

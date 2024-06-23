@@ -1,0 +1,13 @@
+{
+  "id": "gaming",
+  "timestamp": 1603068712.0,
+  "versions": [
+    {
+      "timestamp": 1603068712.0,
+      "version": "vFINAL",
+      "versionCode": 5,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/gaming/vFINAL_5.zip",
+      "changelog": ""
+    }
+  ]
+}

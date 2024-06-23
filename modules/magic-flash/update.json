@@ -1,0 +1,13 @@
+{
+  "id": "magic-flash",
+  "timestamp": 1652933875.0,
+  "versions": [
+    {
+      "timestamp": 1652933875.0,
+      "version": "v1.6",
+      "versionCode": 10006,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magic-flash/v1.6_10006.zip",
+      "changelog": ""
+    }
+  ]
+}

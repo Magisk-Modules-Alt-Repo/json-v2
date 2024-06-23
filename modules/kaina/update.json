@@ -1,0 +1,13 @@
+{
+  "id": "kaina",
+  "timestamp": 1710968944.0,
+  "versions": [
+    {
+      "timestamp": 1710968944.0,
+      "version": "0.1",
+      "versionCode": 1,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/kaina/0.1_1.zip",
+      "changelog": ""
+    }
+  ]
+}

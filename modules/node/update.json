@@ -1,0 +1,13 @@
+{
+  "id": "node",
+  "timestamp": 1719051838.0,
+  "versions": [
+    {
+      "timestamp": 1719051838.0,
+      "version": "1.5.5",
+      "versionCode": 155,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/node/1.5.5_155.zip",
+      "changelog": ""
+    }
+  ]
+}

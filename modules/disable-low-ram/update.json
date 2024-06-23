@@ -1,0 +1,13 @@
+{
+  "id": "disable-low-ram",
+  "timestamp": 1716766415.0,
+  "versions": [
+    {
+      "timestamp": 1716766415.0,
+      "version": "v1",
+      "versionCode": 1,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/disable-low-ram/v1_1.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/disable-low-ram/v1_1.md"
+    }
+  ]
+}

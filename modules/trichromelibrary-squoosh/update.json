@@ -1,0 +1,13 @@
+{
+  "id": "trichromelibrary-squoosh",
+  "timestamp": 1655967999.0,
+  "versions": [
+    {
+      "timestamp": 1655967999.0,
+      "version": "v1.4",
+      "versionCode": 20220623,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/trichromelibrary-squoosh/v1.4_20220623.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/trichromelibrary-squoosh/v1.4_20220623.md"
+    }
+  ]
+}
