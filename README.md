@@ -29,7 +29,6 @@ Enhance your modules visibility in MMRL and supported apps! Create a file in `co
   "screenshots": [],
   "category": "",
   "categories": [],
-  "antifeatures": [],
   "require": []
 }
 ```
@@ -40,7 +39,6 @@ Enhance your modules visibility in MMRL and supported apps! Create a file in `co
 | cover         | optional  | URL                                     |
 | icon          | optional  | URL                                     |
 | screenshots   | optional  | URL[]                                   |
-| antifeatures  | optional  | Str[]                                   |
 | category      | optional  | Str                                     |
 | categories    | optional  | Str[]                                   |
 | homepage      | optional  | URL                                     |
