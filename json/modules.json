@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1719209993.617402
+    "timestamp": 1719232065.520846
   },
   "modules": [
     {
@@ -4296,6 +4296,59 @@
           "version": "v2.1.0",
           "versionCode": 210,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/pixel-tensor-audio-decompressor/v2.1.0_210.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "pmmp",
+      "name": "PocketMine-MP4Android",
+      "version": "1.0.1.5.16.0",
+      "versionCode": 101,
+      "author": "TukangM",
+      "description": "PocketMine-MP 5.16.0 server for Android run natively with compiled php8-arm64!",
+      "added": 1719068160.569835,
+      "timestamp": 1719226505.0,
+      "category": null,
+      "categories": [
+        "Server",
+        "App Additions and Features",
+        "Gaming"
+      ],
+      "icon": "https://tukangm.github.io/asset/img/pocketmine4android/logo.png",
+      "homepage": null,
+      "donate": null,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/pmmp/issues",
+      "cover": "https://tukangm.github.io/asset/img/pocketmine4android/pocketmine.jpg",
+      "screenshots": null,
+      "license": null,
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/main/README.md",
+      "require": null,
+      "verified": false,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1719068160.569835,
+        "license": "MIT",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/pmmp.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/pmmp/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": [],
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/main/README.md",
+        "require": [],
+        "antifeatures": []
+      },
+      "versions": [
+        {
+          "timestamp": 1719226505.0,
+          "version": "1.0.1.5.16.0",
+          "versionCode": 101,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/pmmp/1.0.1.5.16.0_101.zip",
           "changelog": ""
         }
       ]
