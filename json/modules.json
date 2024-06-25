@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1719296397.93906
+    "timestamp": 1719318439.939092
   },
   "modules": [
     {
@@ -1727,12 +1727,12 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v1.1.8",
-      "versionCode": 19,
+      "version": "v1.1.9",
+      "versionCode": 20,
       "author": "\ud835\uddea\ud835\udddc\ud835\udde1\ud835\udded\ud835\udde2\ud835\udde5\ud835\udde7",
       "description": "StevenBlock protects your device from malware and unwanted ads. This Magisk module keeps your browsers and apps safe from malicious content, so you can enjoy a clean and smooth internet experience.",
       "added": 1719068231.151094,
-      "timestamp": 1719138200.075117,
+      "timestamp": 1719318420.926963,
       "category": null,
       "categories": null,
       "icon": null,
@@ -1770,6 +1770,13 @@
           "versionCode": 19,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.1.8_19.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.1.8_19.md"
+        },
+        {
+          "timestamp": 1719318420.926963,
+          "version": "v1.1.9",
+          "versionCode": 20,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.1.9_20.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.1.9_20.md"
         }
       ]
     },
