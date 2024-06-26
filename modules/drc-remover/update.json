@@ -8,6 +8,13 @@
       "versionCode": 1203,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/drc-remover/v1.2.3_1203.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/drc-remover/v1.2.3_1203.md"
+    },
+    {
+      "timestamp": 1719401720.0,
+      "version": "v1.2.4",
+      "versionCode": 1204,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/drc-remover/v1.2.4_1204.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/drc-remover/v1.2.4_1204.md"
     }
   ]
 }
