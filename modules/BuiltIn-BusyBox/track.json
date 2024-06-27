@@ -8,6 +8,9 @@
   "support": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/issues",
   "donate": "https://zgfg.github.io/PayPal.html",
   "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
+  "antifeatures": [
+    "NonFreeNet"
+  ],
   "added": 1719067637.469871,
   "last_update": 1691527282.0,
   "versions": 1
