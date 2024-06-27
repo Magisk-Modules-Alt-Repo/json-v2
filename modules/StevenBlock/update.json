@@ -15,6 +15,13 @@
       "versionCode": 20,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.1.9_20.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.1.9_20.md"
+    },
+    {
+      "timestamp": 1719484395.229848,
+      "version": "v1.2.0",
+      "versionCode": 21,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.0_21.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.0_21.md"
     }
   ]
 }
