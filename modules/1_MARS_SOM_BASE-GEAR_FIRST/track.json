@@ -2,7 +2,7 @@
   "id": "1_MARS_SOM_BASE-GEAR_FIRST",
   "enable": true,
   "verified": false,
-  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST/14/update.json",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST.git",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST/issues",
   "donate": "https://patreon.com/miustone",
