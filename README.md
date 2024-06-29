@@ -25,6 +25,7 @@ Enhance your modules visibility in MMRL and supported apps! Create a file in `co
   "cover": "",
   "icon": "",
   "license": "",
+  "readme": "",
   "homepage": "",
   "screenshots": [],
   "category": "",
@@ -40,6 +41,7 @@ Enhance your modules visibility in MMRL and supported apps! Create a file in `co
 | icon          | optional  | URL                                     |
 | screenshots   | optional  | URL[]                                   |
 | category      | optional  | Str                                     |
+| readme        | optimal   | Str                                     |
 | categories    | optional  | Str[]                                   |
 | homepage      | optional  | URL                                     |
 | support       | optional  | URL                                     |
