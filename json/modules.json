@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1719750358.129235
+    "timestamp": 1719757156.496535
   },
   "modules": [
     {
@@ -3906,12 +3906,12 @@
     {
       "id": "mkshrc",
       "name": "Systemless Mkshrc",
-      "version": "1.5.15",
-      "versionCode": 1515,
+      "version": "1.6.15",
+      "versionCode": 1615,
       "author": "Der_Googler",
       "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
       "added": 1719068059.74496,
-      "timestamp": 1719138340.0,
+      "timestamp": 1719756360.0,
       "category": null,
       "categories": [
         "Coding",
@@ -3964,18 +3964,25 @@
           "versionCode": 1515,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/mkshrc/1.5.15_1515.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1719756360.0,
+          "version": "1.6.15",
+          "versionCode": 1615,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/mkshrc/1.6.15_1615.zip",
+          "changelog": ""
         }
       ]
     },
     {
       "id": "node_on_android",
       "name": "Systemless Node.js",
-      "version": "1.5.6",
-      "versionCode": 156,
+      "version": "1.6.6",
+      "versionCode": 166,
       "author": "Der_Googler",
       "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
       "added": 1719068080.044674,
-      "timestamp": 1719138353.0,
+      "timestamp": 1719753163.0,
       "category": null,
       "categories": [
         "Coding",
@@ -4025,6 +4032,13 @@
           "version": "1.5.6",
           "versionCode": 156,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/node/1.5.6_156.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1719753163.0,
+          "version": "1.6.6",
+          "versionCode": 166,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/node/1.6.6_166.zip",
           "changelog": ""
         }
       ]
