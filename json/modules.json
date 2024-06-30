@@ -6,9 +6,58 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1719685056.859606
+    "timestamp": 1719709732.824551
   },
   "modules": [
+    {
+      "id": "1_MARS_SOM_BASE-GEAR_FIRST",
+      "name": "1_MARS_SOM_BASE-GEAR_FIRST",
+      "version": "231201",
+      "versionCode": 231201,
+      "author": "M1U5T0N3",
+      "description": "M1U5T0N3s ANDROID RESTORATION SOFTWARE BASE. OPTIMIZED DEVICE CONFIGURATIONS FOR ANDROID 14 SNAPDRAGONS.",
+      "added": 1719067576.588606,
+      "timestamp": 1701132905.0,
+      "category": null,
+      "categories": null,
+      "icon": null,
+      "homepage": null,
+      "donate": "https://www.paypal.com/paypalme/miustone",
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST",
+      "cover": null,
+      "screenshots": null,
+      "license": null,
+      "readme": null,
+      "require": null,
+      "verified": false,
+      "track": {
+        "type": "GIT",
+        "added": 1719067576.588606,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST/issues",
+        "donate": "https://patreon.com/miustone",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": [],
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "require": [],
+        "antifeatures": []
+      },
+      "versions": [
+        {
+          "timestamp": 1701132905.0,
+          "version": "231201",
+          "versionCode": 231201,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/1_MARS_SOM_BASE-GEAR_FIRST/231201_231201.zip",
+          "changelog": ""
+        }
+      ]
+    },
     {
       "id": "AFWall-Boot-AntiLeak",
       "name": "AFWall Boot AntiLeak",
