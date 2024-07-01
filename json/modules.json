@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1719859607.761802
+    "timestamp": 1719859945.290044
   },
   "modules": [
     {
@@ -106,6 +106,106 @@
           "versionCode": 4,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/AFWall-Boot-AntiLeak/v1.3_4.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "AdGuardDNS4Magisk",
+      "name": "AdGuardDNS4Magisk",
+      "version": "v2.7f",
+      "versionCode": 27,
+      "author": "Rom, TukangM",
+      "description": "Using the \"Google DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
+      "added": 1719067927.690385,
+      "timestamp": 1700979143.0,
+      "size": 22907,
+      "category": null,
+      "categories": null,
+      "icon": null,
+      "homepage": null,
+      "donate": "https://www.paypal.com/paypalme/romfr",
+      "support": "https://forum.xda-developers.com/t/module-cloudflaredns4magisk.3772375/",
+      "cover": null,
+      "screenshots": null,
+      "license": null,
+      "readme": null,
+      "require": null,
+      "verified": false,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1719067927.690385,
+        "license": "LGPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": [],
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk/main/README.md",
+        "require": [],
+        "antifeatures": []
+      },
+      "versions": [
+        {
+          "timestamp": 1700979143.0,
+          "version": "v2.7f",
+          "versionCode": 27,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GoogleDNS4Magisk/v2.7f_27.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GoogleDNS4Magisk/v2.7f_27.md"
+        }
+      ]
+    },
+    {
+      "id": "AdGuardDNS4Magisk-IPv6",
+      "name": "AdGuardDNS4Magisk-IPv6",
+      "version": "v2.7f",
+      "versionCode": 27,
+      "author": "Rom, TukangM",
+      "description": "Using the \"AdGuard DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
+      "added": 1719067933.340494,
+      "timestamp": 1700978584.0,
+      "size": 23301,
+      "category": null,
+      "categories": null,
+      "icon": null,
+      "homepage": null,
+      "donate": "https://www.paypal.com/paypalme/romfr",
+      "support": "https://forum.xda-developers.com/t/module-cloudflaredns4magisk.3772375/",
+      "cover": null,
+      "screenshots": null,
+      "license": null,
+      "readme": null,
+      "require": null,
+      "verified": false,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1719067933.340494,
+        "license": "LGPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": [],
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6/main/README.md",
+        "require": [],
+        "antifeatures": []
+      },
+      "versions": [
+        {
+          "timestamp": 1700978584.0,
+          "version": "v2.7f",
+          "versionCode": 27,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GoogleDNS4Magisk-IPv6/v2.7f_27.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GoogleDNS4Magisk-IPv6/v2.7f_27.md"
         }
       ]
     },
