@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1719860720.965457
+    "timestamp": 1719861184.220741
   },
   "modules": [
     {
@@ -116,7 +116,7 @@
       "versionCode": 27,
       "author": "Rom, TukangM",
       "description": "Using the \"AdGuard DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
-      "added": 1719067592.668632,
+      "added": 1719067927.690385,
       "timestamp": 1702463873.0,
       "size": 23185,
       "category": null,
@@ -133,7 +133,7 @@
       "verified": false,
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1719067592.668632,
+        "added": 1719067927.690385,
         "license": "LGPL-3.0",
         "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk.git",
@@ -217,7 +217,7 @@
       "versionCode": 27,
       "author": "Rom, TukangM",
       "description": "Using the \"AdGuard DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
-      "added": 1719067598.414523,
+      "added": 1719067933.340494,
       "timestamp": 1702463582.0,
       "size": 9387,
       "category": null,
@@ -234,7 +234,7 @@
       "verified": false,
       "track": {
         "type": "GIT",
-        "added": 1719067598.414523,
+        "added": 1719067933.340494,
         "license": "LGPL-3.0",
         "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6.git",
