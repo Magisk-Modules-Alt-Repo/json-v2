@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1721024535.930132
+    "timestamp": 1721046538.022373
   },
   "modules": [
     {
@@ -1782,13 +1782,13 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v1.2.4",
-      "versionCode": 25,
-      "author": "\ud835\uddea\ud835\udddc\ud835\udde1\ud835\udded\ud835\udde2\ud835\udde5\ud835\udde7",
+      "version": "v1.2.5",
+      "versionCode": 26,
+      "author": "\ud835\udde6\ud835\uddf5\ud835\udddf\ud835\uddf2\ud835\uddff\ud835\udde3",
       "description": "Your digital bodyguard. This Magisk module zaps ads and malware, keeping your apps squeaky clean and your browsing buttery smooth. Surf smart, surf safe! \ud83d\udee1\ufe0f\ud83d\ude80",
       "added": 1719068231.151094,
-      "timestamp": 1720832678.346521,
-      "size": 1107875,
+      "timestamp": 1721046519.319766,
+      "size": 1114729,
       "maxApi": null,
       "minApi": null,
       "category": null,
@@ -1823,14 +1823,6 @@
       },
       "versions": [
         {
-          "timestamp": 1720268670.574783,
-          "version": "v1.2.2",
-          "versionCode": 23,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.2_23.zip",
-          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.2_23.md",
-          "size": 1189001
-        },
-        {
           "timestamp": 1720528101.965505,
           "version": "v1.2.3",
           "versionCode": 24,
@@ -1845,6 +1837,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.4_25.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.4_25.md",
           "size": 1107875
+        },
+        {
+          "timestamp": 1721046519.319766,
+          "version": "v1.2.5",
+          "versionCode": 26,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.5_26.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.5_26.md",
+          "size": 1114729
         }
       ]
     },
