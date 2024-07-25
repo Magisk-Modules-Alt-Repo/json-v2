@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1721910471.994083
+    "timestamp": 1721931546.670058
   },
   "modules": [
     {
@@ -4668,13 +4668,13 @@
     {
       "id": "resampling-for-cheapies",
       "name": "Resampling for cheapies",
-      "version": "v1.0.2",
-      "versionCode": 1002,
+      "version": "v2.0.0",
+      "versionCode": 2000,
       "author": "zyhk",
-      "description": "For avoiding muddy distortion specific to LDAC Bluetooth earphones and DAC's under $30 (probably), this sets special re-sampling at the system-wide mixer.",
+      "description": "For avoiding smoky distortion specific to LDAC Bluetooth earphones and DAC's under $30 (probably), this sets special re-sampling at the system-wide mixer.",
       "added": 1719068178.481958,
-      "timestamp": 1719406668.0,
-      "size": 17107,
+      "timestamp": 1721913090.0,
+      "size": 17925,
       "maxApi": null,
       "minApi": null,
       "category": null,
@@ -4721,6 +4721,14 @@
           "versionCode": 1002,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/resampling-for-cheapies/v1.0.2_1002.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/resampling-for-cheapies/v1.0.2_1002.md"
+        },
+        {
+          "timestamp": 1721913090.0,
+          "version": "v2.0.0",
+          "versionCode": 2000,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/resampling-for-cheapies/v2.0.0_2000.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/resampling-for-cheapies/v2.0.0_2000.md",
+          "size": 17925
         }
       ]
     },
