@@ -2,6 +2,8 @@
 
 This repository stores modules for [MMRL](https://github.com/DerGoogler/MMRL).
 
+To submit your modules, please go to the [submission](https://github.com/Magisk-Modules-Alt-Repo/submission) repository.
+
 ## Add to MMRL
 
 ```
