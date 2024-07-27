@@ -8,6 +8,14 @@
       "versionCode": 106,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/systemless-adblocker/1.6_106.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/systemless-adblocker/1.6_106.md"
+    },
+    {
+      "timestamp": 1722018915.0,
+      "version": "1.7",
+      "versionCode": 107,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/systemless-adblocker/1.7_107.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/systemless-adblocker/1.7_107.md",
+      "size": 474791
     }
   ]
 }

@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1722017959.381473
+    "timestamp": 1722042244.499556
   },
   "modules": [
     {
@@ -5099,13 +5099,13 @@
     {
       "id": "systemless_adblocker",
       "name": "Systemless Adblocker",
-      "version": "1.6",
-      "versionCode": 106,
+      "version": "1.7",
+      "versionCode": 107,
       "author": "burhanverse",
       "description": "An efficient adblocker based out of @gloeyisk's systemless-host module with no user interface & the lastest hosts from github@StevenBlack",
       "added": 1719068242.529812,
-      "timestamp": 1717798630.0,
-      "size": 474288,
+      "timestamp": 1722018915.0,
+      "size": 474791,
       "maxApi": null,
       "minApi": null,
       "category": null,
@@ -5145,6 +5145,14 @@
           "versionCode": 106,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/systemless-adblocker/1.6_106.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/systemless-adblocker/1.6_106.md"
+        },
+        {
+          "timestamp": 1722018915.0,
+          "version": "1.7",
+          "versionCode": 107,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/systemless-adblocker/1.7_107.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/systemless-adblocker/1.7_107.md",
+          "size": 474791
         }
       ]
     },
