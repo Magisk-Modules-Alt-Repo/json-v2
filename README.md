@@ -16,7 +16,7 @@ mmrl repo add "https://magisk-modules-alt-repo.github.io/json-v2/json/modules.js
 
 ## Developers
 
-Enhance your modules visibility in MMRL and supported apps! Create a file in `common/repo.json` with the following contents
+Enhance your modules visibility in MMRL and supported apps! Create a file named `common/repo.json` with the following contents
 
 ```json
 {
