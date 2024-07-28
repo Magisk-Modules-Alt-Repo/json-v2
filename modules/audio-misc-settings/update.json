@@ -8,6 +8,14 @@
       "versionCode": 1307,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v1.3.7_1307.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v1.3.7_1307.md"
+    },
+    {
+      "timestamp": 1722148270.0,
+      "version": "v1.3.8",
+      "versionCode": 1308,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v1.3.8_1308.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v1.3.8_1308.md",
+      "size": 26205
     }
   ]
 }

@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1722147548.991142
+    "timestamp": 1722169534.027558
   },
   "modules": [
     {
@@ -2223,13 +2223,13 @@
     {
       "id": "audio-misc-settings",
       "name": "Audio misc. settings",
-      "version": "v1.3.7",
-      "versionCode": 1307,
+      "version": "v1.3.8",
+      "versionCode": 1308,
       "author": "zyhk",
       "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
       "added": 1719067615.478443,
-      "timestamp": 1718274057.0,
-      "size": 25920,
+      "timestamp": 1722148270.0,
+      "size": 26205,
       "maxApi": null,
       "minApi": null,
       "category": null,
@@ -2269,6 +2269,14 @@
           "versionCode": 1307,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v1.3.7_1307.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v1.3.7_1307.md"
+        },
+        {
+          "timestamp": 1722148270.0,
+          "version": "v1.3.8",
+          "versionCode": 1308,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v1.3.8_1308.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v1.3.8_1308.md",
+          "size": 26205
         }
       ]
     },
@@ -5419,13 +5427,13 @@
     {
       "id": "usb-samplerate-unlocker",
       "name": "USB Samplerate Unlocker",
-      "version": "v1.5.6",
-      "versionCode": 1506,
+      "version": "v1.5.7",
+      "versionCode": 1507,
       "author": "zyhk",
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "added": 1719068317.694499,
-      "timestamp": 1713443976.0,
-      "size": 19613,
+      "timestamp": 1722148008.0,
+      "size": 19661,
       "maxApi": null,
       "minApi": null,
       "category": null,
@@ -5465,6 +5473,14 @@
           "versionCode": 1506,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v1.5.6_1506.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v1.5.6_1506.md"
+        },
+        {
+          "timestamp": 1722148008.0,
+          "version": "v1.5.7",
+          "versionCode": 1507,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v1.5.7_1507.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v1.5.7_1507.md",
+          "size": 19661
         }
       ]
     },

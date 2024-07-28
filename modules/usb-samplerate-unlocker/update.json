@@ -8,6 +8,14 @@
       "versionCode": 1506,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v1.5.6_1506.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v1.5.6_1506.md"
+    },
+    {
+      "timestamp": 1722148008.0,
+      "version": "v1.5.7",
+      "versionCode": 1507,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v1.5.7_1507.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v1.5.7_1507.md",
+      "size": 19661
     }
   ]
 }
