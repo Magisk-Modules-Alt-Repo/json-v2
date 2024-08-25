@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1724523488.020189
+    "timestamp": 1724548329.575734
   },
   "modules": [
     {
@@ -5105,13 +5105,13 @@
     {
       "id": "sqlite3",
       "name": "SQLite for arm, arm64, x86 and x64 devices",
-      "version": "v3.46.0",
-      "versionCode": 20240615,
+      "version": "v3.46.1",
+      "versionCode": 20240825,
       "author": "Rojen Zaman",
       "description": "Provides a statically linked sqlite3 binary for arm, arm64, x86 and x64 devices",
       "added": 1719068225.667242,
-      "timestamp": 1718475131.0,
-      "size": 2578951,
+      "timestamp": 1724538295.0,
+      "size": 2580074,
       "maxApi": null,
       "minApi": null,
       "category": null,
@@ -5152,6 +5152,14 @@
           "versionCode": 20240615,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sqlite3/v3.46.0_20240615.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1724538295.0,
+          "version": "v3.46.1",
+          "versionCode": 20240825,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sqlite3/v3.46.1_20240825.zip",
+          "changelog": "",
+          "size": 2580074
         }
       ]
     },
