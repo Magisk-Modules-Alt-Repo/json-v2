@@ -1,0 +1,14 @@
+{
+  "id": "Magisk-Tailscaled",
+  "timestamp": 1724376294.0,
+  "versions": [
+    {
+      "timestamp": 1724376294.0,
+      "version": "1.72.1.0",
+      "versionCode": 1720100,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-Tailscaled/1.72.1.0_1720100.zip",
+      "changelog": "",
+      "size": 51069456
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1725214742.280026
+    "timestamp": 1725221087.963711
   },
   "modules": [
     {
@@ -3978,6 +3978,60 @@
           "versionCode": 131,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-DRM-Disabler/v1.3.1_131.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "magisk-tailscaled",
+      "name": "Magisk Tailscaled",
+      "version": "1.72.1.0",
+      "versionCode": 1720100,
+      "author": "anasfanani",
+      "description": "Tailscale. The easiest, most secure way to use WireGuard and 2FA.",
+      "added": 1719068021.520897,
+      "timestamp": 1724376294.0,
+      "size": 51069456,
+      "maxApi": null,
+      "minApi": null,
+      "category": null,
+      "categories": null,
+      "icon": null,
+      "homepage": null,
+      "donate": null,
+      "support": null,
+      "cover": null,
+      "screenshots": null,
+      "license": null,
+      "readme": null,
+      "require": null,
+      "verified": false,
+      "note": null,
+      "track": {
+        "type": "GIT",
+        "added": 1719068021.520897,
+        "license": "UNKNOWN",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": [],
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/README.md",
+        "require": [],
+        "antifeatures": []
+      },
+      "versions": [
+        {
+          "timestamp": 1724376294.0,
+          "version": "1.72.1.0",
+          "versionCode": 1720100,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-Tailscaled/1.72.1.0_1720100.zip",
+          "changelog": "",
+          "size": 51069456
         }
       ]
     },
