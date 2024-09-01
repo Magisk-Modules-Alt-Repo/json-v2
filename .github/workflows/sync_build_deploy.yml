@@ -62,12 +62,12 @@ jobs:
 
       # New added modules
       - name: Add module
-        if: ${{ (github.event.inputs.repo_user != '') && (github.event.inputs.repo_name != '') }}
+        if: ${{ github.event.inputs.repo_name != '' }}
         run: |
-          python util/cli.py github --token ${{ secrets.GITHUB_TOKEN }} -u ${{ github.event.inputs.repo_user }} -r ${{ github.event.inputs.repo_name }}
+          python util/cli.py github --token ${{ secrets.GITHUB_TOKEN }} -u Magisk-Modules-Alt-Repo -r ${{ github.event.inputs.repo_name }}
 
       - name: Commit module
-        if: ${{ (github.event.inputs.repo_user != '') && (github.event.inputs.repo_name != '') }}
+        if: ${{ github.event.inputs.repo_name != '' }}
         run: |
           git add modules
           git commit -sm "[MODULE] ${{ github.event.inputs.repo_name }}" || true
