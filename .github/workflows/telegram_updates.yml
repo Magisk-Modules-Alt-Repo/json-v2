@@ -1,0 +1,41 @@
+name: Check for Magisk Module Updates
+
+on:
+   schedule:
+    - cron: '*/30 * * * *'  # Run every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  check-updates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Git
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run update check
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: "@MagiskModulesAltRepo"
+        run: python scripts/telegram_updates.py
+
+      - name: Commit Last Versions
+        run: |
+          git add json/last_versions.json
+          git commit -sm "Update Latest Versions" || true
+          git push || true
