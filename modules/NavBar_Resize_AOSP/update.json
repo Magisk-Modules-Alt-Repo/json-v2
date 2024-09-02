@@ -8,6 +8,14 @@
       "versionCode": 11,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NavBar_Resize_AOSP/v1.1_11.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1725221931.0,
+      "version": "v1.2",
+      "versionCode": 12,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NavBar_Resize_AOSP/v1.2_12.zip",
+      "changelog": "",
+      "size": 19572
     }
   ]
 }

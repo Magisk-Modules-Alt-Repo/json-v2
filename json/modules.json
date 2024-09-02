@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1725221087.963711
+    "timestamp": 1725239469.317059
   },
   "modules": [
     {
@@ -1338,14 +1338,14 @@
     },
     {
       "id": "NavBar_Resize",
-      "name": "36DPI NavBar AOSP",
-      "version": "v1.1",
-      "versionCode": 11,
+      "name": "40DPI NavBar AOSP",
+      "version": "v1.2",
+      "versionCode": 12,
       "author": "CrazyBytesVE",
-      "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores. Probado en ROMs AOSP.",
+      "description": "Barra de Navegaci\u00f3n reducida a 40DPI, compatible con Android 8 y superiores. Probado en ROMs AOSP.",
       "added": 1719068067.809637,
-      "timestamp": 1661028155.0,
-      "size": 19200,
+      "timestamp": 1725221931.0,
+      "size": 19572,
       "maxApi": null,
       "minApi": null,
       "category": null,
@@ -1386,6 +1386,14 @@
           "versionCode": 11,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NavBar_Resize_AOSP/v1.1_11.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1725221931.0,
+          "version": "v1.2",
+          "versionCode": 12,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NavBar_Resize_AOSP/v1.2_12.zip",
+          "changelog": "",
+          "size": 19572
         }
       ]
     },
