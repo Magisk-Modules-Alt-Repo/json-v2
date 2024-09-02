@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1725280287.054528
+    "timestamp": 1725301243.188839
   },
   "modules": [
     {
@@ -3986,6 +3986,60 @@
           "versionCode": 131,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-DRM-Disabler/v1.3.1_131.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "magisk-swapspace",
+      "name": "Magisk SwapSpace",
+      "version": "v2.1",
+      "versionCode": 21,
+      "author": "chickendrop89",
+      "description": "Save memory a bit by swapping some to a disk (magiskswap in terminal)",
+      "added": 1725291379.467831,
+      "timestamp": 1724720362.0,
+      "size": 27216,
+      "maxApi": null,
+      "minApi": null,
+      "category": null,
+      "categories": null,
+      "icon": null,
+      "homepage": null,
+      "donate": null,
+      "support": null,
+      "cover": null,
+      "screenshots": null,
+      "license": null,
+      "readme": null,
+      "require": null,
+      "verified": false,
+      "note": null,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1725291379.467831,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-swapspace.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk-swapspace/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": [],
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/README.md",
+        "require": [],
+        "antifeatures": []
+      },
+      "versions": [
+        {
+          "timestamp": 1724720362.0,
+          "version": "v2.1",
+          "versionCode": 21,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.1_21.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.1_21.md",
+          "size": 27216
         }
       ]
     },
