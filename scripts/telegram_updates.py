@@ -107,7 +107,7 @@ def check_for_module_updates():
                 section_2 = []
 
                 if latest.get("zipUrl"):
-                    section_1.append({'text': '📦 Download', 'url': source})
+                    section_1.append({'text': '📦 Download', 'url': latest.get("zipUrl")})
 
                 if source:
                     support_urls.append({'text': 'Source', 'url': source})
