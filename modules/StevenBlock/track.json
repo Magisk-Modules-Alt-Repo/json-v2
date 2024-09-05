@@ -2,7 +2,7 @@
   "id": "StevenBlock",
   "enable": true,
   "verified": false,
-  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/update.json",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock.git",
   "license": "GPL-2.0",
   "homepage": "https://github.com/mikropsoft/StevenBlock",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock.git",
