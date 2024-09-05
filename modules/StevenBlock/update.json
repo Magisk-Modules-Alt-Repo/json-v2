@@ -3,14 +3,6 @@
   "timestamp": 1719138200.075117,
   "versions": [
     {
-      "timestamp": 1720528101.965505,
-      "version": "v1.2.3",
-      "versionCode": 24,
-      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.3_24.zip",
-      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.3_24.md",
-      "size": 1089037
-    },
-    {
       "timestamp": 1720832678.346521,
       "version": "v1.2.4",
       "versionCode": 25,
@@ -25,6 +17,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.5_26.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.5_26.md",
       "size": 1114729
+    },
+    {
+      "timestamp": 1725468068.0,
+      "version": "v1.3.5",
+      "versionCode": 36,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.3.5_36.zip",
+      "changelog": "",
+      "size": 3571857
     }
   ]
 }
