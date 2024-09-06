@@ -9,14 +9,6 @@
       <lastmod>2021-12-26</lastmod>
    </url>
    <url>
-      <loc>https://mmrl.dergoogler.com/?module=AdGuardDNS4Magisk</loc>
-      <lastmod>2023-11-26</lastmod>
-   </url>
-   <url>
-      <loc>https://mmrl.dergoogler.com/?module=AdGuardDNS4Magisk-IPv6</loc>
-      <lastmod>2023-11-26</lastmod>
-   </url>
-   <url>
       <loc>https://mmrl.dergoogler.com/?module=Better-MIUI-Icons</loc>
       <lastmod>2021-03-06</lastmod>
    </url>
@@ -29,7 +21,7 @@
       <lastmod>2023-08-08</lastmod>
    </url>
    <url>
-      <loc>https://mmrl.dergoogler.com/?module=ByeBlur</loc>
+      <loc>https://mmrl.dergoogler.com/?module=Bye-Blur</loc>
       <lastmod>2024-01-17</lastmod>
    </url>
    <url>
@@ -65,11 +57,11 @@
       <lastmod>2023-08-12</lastmod>
    </url>
    <url>
-      <loc>https://mmrl.dergoogler.com/?module=GMSDoze</loc>
+      <loc>https://mmrl.dergoogler.com/?module=GMS-Doze_Block_FindMyDevice</loc>
       <lastmod>2023-05-07</lastmod>
    </url>
    <url>
-      <loc>https://mmrl.dergoogler.com/?module=GMSDozeBlockFind</loc>
+      <loc>https://mmrl.dergoogler.com/?module=GMSDoze</loc>
       <lastmod>2023-05-07</lastmod>
    </url>
    <url>
@@ -79,6 +71,14 @@
    <url>
       <loc>https://mmrl.dergoogler.com/?module=Google-Sans-Plus</loc>
       <lastmod>2020-08-24</lastmod>
+   </url>
+   <url>
+      <loc>https://mmrl.dergoogler.com/?module=GoogleDNS4Magisk</loc>
+      <lastmod>2023-11-26</lastmod>
+   </url>
+   <url>
+      <loc>https://mmrl.dergoogler.com/?module=GoogleDNS4Magisk-IPv6</loc>
+      <lastmod>2023-11-26</lastmod>
    </url>
    <url>
       <loc>https://mmrl.dergoogler.com/?module=HideNavBar</loc>
@@ -93,6 +93,18 @@
       <lastmod>2020-08-22</lastmod>
    </url>
    <url>
+      <loc>https://mmrl.dergoogler.com/?module=Magisk-Captive-Control</loc>
+      <lastmod>2020-11-05</lastmod>
+   </url>
+   <url>
+      <loc>https://mmrl.dergoogler.com/?module=Magisk-DRM-Disabler</loc>
+      <lastmod>2021-02-08</lastmod>
+   </url>
+   <url>
+      <loc>https://mmrl.dergoogler.com/?module=Magisk-Tailscaled</loc>
+      <lastmod>2024-08-23</lastmod>
+   </url>
+   <url>
       <loc>https://mmrl.dergoogler.com/?module=Malwack</loc>
       <lastmod>2024-06-23</lastmod>
    </url>
@@ -101,11 +113,11 @@
       <lastmod>2024-03-23</lastmod>
    </url>
    <url>
-      <loc>https://mmrl.dergoogler.com/?module=NavBar_Resize</loc>
+      <loc>https://mmrl.dergoogler.com/?module=NavBar_Resize_AOSP</loc>
       <lastmod>2024-09-01</lastmod>
    </url>
    <url>
-      <loc>https://mmrl.dergoogler.com/?module=NavBar_Resize_Miui10-11-12-13</loc>
+      <loc>https://mmrl.dergoogler.com/?module=NavBar_Resize_MIUI</loc>
       <lastmod>2022-10-06</lastmod>
    </url>
    <url>
@@ -131,6 +143,10 @@
    <url>
       <loc>https://mmrl.dergoogler.com/?module=RTKS</loc>
       <lastmod>2022-12-01</lastmod>
+   </url>
+   <url>
+      <loc>https://mmrl.dergoogler.com/?module=Simple_BootloopSaver</loc>
+      <lastmod>2023-07-25</lastmod>
    </url>
    <url>
       <loc>https://mmrl.dergoogler.com/?module=SomcGameEnhancer-Upgrade</loc>
@@ -245,12 +261,8 @@
       <lastmod>2024-03-25</lastmod>
    </url>
    <url>
-      <loc>https://mmrl.dergoogler.com/?module=font-koruri-n</loc>
-      <lastmod>2024-03-24</lastmod>
-   </url>
-   <url>
-      <loc>https://mmrl.dergoogler.com/?module=font-mejiro-oshi</loc>
-      <lastmod>2024-03-24</lastmod>
+      <loc>https://mmrl.dergoogler.com/?module=fbind</loc>
+      <lastmod>2021-12-06</lastmod>
    </url>
    <url>
       <loc>https://mmrl.dergoogler.com/?module=frozen_magisk_app</loc>
@@ -289,20 +301,16 @@
       <lastmod>2023-12-21</lastmod>
    </url>
    <url>
-      <loc>https://mmrl.dergoogler.com/?module=magisk-captive-control</loc>
-      <lastmod>2020-11-05</lastmod>
+      <loc>https://mmrl.dergoogler.com/?module=magisk-module-koruri-font</loc>
+      <lastmod>2024-03-24</lastmod>
    </url>
    <url>
-      <loc>https://mmrl.dergoogler.com/?module=magisk-drm-disabler</loc>
-      <lastmod>2021-02-08</lastmod>
+      <loc>https://mmrl.dergoogler.com/?module=magisk-module-mejiro-font</loc>
+      <lastmod>2024-03-24</lastmod>
    </url>
    <url>
       <loc>https://mmrl.dergoogler.com/?module=magisk-swapspace</loc>
       <lastmod>2024-08-27</lastmod>
-   </url>
-   <url>
-      <loc>https://mmrl.dergoogler.com/?module=magisk-tailscaled</loc>
-      <lastmod>2024-08-23</lastmod>
    </url>
    <url>
       <loc>https://mmrl.dergoogler.com/?module=magisk_overlayfs</loc>
@@ -386,10 +394,6 @@
       <lastmod>2024-02-12</lastmod>
    </url>
    <url>
-      <loc>https://mmrl.dergoogler.com/?module=simple_bootloopsaver</loc>
-      <lastmod>2023-07-25</lastmod>
-   </url>
-   <url>
       <loc>https://mmrl.dergoogler.com/?module=smallbattery</loc>
       <lastmod>2023-08-23</lastmod>
    </url>
@@ -402,7 +406,7 @@
       <lastmod>2023-03-15</lastmod>
    </url>
    <url>
-      <loc>https://mmrl.dergoogler.com/?module=systemless_adblocker</loc>
+      <loc>https://mmrl.dergoogler.com/?module=systemless-adblocker</loc>
       <lastmod>2024-07-26</lastmod>
    </url>
    <url>
@@ -434,11 +438,7 @@
       <lastmod>2020-08-21</lastmod>
    </url>
    <url>
-      <loc>https://mmrl.dergoogler.com/?module=vr25.fbind</loc>
-      <lastmod>2021-12-06</lastmod>
-   </url>
-   <url>
-      <loc>https://mmrl.dergoogler.com/?module=wifi-bonding</loc>
+      <loc>https://mmrl.dergoogler.com/?module=wifi-bonding-nolog</loc>
       <lastmod>2023-10-27</lastmod>
    </url>
    <url>
