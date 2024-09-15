@@ -8,6 +8,14 @@
       "versionCode": 1,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/faina/0.1_1.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1711371168.0,
+      "version": "v1",
+      "versionCode": 1000,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/faina/v1_1000.zip",
+      "changelog": "",
+      "size": 5146
     }
   ]
 }
