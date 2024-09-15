@@ -8,6 +8,14 @@
       "versionCode": 1,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Better-MIUI-Icons/MIUI12_v1_1.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1615045465.0,
+      "version": "v2.0",
+      "versionCode": 2,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Better-MIUI-Icons/v2.0_2.zip",
+      "changelog": "",
+      "size": 8535855
     }
   ]
 }
