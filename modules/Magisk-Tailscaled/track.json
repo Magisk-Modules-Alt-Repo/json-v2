@@ -3,7 +3,7 @@
   "enable": true,
   "verified": false,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/update.json",
-  "license": "UNKNOWN",
+  "license": "BSD-3-Clause-Clear",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/issues",
   "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/README.md",
