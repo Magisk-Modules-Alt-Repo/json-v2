@@ -8,6 +8,14 @@
       "versionCode": 3,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Bye-Blur/v3_3.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1705505468.0,
+      "version": "v1.3",
+      "versionCode": 4,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Bye-Blur/v1.3_4.zip",
+      "changelog": "",
+      "size": 3679
     }
   ]
 }

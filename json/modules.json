@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1726576234.218679
+    "timestamp": 1726597270.022291
   },
   "modules": [
     {
@@ -209,6 +209,14 @@
           "versionCode": 3,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Bye-Blur/v3_3.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1705505468.0,
+          "version": "v1.3",
+          "versionCode": 4,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Bye-Blur/v1.3_4.zip",
+          "changelog": "",
+          "size": 3679
         }
       ]
     },
@@ -2231,6 +2239,14 @@
           "versionCode": 5,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/gaming/vFINAL_5.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1603068712.0,
+          "version": "v2021.12.6",
+          "versionCode": 202112060,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/gaming/v2021.12.6_202112060.zip",
+          "changelog": "",
+          "size": 248018
         }
       ]
     },
