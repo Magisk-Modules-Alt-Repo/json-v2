@@ -20,7 +20,7 @@ mmrl repo add "https://magisk-modules-alt-repo.github.io/json-v2/json/modules.js
 
 Enhance your modules visibility in MMRL and supported apps! Create a file named `common/repo.json` with the following contents
 
-```json
+```jsonc
 {
   "support": "",
   "donate": "",
@@ -32,24 +32,39 @@ Enhance your modules visibility in MMRL and supported apps! Create a file named 
   "screenshots": [],
   "category": "",
   "categories": [],
-  "require": []
+  "require": [],
+  "note": {
+    "title": "str", // optional
+    "color": "red,blue,yellow,green", // optional
+    "message": "str" // required if note is defined
+  },
+  "root": {
+    "kernelsu": ">= 1.0.0",
+    "magisk": ">= 24.0
+  }
 }
 ```
 
-| Key           | Attribute | Description                             |
-|---------------|-----------|-----------------------------------------|
-| license       | optional  | [SPDX ID](https://spdx.org/licenses/)   |
-| cover         | optional  | URL                                     |
-| icon          | optional  | URL                                     |
-| screenshots   | optional  | URL[]                                   |
-| category      | optional  | Str                                     |
-| readme        | optimal   | Str                                     |
-| categories    | optional  | Str[]                                   |
-| homepage      | optional  | URL                                     |
-| support       | optional  | URL                                     |
-| donate        | optional  | URL                                     |
 
-> Non-array properties can also be placed inside the `module.prop` file
+| Key          | Attribute | Type                                                                                                     | Description                                        |
+| ------------ | --------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| homepage     | optional  | Str                                                                                                      | URL                                                |
+| readme       | optional  | Str                                                                                                      | URL with e.g. description, instructions            |
+| support      | optional  | Str                                                                                                      | URL to issue tracker/support forum                 |
+| donate       | optional  | Str                                                                                                      | URL to donation page                               |
+| cover        | optional  | Str                                                                                                      | URL to cover image (featureGraphic)                |
+| icon         | optional  | Str                                                                                                      | URL to icon.png (squared, max 512x512 px)          |
+| screenshots  | optional  | Str[]                                                                                                    | URLs to screenshots of the module                  |
+| license      | optional  | Str                                                                                                      | SPDX identifier (see below)                        |
+| antifeatures | optional  | Str[]                                                                                                    | potentially unwanted "features" (see below)        |
+| category     | optional  | Str                                                                                                      | category the module belongs to (deprecated)        |
+| categories   | optional  | Str[]                                                                                                    | array of categories the module belongs to          |
+| require      | optional  | Str[]                                                                                                    | array of `module_id`s this module depends on       |
+| note         | optional  | [Note](https://github.com/Googlers-Repo/magisk-modules-repo-util/blob/main/sync/model/ModuleNote.pyi)    | additional notes for the module                    |
+| root         | optional  | [Root](https://github.com/Googlers-Repo/magisk-modules-repo-util/blob/main/sync/model/RootSolutions.pyi) | defined min version for Magisk, KernelSU or APatch |
+
+
+> Non-array and non-object properties can also be placed inside the `module.prop` file
 
 > [!IMPORTANT]
 > When you're updating details don't forget to increase the version code otherwise it won't display
