@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1726813338.385833
+    "timestamp": 1726835446.359108
   },
   "modules": [
     {
@@ -3766,6 +3766,14 @@
           "versionCode": 4,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ytrevancedinject/18.01.36_4.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1673704299.0,
+          "version": "v0.2.28.231657",
+          "versionCode": 29,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ytrevancedinject/v0.2.28.231657_29.zip",
+          "changelog": "",
+          "size": 28630027
         }
       ]
     }
