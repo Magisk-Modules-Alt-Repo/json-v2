@@ -40,7 +40,7 @@ Enhance your modules visibility in MMRL and supported apps! Create a file named 
   },
   "root": {
     "kernelsu": ">= 1.0.0",
-    "magisk": ">= 24.0
+    "magisk": ">= 24.0"
   }
 }
 ```
