@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1726835446.359108
+    "timestamp": 1726856467.632968
   },
   "modules": [
     {
@@ -3622,6 +3622,14 @@
           "versionCode": 2,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/vintf-bypass/v1.1_2.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1598025275.0,
+          "version": "v1.5.7",
+          "versionCode": 1507,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/vintf-bypass/v1.5.7_1507.zip",
+          "changelog": "",
+          "size": 17311
         }
       ]
     },

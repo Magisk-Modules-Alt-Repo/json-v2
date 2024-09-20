@@ -8,6 +8,14 @@
       "versionCode": 2,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/vintf-bypass/v1.1_2.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1598025275.0,
+      "version": "v1.5.7",
+      "versionCode": 1507,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/vintf-bypass/v1.5.7_1507.zip",
+      "changelog": "",
+      "size": 17311
     }
   ]
 }
