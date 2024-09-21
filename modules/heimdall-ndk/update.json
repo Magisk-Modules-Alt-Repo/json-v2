@@ -8,6 +8,14 @@
       "versionCode": 202,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/heimdall-ndk/v2.0.2_202.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1659743807.0,
+      "version": "v1.6",
+      "versionCode": 10006,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/heimdall-ndk/v1.6_10006.zip",
+      "changelog": "",
+      "size": 2464348
     }
   ]
 }
