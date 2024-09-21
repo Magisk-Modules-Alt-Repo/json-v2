@@ -5,21 +5,21 @@ import io
 import asyncio
 import os
 
-TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
-TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 main_data = {}
-with open('json/modules.json') as f:
+with open("json/modules.json") as f:
     main_data = json.load(f)
 
 async def send_telegram_message(message, buttons):
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     payload = {
-        'chat_id': TELEGRAM_CHAT_ID,
-        'text': message,
-        'parse_mode': 'HTML',
-        'reply_markup': json.dumps({
-            'inline_keyboard': buttons
+        "chat_id": TELEGRAM_CHAT_ID,
+        "text": message,
+        "parse_mode": "HTML",
+        "reply_markup": json.dumps({
+            "inline_keyboard": buttons
         })
     }
     
@@ -33,10 +33,31 @@ async def send_telegram_message(message, buttons):
     except Exception as err:
         print(f"An error occurred: {err}")
         
-    return "Done"
+    return response
+
+async def set_telegram_reactions(message_id, reaction):
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/setMessageReaction"
+    payload = {
+        "chat_id": TELEGRAM_CHAT_ID,
+        "message_id": message_id,
+        "reaction": json.dumps(reaction),
+        "is_big" :"true",
+    }
+
+    try:
+        response = requests.post(url, data=payload)
+        response.raise_for_status()
+        print(f"Successfully set reactions: {reaction}")
+    except requests.exceptions.HTTPError as http_err:
+        print(f"HTTP error occurred: {http_err}")
+        print(f"Response: {response.text}")
+    except Exception as err:
+        print(f"An error occurred: {err}")
+        
+    return response
+
 
 async def send_telegram_photo(photo_url, caption, buttons):
-    """Send a photo from a URL with a caption to a Telegram chat."""
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
 
     response = requests.get(photo_url)
@@ -45,15 +66,15 @@ async def send_telegram_photo(photo_url, caption, buttons):
     image_file = io.BytesIO(response.content)
     
     payload = {
-        'chat_id': TELEGRAM_CHAT_ID,
-        'caption': caption,
-        'parse_mode': 'HTML',
-        'reply_markup': json.dumps({
-            'inline_keyboard': buttons
+        "chat_id": TELEGRAM_CHAT_ID,
+        "caption": caption,
+        "parse_mode": "HTML",
+        "reply_markup": json.dumps({
+            "inline_keyboard": buttons
         })
     }
     files = {
-        'photo': ('image.jpg', image_file, 'image/jpeg')
+        "photo": ("image.jpg", image_file, "image/jpeg")
     }
 
     try:
@@ -66,14 +87,14 @@ async def send_telegram_photo(photo_url, caption, buttons):
     except Exception as err:
         print(f"An error occurred: {err}")
         
-    return "Done"
+    return response
 
 def check_for_module_updates():
     try:
         last_versions = {}
         
         try:
-            with open('json/last_versions.json', 'r') as f:
+            with open("json/last_versions.json", "r") as f:
                 last_versions = json.load(f)
         except FileNotFoundError:
             pass
@@ -91,44 +112,87 @@ def check_for_module_updates():
             latest = module.get("versions")[-1]
  
             if id not in last_versions or last_versions[id] != version_code:
-                message = f"""<b>{name}</b>
-<i>Version:</i> {version} ({version_code})
+                def get_note():
+                    if module.get("note") and module.get("note").get("message"):
+                        return [[""], [f"<blockquote>{module.get('note').get('message')}</blockquote>"], [""]]
+                    else:
+                        return [[""]]
+                
+                def get_root():
+                    if module.get("root"):
+                        msu = module.get("root").get("magisk")
+                        ksu = module.get("root").get("kernelsu")
+                        asu = module.get("root").get("apatch")
+                        
+                        arry = []
+                        
+                        if msu:
+                            arry.append([" •", "<a href=\"https://github.com/topjohnwu/Magisk/releases\">Magisk</a>", msu])
+                        if ksu:
+                            arry.append([" •", "<a href=\"https://github.com/tiann/KernelSU/releases\">KernelSU</a>", ksu])
+                        if asu:
+                            arry.append([" •", "<a href=\"https://github.com/bmax121/APatch/releases\">APatch</a>", asu])
+                        
+                        return [["Requirements:"], *arry, [""]]
+                    else:
+                        return [[None]]
+                
+                
+                rows = [
+                    [f"<b>{name}</b>"],
+                    ["<i>Version:</i>", version, f"({version_code})"],
+                    [""],
+                    ["📃", desc],
+                    *get_note(),
+                    *get_root(),
+                    ["<b>By:</b>", author],
+                    ["<b>Follow:</b>", "@MagiskModulesAltRepo"]
+                   
+                ]
 
-{f"""📃 {desc}
 
-<blockquote>{module.get("note").get("message")}</blockquote>""" if module.get("note") and module.get("note").get("message") else f"📃 {desc}"}
+                filtered_rows = [row for row in rows if row != [None] and None not in row]
+                parsed_message = "\n".join([" ".join(row) for row in filtered_rows])
 
-<b>By:</b> {author}
-<b>Follow:</b> @MagiskModulesAltRepo
-"""
-
+                # debug
+                #print(parsed_message)
+                
                 section_1 = []
                 support_urls = []
                 section_2 = []
 
                 if latest.get("zipUrl"):
-                    section_1.append({'text': '📦 Download', 'url': latest.get("zipUrl")})
+                    section_1.append({"text": "📦 Download", "url": latest.get("zipUrl")})
 
                 if source:
-                    support_urls.append({'text': 'Source', 'url': source})
+                    support_urls.append({"text": "Source", "url": source})
                 if support:
-                    support_urls.append({'text': 'Support', 'url': support})
+                    support_urls.append({"text": "Support", "url": support})
                 if donate:
-                    section_2.append({'text': 'Donate', 'url': donate})
+                    section_2.append({"text": "Donate", "url": donate})
 
-                buttons = [section_1,support_urls,section_2]
+                buttons = [section_1, support_urls, section_2]
 
                 if not module.get("cover"):
-                    result = asyncio.run(send_telegram_message(message, buttons))
+                    result = asyncio.run(send_telegram_message(parsed_message, buttons))
                 else:
-                    result = asyncio.run(send_telegram_photo(module.get("cover"), message, buttons))
+                    result = asyncio.run(send_telegram_photo(module.get("cover"), parsed_message, buttons))
                     
                 last_versions[id] = version_code
 
-                print(result)
+                res = result.json()
 
-        with open('json/last_versions.json', 'w') as f:
-            json.dump(last_versions, f)
+                reactions = [{
+                    "type": "emoji",
+                    "emoji": "🔥"
+                }]
+                
+                asyncio.run(set_telegram_reactions(res.get("result").get("message_id"), reactions))
+
+                print("Send")
+
+        with open("json/last_versions.json", "w") as f:
+           json.dump(last_versions, f, indent=4)
 
     except Exception as e:
         print(f"Error: {e}")
