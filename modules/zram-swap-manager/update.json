@@ -1,0 +1,14 @@
+{
+  "id": "zram-swap-manager",
+  "timestamp": 1641720621.0,
+  "versions": [
+    {
+      "timestamp": 1641720621.0,
+      "version": "v15.0.2",
+      "versionCode": 1502,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/zram-swap-manager/v15.0.2_1502.zip",
+      "changelog": "",
+      "size": 29341
+    }
+  ]
+}
