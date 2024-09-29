@@ -25,6 +25,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/chroot-distro/1.1.4_6.zip",
       "changelog": "",
       "size": 688931
+    },
+    {
+      "timestamp": 1727548125.0,
+      "version": "1.1.5",
+      "versionCode": 7,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/chroot-distro/1.1.5_7.zip",
+      "changelog": "",
+      "size": 689090
     }
   ]
 }
