@@ -47,7 +47,7 @@
     "charch_dinit": 2,
     "charch_openrc": 2,
     "charch_sshd": 1,
-    "chroot-distro": 6,
+    "chroot-distro": 7,
     "cmdpatch": 1,
     "compatible-magisk-mirroring": 1103,
     "custom-certificate-authorities": 101,
