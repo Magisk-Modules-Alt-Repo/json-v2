@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1728282223.940608
+    "timestamp": 1728304376.39675
   },
   "modules": [
     {
@@ -2873,17 +2873,17 @@
     {
       "id": "oneplusdotfix",
       "name": "OnePlus 5/5T DotFix",
-      "version": "v6.3",
-      "versionCode": 6300,
-      "author": "Arnova8G2, defcomg, MrAimenify, shadowstep",
-      "description": "This module replaces the necessary camera libraries with modified ones which fix the Dotted Pattern Overlay issue, Front Camera HDR-Enhanced as well as Portrait Mode using the Google Camera Mod on the OnePlus 5/5T",
+      "version": "v7.0",
+      "versionCode": 7000,
+      "author": "shadowstep @ XDA",
+      "description": "This module replaces the necessary camera libraries with modified ones which fix various issues using the Google Camera Mod on the OnePlus 5/5T.",
       "added": 1719068114.940889,
       "support": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix/issues",
       "license": "GPL-2.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplusdotfix/master/README.md",
       "verified": false,
-      "timestamp": 1673864734.0,
-      "size": 2392656,
+      "timestamp": 1728300864.0,
+      "size": 2586885,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -2897,6 +2897,14 @@
           "versionCode": 6300,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplusdotfix/v6.3_6300.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplusdotfix/v6.3_6300.md"
+        },
+        {
+          "timestamp": 1728300864.0,
+          "version": "v7.0",
+          "versionCode": 7000,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplusdotfix/v7.0_7000.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplusdotfix/v7.0_7000.md",
+          "size": 2586885
         }
       ]
     },
