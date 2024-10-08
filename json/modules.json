@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1728368594.547281
+    "timestamp": 1728390622.005269
   },
   "modules": [
     {
@@ -747,6 +747,14 @@
           "versionCode": 1,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Luz-Nocturna_Modded/v1.0_1.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1661027636.0,
+          "version": "231201",
+          "versionCode": 231201,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Luz-Nocturna_Modded/231201_231201.zip",
+          "changelog": "",
+          "size": 18854
         }
       ]
     },
