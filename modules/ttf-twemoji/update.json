@@ -8,6 +8,14 @@
       "versionCode": 1502,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ttf-twemoji/v15.0.2_1502.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1701825089.0,
+      "version": "v3.46.1",
+      "versionCode": 20240825,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ttf-twemoji/v3.46.1_20240825.zip",
+      "changelog": "",
+      "size": 5663280
     }
   ]
 }
