@@ -8,6 +8,14 @@
       "versionCode": 1,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/cmdpatch/v1.0_1.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1598574218.0,
+      "version": "v1.2.4",
+      "versionCode": 1204,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/cmdpatch/v1.2.4_1204.zip",
+      "changelog": "",
+      "size": 16024
     }
   ]
 }
