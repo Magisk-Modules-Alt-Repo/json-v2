@@ -8,6 +8,14 @@
       "versionCode": 101,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/custom-certificate-authorities/v1.0.1_101.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1644751003.0,
+      "version": "v1.1.3",
+      "versionCode": 1103,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/custom-certificate-authorities/v1.1.3_1103.zip",
+      "changelog": "",
+      "size": 18191
     }
   ]
 }
