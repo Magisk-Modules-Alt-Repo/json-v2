@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1729254699.40256
+    "timestamp": 1729275721.865004
   },
   "modules": [
     {
@@ -116,6 +116,14 @@
           "version": "v5.3",
           "versionCode": 530,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Better-MIUI-Icons/v5.3_530.zip",
+          "changelog": "",
+          "size": 8535855
+        },
+        {
+          "timestamp": 1615045465.0,
+          "version": "231201",
+          "versionCode": 231201,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Better-MIUI-Icons/231201_231201.zip",
           "changelog": "",
           "size": 8535855
         }
