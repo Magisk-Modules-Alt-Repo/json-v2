@@ -8,6 +8,14 @@
       "versionCode": 101,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/pmmp/1.0.1.5.16.0_101.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1729309481.0,
+      "version": "1.0.2.5.19.0",
+      "versionCode": 102,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/pmmp/1.0.2.5.19.0_102.zip",
+      "changelog": "",
+      "size": 18557824
     }
   ]
 }
