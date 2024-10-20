@@ -2,10 +2,13 @@
   "id": "enable-blurs",
   "enable": true,
   "verified": false,
-  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/enable-blurs/main/update.json",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/enable-blurs.git",
   "license": "AGPL-3.0",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/enable-blurs.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/enable-blurs/issues",
   "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/enable-blurs/main/README.md",
+  "note": {
+     "message": "This module might conflicts with Magisk-Modules-Alt-Repo/Bye-Blur.\nThis note was set by an moderator of the Magisk Modules Alt Repo"
+  },
   "added": 1729430919.897128
 }
