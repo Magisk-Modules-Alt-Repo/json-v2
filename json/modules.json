@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1729427438.764518
+    "timestamp": 1729431364.819948
   },
   "modules": [
     {
@@ -207,6 +207,9 @@
       "added": 1719067708.052639,
       "support": "https://github.com/Magisk-Modules-Alt-Repo/Bye-Blur/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Bye-Blur/main/README.md",
+      "note": {
+        "message": "This module might conflicts with Magisk-Modules-Alt-Repo/enable-blurs.\nThis note was set by an moderator of the Magisk Modules Alt Repo"
+      },
       "verified": false,
       "timestamp": 1705505468.0,
       "size": 3679,
@@ -2192,6 +2195,43 @@
           "versionCode": 1204,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/drc-remover/v1.2.4_1204.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/drc-remover/v1.2.4_1204.md"
+        }
+      ]
+    },
+    {
+      "id": "enable-blurs",
+      "name": "Enable Blurs",
+      "version": "3",
+      "versionCode": 3,
+      "author": "HeyItsJono",
+      "description": "More extensive blur enabler for Magisk, built specifically with the Pixel 5 in mind.",
+      "added": 1729430919.897128,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/enable-blurs/issues",
+      "license": "AGPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/enable-blurs/main/README.md",
+      "note": {
+        "message": "This module might conflicts with Magisk-Modules-Alt-Repo/Bye-Blur.\nThis note was set by an moderator of the Magisk Modules Alt Repo"
+      },
+      "verified": false,
+      "timestamp": 1729109800.0,
+      "size": 15220,
+      "features": {
+        "service": true,
+        "resetprop": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1729430919.897128,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/enable-blurs.git"
+      },
+      "versions": [
+        {
+          "timestamp": 1729109800.0,
+          "version": "3",
+          "versionCode": 3,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/enable-blurs/3_3.zip",
+          "changelog": "",
+          "size": 15220
         }
       ]
     },
