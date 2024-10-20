@@ -124,5 +124,6 @@
     "magisk-module-koruri-font": 28,
     "magisk-module-mejiro-font": 22,
     "systemless-adblocker": 107,
-    "wifi-bonding-nolog": 8
+    "wifi-bonding-nolog": 8,
+    "enable-blurs": 3
 }
