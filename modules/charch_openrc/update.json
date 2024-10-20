@@ -8,6 +8,14 @@
       "versionCode": 2,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch_openrc/v1.1_2.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1600642258.0,
+      "version": "v27.3",
+      "versionCode": 67,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch_openrc/v27.3_67.zip",
+      "changelog": "",
+      "size": 15195
     }
   ]
 }
