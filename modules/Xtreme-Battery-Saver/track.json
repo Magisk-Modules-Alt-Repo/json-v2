@@ -1,0 +1,11 @@
+{
+  "id": "Xtreme-Battery-Saver",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/main/update.json",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/main/README.md",
+  "added": 1729804427.076371
+}
