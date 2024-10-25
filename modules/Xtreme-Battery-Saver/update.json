@@ -1,0 +1,14 @@
+{
+  "id": "Xtreme-Battery-Saver",
+  "timestamp": 1729819103.964432,
+  "versions": [
+    {
+      "timestamp": 1729819103.964432,
+      "version": "v1.0.3",
+      "versionCode": 103,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v1.0.3_103.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v1.0.3_103.md",
+      "size": 991352
+    }
+  ]
+}
