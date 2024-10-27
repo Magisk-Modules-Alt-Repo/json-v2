@@ -16,6 +16,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch_sshd/v1.1_2.zip",
       "changelog": "",
       "size": 15151
+    },
+    {
+      "timestamp": 1600642223.0,
+      "version": "v27.3",
+      "versionCode": 67,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch_sshd/v27.3_67.zip",
+      "changelog": "",
+      "size": 15151
     }
   ]
 }
