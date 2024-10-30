@@ -8,6 +8,14 @@
       "versionCode": 1008,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-jitter-silencer/v1.0.8_1008.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-jitter-silencer/v1.0.8_1008.md"
+    },
+    {
+      "timestamp": 1719564654.0,
+      "version": "v1.3.9",
+      "versionCode": 1309,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-jitter-silencer/v1.3.9_1309.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-jitter-silencer/v1.3.9_1309.md",
+      "size": 20160
     }
   ]
 }
