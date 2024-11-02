@@ -8,6 +8,10 @@
   "source": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/issues",
   "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/README.md",
+  "note": {
+    "title": "Deprecated",
+    "message": "The module owner has achieved his module. Support is limited."
+  },
   "added": 1719068253.900527,
   "last_update": 1643775613.0,
   "versions": 1
