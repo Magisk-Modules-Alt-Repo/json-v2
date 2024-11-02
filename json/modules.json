@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1730581021.081509
+    "timestamp": 1730581373.857885
   },
   "modules": [
     {
@@ -3662,6 +3662,10 @@
       "support": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/issues",
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/README.md",
+      "note": {
+        "title": "Deprecated",
+        "message": "The module owner has achieved his module. Support is limited."
+      },
       "verified": false,
       "timestamp": 1643775613.0,
       "size": 16545,
