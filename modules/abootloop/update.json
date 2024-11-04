@@ -16,6 +16,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3.1_5.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3.1_5.md",
       "size": 4574
+    },
+    {
+      "timestamp": 1730660996.0,
+      "version": "v1.3.2",
+      "versionCode": 6,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3.2_6.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3.2_6.md",
+      "size": 5316
     }
   ]
 }

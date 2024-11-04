@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1730658057.362887
+    "timestamp": 1730682963.539456
   },
   "modules": [
     {
@@ -1539,17 +1539,19 @@
     {
       "id": "abootloop",
       "name": "Anti bootloop",
-      "version": "v1.3.1",
-      "versionCode": 5,
+      "version": "v1.3.2",
+      "versionCode": 6,
       "author": "nedorazrab0",
-      "description": "Protection from bootloop",
+      "description": "Bootloop protection",
       "added": 1719067581.595615,
+      "category": "Bootloop protection",
+      "homepage": "https://github.com/Magisk-Modules-Alt-Repo/abootloop",
       "support": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/issues",
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
       "verified": false,
-      "timestamp": 1721435287.0,
-      "size": 4574,
+      "timestamp": 1730660996.0,
+      "size": 5316,
       "features": {
         "service": true,
         "post_fs_data": true
@@ -1574,6 +1576,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3.1_5.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3.1_5.md",
           "size": 4574
+        },
+        {
+          "timestamp": 1730660996.0,
+          "version": "v1.3.2",
+          "versionCode": 6,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3.2_6.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3.2_6.md",
+          "size": 5316
         }
       ]
     },
@@ -3830,8 +3840,8 @@
       "license": "AGPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
       "verified": false,
-      "timestamp": 1722148008.0,
-      "size": 19661,
+      "timestamp": 1729236859.0,
+      "size": 19770,
       "features": {
         "post_fs_data": true,
         "resetprop": true
@@ -3856,6 +3866,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v1.5.7_1507.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v1.5.7_1507.md",
           "size": 19661
+        },
+        {
+          "timestamp": 1729236859.0,
+          "version": "v3.47.0",
+          "versionCode": 20241023,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v3.47.0_20241023.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v3.47.0_20241023.md",
+          "size": 19770
         }
       ]
     },
