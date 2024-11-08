@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1731069072.059446
+    "timestamp": 1731090071.933461
   },
   "modules": [
     {
@@ -1200,6 +1200,14 @@
           "versionCode": 1,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1_1.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1645367235.0,
+          "version": "v1.0.0",
+          "versionCode": 100,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1.0.0_100.zip",
+          "changelog": "",
+          "size": 9299
         }
       ]
     },
