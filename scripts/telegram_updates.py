@@ -184,7 +184,7 @@ def check_for_module_updates():
 
                 reactions = [{
                     "type": "emoji",
-                    "emoji": "🔥"
+                    "emoji": "👍"
                 }]
                 
                 asyncio.run(set_telegram_reactions(res.get("result").get("message_id"), reactions))
