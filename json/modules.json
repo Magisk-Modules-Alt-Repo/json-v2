@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1731478958.636622
+    "timestamp": 1731501125.796401
   },
   "modules": [
     {
@@ -1557,6 +1557,14 @@
           "versionCode": 1,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YAKT/v10_1.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1693126069.0,
+          "version": "v27.3",
+          "versionCode": 67,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YAKT/v27.3_67.zip",
+          "changelog": "",
+          "size": 6262
         }
       ]
     },
