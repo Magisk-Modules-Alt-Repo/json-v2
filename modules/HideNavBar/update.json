@@ -8,6 +8,14 @@
       "versionCode": 67,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/v27.3_67.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1731788534.0,
+      "version": "v27.5",
+      "versionCode": 68,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/v27.5_68.zip",
+      "changelog": "",
+      "size": 11527719
     }
   ]
 }
