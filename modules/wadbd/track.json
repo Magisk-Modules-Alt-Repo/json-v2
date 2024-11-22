@@ -1,0 +1,10 @@
+{
+  "id": "wadbd",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/wadbd.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/wadbd.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/main/README.md",
+  "added": 1732300680.547536
+}
