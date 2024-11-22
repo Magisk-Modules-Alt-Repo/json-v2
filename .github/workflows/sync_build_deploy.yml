@@ -99,7 +99,7 @@ jobs:
       - name: Index, Sitemap and Push
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
-          python util/cli.py sitemap --base-url "https://mmrl.dergoogler.com/?module=" -o json/mmrl-sitemap.xml
+          python util/cli.py sitemap --base-url "https://mmrl.dergoogler.com/module/" -o json/mmrl-sitemap.xml
           python util/cli.py index --push
 
       - name: Upload logs
