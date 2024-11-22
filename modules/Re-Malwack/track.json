@@ -1,0 +1,11 @@
+{
+  "id": "Re-Malwack",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/main/update.json",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/main/README.md",
+  "added": 1732300923.536364
+}
