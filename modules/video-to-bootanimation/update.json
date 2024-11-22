@@ -1,0 +1,14 @@
+{
+  "id": "video-to-bootanimation",
+  "timestamp": 1732289425.0,
+  "versions": [
+    {
+      "timestamp": 1732289425.0,
+      "version": "v2",
+      "versionCode": 1,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/video-to-bootanimation/v2_1.zip",
+      "changelog": "",
+      "size": 8658620
+    }
+  ]
+}

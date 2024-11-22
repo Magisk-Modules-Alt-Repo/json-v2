@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1732299832.246724
+    "timestamp": 1732301173.080928
   },
   "modules": [
     {
@@ -1303,6 +1303,38 @@
       ]
     },
     {
+      "id": "Re-Malwack",
+      "name": "Re-Malwack | Protection-maxxing \ud83d\udee1\ufe0f",
+      "version": "v5.2.0",
+      "versionCode": 20241121,
+      "author": "ZG089 | Github : @ZG089 | Telegram : @zgx_dev",
+      "description": "Protecting your device from ads, Malware, p*rn, and more :) ",
+      "added": 1732300923.536364,
+      "donate": "https://buymeacoffee.com/zg089",
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/main/README.md",
+      "verified": false,
+      "timestamp": 1732221126.0,
+      "size": 25067,
+      "features": {},
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1732300923.536364,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack.git"
+      },
+      "versions": [
+        {
+          "timestamp": 1732221126.0,
+          "version": "v5.2.0",
+          "versionCode": 20241121,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.0_20241121.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.0_20241121.md",
+          "size": 25067
+        }
+      ]
+    },
+    {
       "id": "Simple_BootloopSaver",
       "name": "Simple Bootloop Saver",
       "version": "v2",
@@ -1754,6 +1786,40 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v2023.10.16_202310160.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v2023.10.16_202310160.md",
           "size": 26321
+        }
+      ]
+    },
+    {
+      "id": "audio-samplerate-changer",
+      "name": "Audio samplerate changer",
+      "version": "v1.0.3",
+      "versionCode": 1003,
+      "author": "zyhk",
+      "description": "A Magisk module changing audio samplerates at the system-wide mixer for the best Hi-Fi experience.",
+      "added": 1732300316.852201,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/issues",
+      "license": "AGPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/README.md",
+      "verified": false,
+      "timestamp": 1731825740.0,
+      "size": 39133,
+      "features": {
+        "service": true,
+        "resetprop": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1732300316.852201,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer.git"
+      },
+      "versions": [
+        {
+          "timestamp": 1731825740.0,
+          "version": "v1.0.3",
+          "versionCode": 1003,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/v1.0.3_1003.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/v1.0.3_1003.md",
+          "size": 39133
         }
       ]
     },
@@ -3934,6 +4000,36 @@
       ]
     },
     {
+      "id": "video-to-bootanimation",
+      "name": "Video To Bootanimation",
+      "version": "v2",
+      "versionCode": 1,
+      "author": "rhythmcache",
+      "description": "set Videos as Bootanimation",
+      "added": 1732300967.018943,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/main/README.md",
+      "verified": false,
+      "timestamp": 1732289425.0,
+      "size": 8658620,
+      "features": {},
+      "track": {
+        "type": "GIT",
+        "added": 1732300967.018943,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation.git"
+      },
+      "versions": [
+        {
+          "timestamp": 1732289425.0,
+          "version": "v2",
+          "versionCode": 1,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/video-to-bootanimation/v2_1.zip",
+          "changelog": "",
+          "size": 8658620
+        }
+      ]
+    },
+    {
       "id": "vintf-bypass",
       "name": "VTS Check Bypass",
       "version": "v1.1",
@@ -3968,6 +4064,36 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/vintf-bypass/v1.5.7_1507.zip",
           "changelog": "",
           "size": 17311
+        }
+      ]
+    },
+    {
+      "id": "wadbd",
+      "name": "WirelessADBD-Controller",
+      "version": "1.0",
+      "versionCode": 1,
+      "author": "arch124",
+      "description": "Control Wireless ADB Status : Usage : wadbd on|off|status",
+      "added": 1732300680.547536,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/main/README.md",
+      "verified": false,
+      "timestamp": 1732293876.0,
+      "size": 4176,
+      "features": {},
+      "track": {
+        "type": "GIT",
+        "added": 1732300680.547536,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/wadbd.git"
+      },
+      "versions": [
+        {
+          "timestamp": 1732293876.0,
+          "version": "1.0",
+          "versionCode": 1,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/1.0_1.zip",
+          "changelog": "",
+          "size": 4176
         }
       ]
     },

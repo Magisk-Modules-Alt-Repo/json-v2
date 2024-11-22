@@ -1,0 +1,14 @@
+{
+  "id": "wadbd",
+  "timestamp": 1732293876.0,
+  "versions": [
+    {
+      "timestamp": 1732293876.0,
+      "version": "1.0",
+      "versionCode": 1,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/1.0_1.zip",
+      "changelog": "",
+      "size": 4176
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "audio-samplerate-changer",
+  "timestamp": 1731825740.0,
+  "versions": [
+    {
+      "timestamp": 1731825740.0,
+      "version": "v1.0.3",
+      "versionCode": 1003,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/v1.0.3_1003.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/v1.0.3_1003.md",
+      "size": 39133
+    }
+  ]
+}

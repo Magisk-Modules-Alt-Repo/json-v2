@@ -1,0 +1,14 @@
+{
+  "id": "Re-Malwack",
+  "timestamp": 1732221126.0,
+  "versions": [
+    {
+      "timestamp": 1732221126.0,
+      "version": "v5.2.0",
+      "versionCode": 20241121,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.0_20241121.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.0_20241121.md",
+      "size": 25067
+    }
+  ]
+}
