@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1732324507.839011
+    "timestamp": 1732342924.438927
   },
   "modules": [
     {
@@ -1305,18 +1305,25 @@
     {
       "id": "Re-Malwack",
       "name": "Re-Malwack | Protection-maxxing \ud83d\udee1\ufe0f",
-      "version": "v5.2.0",
-      "versionCode": 20241121,
+      "version": "v5.2.1",
+      "versionCode": 20241123,
       "author": "ZG089 | Github : @ZG089 | Telegram : @zgx_dev",
       "description": "Protecting your device from ads, Malware, p*rn, and more :) ",
       "added": 1732300923.536364,
-      "donate": "https://buymeacoffee.com/zg089",
+      "donate": "http://buymeacoffee.com/ZG089",
       "support": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/issues",
       "license": "GPL-3.0",
-      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/main/README.md",
+      "readme": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/README.md",
+      "categories": [
+        "Adblocking and Hosts Files"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/20240828-173916-0000-modified.png",
+      "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/Add-Text-11-22-12-57-45.png",
+      "screenshots": [],
+      "require": [],
       "verified": false,
-      "timestamp": 1732221126.0,
-      "size": 25067,
+      "timestamp": 1732329596.0,
+      "size": 25534,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -1331,6 +1338,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.0_20241121.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.0_20241121.md",
           "size": 25067
+        },
+        {
+          "timestamp": 1732329596.0,
+          "version": "v5.2.1",
+          "versionCode": 20241123,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.1_20241123.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.1_20241123.md",
+          "size": 25534
         }
       ]
     },
