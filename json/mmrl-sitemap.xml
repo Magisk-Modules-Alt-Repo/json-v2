@@ -145,6 +145,10 @@
       <lastmod>2022-12-01</lastmod>
    </url>
    <url>
+      <loc>https://mmrl.dergoogler.com/module/Re-Malwack</loc>
+      <lastmod>2024-11-21</lastmod>
+   </url>
+   <url>
       <loc>https://mmrl.dergoogler.com/module/Simple_BootloopSaver</loc>
       <lastmod>2023-07-25</lastmod>
    </url>
@@ -191,6 +195,10 @@
    <url>
       <loc>https://mmrl.dergoogler.com/module/audio-misc-settings</loc>
       <lastmod>2024-10-18</lastmod>
+   </url>
+   <url>
+      <loc>https://mmrl.dergoogler.com/module/audio-samplerate-changer</loc>
+      <lastmod>2024-11-17</lastmod>
    </url>
    <url>
       <loc>https://mmrl.dergoogler.com/module/backup</loc>
@@ -442,8 +450,16 @@
       <lastmod>2024-10-18</lastmod>
    </url>
    <url>
+      <loc>https://mmrl.dergoogler.com/module/video-to-bootanimation</loc>
+      <lastmod>2024-11-22</lastmod>
+   </url>
+   <url>
       <loc>https://mmrl.dergoogler.com/module/vintf-bypass</loc>
       <lastmod>2020-08-21</lastmod>
+   </url>
+   <url>
+      <loc>https://mmrl.dergoogler.com/module/wadbd</loc>
+      <lastmod>2024-11-22</lastmod>
    </url>
    <url>
       <loc>https://mmrl.dergoogler.com/module/wifi-bonding-nolog</loc>
