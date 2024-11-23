@@ -9,6 +9,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/v1.0.3_1003.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/v1.0.3_1003.md",
       "size": 39133
+    },
+    {
+      "timestamp": 1732349244.0,
+      "version": "v1.1.0",
+      "versionCode": 1100,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/v1.1.0_1100.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/v1.1.0_1100.md",
+      "size": 39200
     }
   ]
 }
