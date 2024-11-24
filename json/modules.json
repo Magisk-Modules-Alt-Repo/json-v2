@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1732451464.462558
+    "timestamp": 1732472489.370324
   },
   "modules": [
     {
@@ -30,7 +30,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067576.588606,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -63,7 +64,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067604.03648,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -93,7 +95,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067626.83773,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -151,7 +154,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067632.419611,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -185,7 +189,10 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067637.469871,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox.git",
+        "antifeatures": [
+          "NonFreeNet"
+        ]
       },
       "versions": [
         {
@@ -219,7 +226,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067708.052639,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Bye-Blur.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Bye-Blur.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -258,7 +266,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067742.043893,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -293,7 +302,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067747.503678,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -328,7 +338,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067753.243856,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -359,7 +370,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067787.166582,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -394,7 +406,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067810.428558,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Detach.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Detach.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -423,7 +436,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067837.604001,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -462,7 +476,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067865.432444,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -496,7 +511,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067870.505344,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -529,7 +545,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067904.85273,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -562,7 +579,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067910.536928,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -592,7 +610,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067916.317884,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -638,7 +657,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067922.216497,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -681,7 +701,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067927.690385,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -716,7 +737,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067933.340494,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -749,7 +771,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067951.726043,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -789,7 +812,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067975.260472,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -829,7 +853,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067981.340433,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -869,7 +894,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067998.954266,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -910,7 +936,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068004.747433,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -950,7 +977,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1726609558.817265,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -980,7 +1008,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068038.972528,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1019,7 +1048,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068053.727193,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1051,7 +1081,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068067.809637,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1092,7 +1123,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068073.737558,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1126,7 +1158,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068085.494562,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1157,7 +1190,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068091.404116,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1186,7 +1220,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068103.525852,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1215,7 +1250,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068155.306824,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1255,7 +1291,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068172.297147,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1290,7 +1327,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068184.588519,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/RTKS.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/RTKS.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1328,7 +1366,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1369,7 +1408,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068208.756352,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1401,7 +1441,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068220.04079,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1432,7 +1473,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068231.151094,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1482,7 +1524,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068247.892871,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1516,7 +1559,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068280.947017,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1546,7 +1590,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068298.85148,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1578,7 +1623,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1729804427.076371,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1611,7 +1657,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068347.172395,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/YAKT.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/YAKT.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1654,7 +1701,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067581.595615,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/abootloop.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/abootloop.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1701,7 +1749,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067587.391638,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/acc.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/acc.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1734,7 +1783,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067609.744737,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1776,7 +1826,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067615.478443,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1825,7 +1876,8 @@
       "track": {
         "type": "GIT",
         "added": 1732300316.852201,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1864,7 +1916,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067621.067182,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/backup.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/backup.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1900,7 +1953,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067713.891191,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/charch.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/charch.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1948,7 +2002,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067719.637902,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -1980,7 +2035,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067725.355963,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2020,7 +2076,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067731.031798,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2065,7 +2122,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067736.641686,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2136,7 +2194,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067759.135986,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2174,7 +2233,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067769.982062,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2207,7 +2267,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067775.985821,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2244,7 +2305,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067792.7473,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/data_backup.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/data_backup.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2274,7 +2336,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067798.379322,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2304,7 +2367,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067804.121463,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2336,7 +2400,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067815.614728,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2367,7 +2432,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067826.378144,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/djs.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/djs.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2399,7 +2465,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067831.995745,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2442,7 +2509,8 @@
       "track": {
         "type": "GIT",
         "added": 1729430919.897128,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/enable-blurs.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/enable-blurs.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2475,7 +2543,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067843.180594,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2507,7 +2576,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067848.736399,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2539,7 +2609,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067854.226316,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/faina.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/faina.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2581,7 +2652,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067859.948236,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/fbind.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/fbind.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2610,7 +2682,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067881.946281,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2643,7 +2716,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067888.293288,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/gaming.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/gaming.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2681,7 +2755,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067893.603234,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2710,7 +2785,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067945.708869,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2747,7 +2823,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067957.555546,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2777,7 +2854,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067963.34456,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/kaina.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/kaina.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2807,7 +2885,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067970.037327,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/lhroot.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/lhroot.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2836,7 +2915,8 @@
       "track": {
         "type": "GIT",
         "added": 1719067987.514888,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2866,7 +2946,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067992.960715,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-autoboot.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-autoboot.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2899,7 +2980,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068010.423123,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2932,7 +3014,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068015.808164,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2961,7 +3044,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1725291379.467831,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-swapspace.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-swapspace.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -2994,7 +3078,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068027.27877,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3026,7 +3111,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068033.281516,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3057,7 +3143,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068044.941416,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3101,7 +3188,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068059.74496,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3159,7 +3247,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068080.044674,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3203,7 +3292,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068109.355209,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3233,7 +3323,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068114.940889,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3272,7 +3363,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068120.536177,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3305,7 +3397,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068126.207347,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/open_webview.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/open_webview.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3335,7 +3428,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068135.57275,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3375,7 +3469,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068142.55562,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3404,7 +3499,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068149.393722,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3447,7 +3543,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068160.569835,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/pmmp.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/pmmp.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3484,7 +3581,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068166.665426,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3516,7 +3614,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068178.481958,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3563,7 +3662,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068190.902213,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/saturation.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/saturation.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3604,7 +3704,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068196.522604,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3638,7 +3739,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068202.547405,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3669,7 +3771,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068214.636996,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3707,7 +3810,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068225.667242,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3755,7 +3859,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068237.106092,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3785,7 +3890,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068242.529812,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3838,7 +3944,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068253.900527,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3870,7 +3977,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068286.821944,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3900,7 +4008,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068292.839718,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3940,7 +4049,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068304.944555,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -3969,7 +4079,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068311.023353,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -4002,7 +4113,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068317.694499,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -4047,7 +4159,8 @@
       "track": {
         "type": "GIT",
         "added": 1732300967.018943,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -4078,7 +4191,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068323.858956,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -4115,7 +4229,8 @@
       "track": {
         "type": "GIT",
         "added": 1732300680.547536,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/wadbd.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/wadbd.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -4148,7 +4263,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068329.758584,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -4190,7 +4306,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068335.848726,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -4227,7 +4344,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068341.238523,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -4260,7 +4378,8 @@
       "track": {
         "type": "GIT",
         "added": 1719068359.009728,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject.git",
+        "antifeatures": null
       },
       "versions": [
         {
