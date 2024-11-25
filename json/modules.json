@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1732472489.370324
+    "timestamp": 1732497559.261753
   },
   "modules": [
     {
@@ -1343,15 +1343,15 @@
     {
       "id": "Re-Malwack",
       "name": "Re-Malwack | Protection-maxxing \ud83d\udee1\ufe0f",
-      "version": "v5.2.1",
-      "versionCode": 20241123,
-      "author": "ZG089 | Github : @ZG089 | Telegram : @zgx_dev",
+      "version": "v5.2.2",
+      "versionCode": 20241125,
+      "author": "ZG089 | Github : @ZG089 - Telegram : @zgx_dev",
       "description": "Protecting your device from ads, Malware, p*rn, and more :) ",
       "added": 1732300923.536364,
       "donate": "http://buymeacoffee.com/ZG089",
       "support": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/issues",
       "license": "GPL-3.0",
-      "readme": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/README.md",
+      "readme": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/blob/main/README.md",
       "categories": [
         "Adblocking and Hosts Files"
       ],
@@ -1360,8 +1360,8 @@
       "screenshots": [],
       "require": [],
       "verified": false,
-      "timestamp": 1732329596.0,
-      "size": 25534,
+      "timestamp": 1732495768.0,
+      "size": 26093,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -1385,6 +1385,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.1_20241123.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.1_20241123.md",
           "size": 25534
+        },
+        {
+          "timestamp": 1732495768.0,
+          "version": "v5.2.2",
+          "versionCode": 20241125,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.2_20241125.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.2_20241125.md",
+          "size": 26093
         }
       ]
     },
