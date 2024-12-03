@@ -73,7 +73,7 @@
     "magisk-autoboot": 10001,
     "magisk-captive-control": 100,
     "magisk-drm-disabler": 131,
-    "magisk-swapspace": 21,
+    "magisk-swapspace": 22,
     "magisk-tailscaled": 1720100,
     "magisk_overlayfs": 30102,
     "magisk_proc_monitor": 10,
