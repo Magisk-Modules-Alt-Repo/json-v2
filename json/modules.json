@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733163842.717392
+    "timestamp": 1733188850.574529
   },
   "modules": [
     {
@@ -3054,14 +3054,22 @@
     {
       "id": "magisk-swapspace",
       "name": "Magisk SwapSpace",
-      "version": "v2.1",
-      "versionCode": 21,
+      "version": "v2.2",
+      "versionCode": 22,
       "author": "chickendrop89",
       "description": "Save memory a bit by swapping some to a disk (magiskswap in terminal)",
       "added": 1725291379.467831,
+      "categories": [
+        "Configurable",
+        "Tweaks and Hacks",
+        "System"
+      ],
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk-swapspace/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/README.md",
       "verified": false,
-      "timestamp": 1724720362.0,
-      "size": 27216,
+      "timestamp": 1733164388.0,
+      "size": 27888,
       "features": {
         "service": true
       },
@@ -3079,6 +3087,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.1_21.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.1_21.md",
           "size": 27216
+        },
+        {
+          "timestamp": 1733164388.0,
+          "version": "v2.2",
+          "versionCode": 22,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.2_22.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.2_22.md",
+          "size": 27888
         }
       ]
     },
