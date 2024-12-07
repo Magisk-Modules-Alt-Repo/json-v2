@@ -8,6 +8,14 @@
       "versionCode": 2,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NavBar_Resize_MIUI/v2.0_2.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1665058819.0,
+      "version": "v5",
+      "versionCode": 6,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NavBar_Resize_MIUI/v5_6.zip",
+      "changelog": "",
+      "size": 13369
     }
   ]
 }
