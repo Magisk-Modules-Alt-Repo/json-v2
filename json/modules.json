@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733638981.603752
+    "timestamp": 1733661140.632619
   },
   "modules": [
     {
@@ -1351,8 +1351,8 @@
     {
       "id": "Re-Malwack",
       "name": "Re-Malwack | Protection-maxxing \ud83d\udee1\ufe0f",
-      "version": "v5.2.3",
-      "versionCode": 20241202,
+      "version": "v5.2.4",
+      "versionCode": 20241208,
       "author": "ZG089 | Github : @ZG089 - Telegram : @zgx_dev",
       "description": "Protecting your device from ads, Malware, p*rn, and more :) ",
       "added": 1732300923.536364,
@@ -1368,8 +1368,8 @@
       "readme": "https://raw.githubusercontent.com/magisk-modules-alt-repo/Re-Malwack/refs/heads/main/README.md",
       "require": [],
       "verified": false,
-      "timestamp": 1733098612.0,
-      "size": 205278,
+      "timestamp": 1733658054.0,
+      "size": 205511,
       "features": {},
       "track": {
         "type": "GIT",
@@ -1409,6 +1409,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.3_20241202.zip",
           "changelog": "",
           "size": 205278
+        },
+        {
+          "timestamp": 1733658054.0,
+          "version": "v5.2.4",
+          "versionCode": 20241208,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.4_20241208.zip",
+          "changelog": "",
+          "size": 205511
         }
       ]
     },
