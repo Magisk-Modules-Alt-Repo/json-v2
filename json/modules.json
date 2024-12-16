@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734352573.438426
+    "timestamp": 1734373477.953999
   },
   "modules": [
     {
@@ -4220,16 +4220,16 @@
     {
       "id": "video-to-bootanimation",
       "name": "Video To Bootanimation",
-      "version": "v2",
-      "versionCode": 1,
-      "author": "rhythmcache",
+      "version": "V3",
+      "versionCode": 3,
+      "author": "rhythmcache.t.me",
       "description": "set Videos as Bootanimation",
       "added": 1732300967.018943,
       "support": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/main/README.md",
       "verified": false,
-      "timestamp": 1732289425.0,
-      "size": 8658620,
+      "timestamp": 1734368900.0,
+      "size": 8657415,
       "track": {
         "type": "GIT",
         "added": 1732300967.018943,
@@ -4244,6 +4244,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/video-to-bootanimation/v2_1.zip",
           "changelog": "",
           "size": 8658620
+        },
+        {
+          "timestamp": 1734368900.0,
+          "version": "V3",
+          "versionCode": 3,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/video-to-bootanimation/V3_3.zip",
+          "changelog": "",
+          "size": 8657415
         }
       ]
     },
