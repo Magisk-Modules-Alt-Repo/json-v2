@@ -16,6 +16,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/open_webview/2.5.0_250.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/open_webview/2.5.0_250.md",
       "size": 22201595
+    },
+    {
+      "timestamp": 1734388190.0,
+      "version": "2.5.2",
+      "versionCode": 252,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/open_webview/2.5.2_252.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/open_webview/2.5.2_252.md",
+      "size": 22201610
     }
   ]
 }
