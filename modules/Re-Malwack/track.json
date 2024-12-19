@@ -2,9 +2,7 @@
   "id": "Re-Malwack",
   "enable": true,
   "verified": false,
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack.git",
+  "update_to": "https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/update.json",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack.git",
-  "added": 1732300923.536364,
-  "last_update": 1734623185.0,
-  "versions": 1
+  "added": 1732300923.536364
 }
