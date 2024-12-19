@@ -8,6 +8,14 @@
       "versionCode": 28,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/v28_28.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/v28_28.md"
+    },
+    {
+      "timestamp": 1734613350.0,
+      "version": "v29",
+      "versionCode": 29,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/v29_29.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/v29_29.md",
+      "size": 7681857
     }
   ]
 }

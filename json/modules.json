@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734611645.094053
+    "timestamp": 1734623831.461153
   },
   "modules": [
     {
@@ -1351,24 +1351,30 @@
     {
       "id": "Re-Malwack",
       "name": "Re-Malwack | Protection-maxxing \ud83d\udee1\ufe0f",
-      "version": "v5.2.4",
-      "versionCode": 20241208,
-      "author": "ZG089 | Github : @ZG089 - Telegram : @zgx_dev",
-      "description": "Protecting your device from ads, Malware, p*rn, and more :) ",
+      "version": "v5.3.0",
+      "versionCode": 530,
+      "author": "ZG089 | Github & Telegram : @ZG089",
+      "description": "Reboot to apply protections :)",
       "added": 1732300923.536364,
       "donate": "http://buymeacoffee.com/ZG089",
       "support": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/issues",
       "categories": [
-        "Adblocking and Hosts Files"
+        "Adblocking and Hosts Files",
+        "APatch",
+        "KernelSU",
+        "Magisk",
+        "Built Different",
+        "Protection"
       ],
       "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/20240828-173916-0000-modified.png",
       "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/Add-Text-11-22-12-57-45.png",
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/magisk-modules-alt-repo/Re-Malwack/refs/heads/main/README.md",
       "verified": false,
-      "timestamp": 1733658054.0,
-      "size": 205511,
+      "timestamp": 1734623185.0,
+      "size": 206895,
       "features": {
+        "service": true,
         "action": true
       },
       "track": {
@@ -1379,44 +1385,12 @@
       },
       "versions": [
         {
-          "timestamp": 1732221126.0,
-          "version": "v5.2.0",
-          "versionCode": 20241121,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.0_20241121.zip",
-          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.0_20241121.md",
-          "size": 25067
-        },
-        {
-          "timestamp": 1732329596.0,
-          "version": "v5.2.1",
-          "versionCode": 20241123,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.1_20241123.zip",
-          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.1_20241123.md",
-          "size": 25534
-        },
-        {
-          "timestamp": 1732495768.0,
-          "version": "v5.2.2",
-          "versionCode": 20241125,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.2_20241125.zip",
-          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.2_20241125.md",
-          "size": 26093
-        },
-        {
-          "timestamp": 1733098612.0,
-          "version": "v5.2.3",
-          "versionCode": 20241202,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.3_20241202.zip",
+          "timestamp": 1734623185.0,
+          "version": "v5.3.0",
+          "versionCode": 530,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.3.0_530.zip",
           "changelog": "",
-          "size": 205278
-        },
-        {
-          "timestamp": 1733658054.0,
-          "version": "v5.2.4",
-          "versionCode": 20241208,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.2.4_20241208.zip",
-          "changelog": "",
-          "size": 205511
+          "size": 206895
         }
       ]
     },
@@ -3000,8 +2974,8 @@
     {
       "id": "magisk-module-koruri-font",
       "name": "Koruri Font",
-      "version": "v28",
-      "versionCode": 28,
+      "version": "v29",
+      "versionCode": 29,
       "author": "lindwurm,AndroPlus",
       "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
       "added": 1719068010.423123,
@@ -3010,8 +2984,8 @@
       "license": "WTFPL",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/master/README.md",
       "verified": false,
-      "timestamp": 1711254247.0,
-      "size": 7681823,
+      "timestamp": 1734613350.0,
+      "size": 7681857,
       "features": {
         "post_fs_data": true
       },
@@ -3028,6 +3002,14 @@
           "versionCode": 28,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/v28_28.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/v28_28.md"
+        },
+        {
+          "timestamp": 1734613350.0,
+          "version": "v29",
+          "versionCode": 29,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/v29_29.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/v29_29.md",
+          "size": 7681857
         }
       ]
     },
