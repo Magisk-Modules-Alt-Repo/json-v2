@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734957144.717609
+    "timestamp": 1734978101.433168
   },
   "modules": [
     {
@@ -997,16 +997,16 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v4.2.5",
-      "versionCode": 22,
+      "version": "v4.2.6",
+      "versionCode": 23,
       "author": "Person0z",
       "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device \u2013 no entry for malware, bugs, or party crashers!",
       "added": 1719068038.972528,
       "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
       "verified": false,
-      "timestamp": 1734935023.796442,
-      "size": 5883100,
+      "timestamp": 1734978079.99909,
+      "size": 5883101,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068038.972528,
@@ -1044,6 +1044,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v4.2.5_22.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v4.2.5_22.md",
           "size": 5883100
+        },
+        {
+          "timestamp": 1734978079.99909,
+          "version": "v4.2.6",
+          "versionCode": 23,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v4.2.6_23.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v4.2.6_23.md",
+          "size": 5883101
         }
       ]
     },

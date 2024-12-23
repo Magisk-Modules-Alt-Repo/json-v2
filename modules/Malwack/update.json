@@ -32,6 +32,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v4.2.5_22.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v4.2.5_22.md",
       "size": 5883100
+    },
+    {
+      "timestamp": 1734978079.99909,
+      "version": "v4.2.6",
+      "versionCode": 23,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v4.2.6_23.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v4.2.6_23.md",
+      "size": 5883101
     }
   ]
 }
