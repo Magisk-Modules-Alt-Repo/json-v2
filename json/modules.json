@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1735043507.474808
+    "timestamp": 1735064488.094762
   },
   "modules": [
     {
@@ -1298,6 +1298,14 @@
           "version": "v1.0.0",
           "versionCode": 100,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1.0.0_100.zip",
+          "changelog": "",
+          "size": 9299
+        },
+        {
+          "timestamp": 1645367235.0,
+          "version": "v1.5.2",
+          "versionCode": 152,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1.5.2_152.zip",
           "changelog": "",
           "size": 9299
         }
@@ -4304,16 +4312,19 @@
     {
       "id": "wadbd",
       "name": "WirelessADBD-Controller",
-      "version": "1.0",
-      "versionCode": 1,
-      "author": "arch124",
-      "description": "Control Wireless ADB Status : Usage : wadbd on|off|status",
+      "version": "3",
+      "versionCode": 3,
+      "author": "rhythmcache.t.me",
+      "description": "Control Wireless ADB Status - Usage: wadbd [on <port>|off|status|enable-on-boot <port>|disable-on-boot]",
       "added": 1732300680.547536,
       "support": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/main/README.md",
       "verified": false,
-      "timestamp": 1732293876.0,
-      "size": 4176,
+      "timestamp": 1735063355.0,
+      "size": 45648,
+      "features": {
+        "webroot": true
+      },
       "track": {
         "type": "GIT",
         "added": 1732300680.547536,
@@ -4336,6 +4347,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/v1.1_2.zip",
           "changelog": "",
           "size": 4176
+        },
+        {
+          "timestamp": 1735063355.0,
+          "version": "3",
+          "versionCode": 3,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/3_3.zip",
+          "changelog": "",
+          "size": 45648
         }
       ]
     },

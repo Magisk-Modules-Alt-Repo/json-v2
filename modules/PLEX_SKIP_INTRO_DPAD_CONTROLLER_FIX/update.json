@@ -16,6 +16,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1.0.0_100.zip",
       "changelog": "",
       "size": 9299
+    },
+    {
+      "timestamp": 1645367235.0,
+      "version": "v1.5.2",
+      "versionCode": 152,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1.5.2_152.zip",
+      "changelog": "",
+      "size": 9299
     }
   ]
 }

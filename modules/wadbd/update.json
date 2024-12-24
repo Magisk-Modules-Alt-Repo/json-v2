@@ -17,6 +17,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/v1.1_2.zip",
       "changelog": "",
       "size": 4176
+    },
+    {
+      "timestamp": 1735063355.0,
+      "version": "3",
+      "versionCode": 3,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/3_3.zip",
+      "changelog": "",
+      "size": 45648
     }
   ]
 }
