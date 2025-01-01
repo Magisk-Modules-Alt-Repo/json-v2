@@ -4,9 +4,11 @@
   "support": null,
   "donate": null,
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
+  "cover": null,
+  "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1735734680.772775
+    "timestamp": 1735755668.887411
   },
   "modules": [
     {
