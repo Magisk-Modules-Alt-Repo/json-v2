@@ -3,12 +3,6 @@ on:
   schedule:
     - cron: '0 */6 * * *'
     
-  push:
-    branches: [ "main" ]
-    
-  pull_request:
-    branches: [ "main" ]
-
   workflow_dispatch:
    inputs:
       repo_name:
@@ -18,10 +12,10 @@ on:
         description: "Run Sync"
         type: choice
         required: false
-        default: 'false'
+        default: 'No'
         options:
-         - 'true'
-         - 'false'
+         - 'Yes'
+         - 'No'
 
 permissions:
   contents: write
@@ -35,7 +29,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  IS_SYNC: ${{ inputs.run_sync == 'true' || github.event_name == 'schedule' || startsWith(github.event.head_commit.message, '[sync]') }}
+  IS_SYNC: ${{ inputs.run_sync == 'Yes' || github.event_name == 'schedule' }}
 
 jobs:
   sync:
