@@ -8,6 +8,14 @@
       "versionCode": 10,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk_proc_monitor/2.3_10.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1694360679.0,
+      "version": "v1.5.8",
+      "versionCode": 59,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk_proc_monitor/v1.5.8_59.zip",
+      "changelog": "",
+      "size": 4196261
     }
   ]
 }

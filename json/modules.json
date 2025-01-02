@@ -8,7 +8,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1735811832.34203
+    "timestamp": 1735821120.240476
   },
   "modules": [
     {
@@ -3213,6 +3213,14 @@
           "versionCode": 10,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk_proc_monitor/2.3_10.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1694360679.0,
+          "version": "v1.5.8",
+          "versionCode": 59,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk_proc_monitor/v1.5.8_59.zip",
+          "changelog": "",
+          "size": 4196261
         }
       ]
     },
