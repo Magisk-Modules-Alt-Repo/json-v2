@@ -44,7 +44,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Googlers-Repo/magisk-modules-repo-util
-          ref: v2.10.8
+          ref: v2.10.9
           path: util
 
       - name: Set up Git
