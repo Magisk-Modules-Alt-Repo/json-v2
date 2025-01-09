@@ -17,6 +17,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/video-to-bootanimation/V3_3.zip",
       "changelog": "",
       "size": 8657415
+    },
+    {
+      "timestamp": 1736369785.0,
+      "version": "V4",
+      "versionCode": 4,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/video-to-bootanimation/V4_4.zip",
+      "changelog": "",
+      "size": 9537507
     }
   ]
 }
