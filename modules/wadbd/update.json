@@ -41,6 +41,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/4.2_5.zip",
       "changelog": "",
       "size": 49295
+    },
+    {
+      "timestamp": 1736594565.0,
+      "version": "4.3",
+      "versionCode": 6,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/4.3_6.zip",
+      "changelog": "",
+      "size": 49969
     }
   ]
 }
