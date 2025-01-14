@@ -8,7 +8,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1736792642.016221
+    "timestamp": 1736817090.951088
   },
   "modules": [
     {
@@ -4350,6 +4350,14 @@
           "version": "v1.5.7",
           "versionCode": 1507,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/vintf-bypass/v1.5.7_1507.zip",
+          "changelog": "",
+          "size": 17311
+        },
+        {
+          "timestamp": 1598025275.0,
+          "version": "v3.47.2",
+          "versionCode": 20241212,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/vintf-bypass/v3.47.2_20241212.zip",
           "changelog": "",
           "size": 17311
         }
