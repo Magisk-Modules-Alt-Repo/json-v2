@@ -8,7 +8,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1736903579.101111
+    "timestamp": 1736922138.796204
   },
   "modules": [
     {
@@ -1658,8 +1658,8 @@
     {
       "id": "Xtreme-Battery-Saver",
       "name": "Xtreme Battery Saver",
-      "version": "v1.0.3",
-      "versionCode": 103,
+      "version": "v1.0.5",
+      "versionCode": 105,
       "author": "DethByte64",
       "description": "An extreme battery saver for Magisk users who really want to stretch their battery life",
       "added": 1729804427.076371,
@@ -1667,8 +1667,8 @@
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/main/README.md",
       "verified": false,
-      "timestamp": 1729819103.964432,
-      "size": 991352,
+      "timestamp": 1736922118.224769,
+      "size": 995307,
       "features": {
         "service": true
       },
@@ -1686,6 +1686,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v1.0.3_103.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v1.0.3_103.md",
           "size": 991352
+        },
+        {
+          "timestamp": 1736922118.224769,
+          "version": "v1.0.5",
+          "versionCode": 105,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v1.0.5_105.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v1.0.5_105.md",
+          "size": 995307
         }
       ]
     },
