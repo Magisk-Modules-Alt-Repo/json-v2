@@ -16,6 +16,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/MacRandomizationEnabler/v1.0.0_100.zip",
       "changelog": "",
       "size": 20786
+    },
+    {
+      "timestamp": 1598109398.0,
+      "version": "231201",
+      "versionCode": 231201,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/MacRandomizationEnabler/231201_231201.zip",
+      "changelog": "",
+      "size": 20786
     }
   ]
 }
