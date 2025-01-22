@@ -1,0 +1,14 @@
+{
+  "id": "YetAnotherBootloopProtector",
+  "timestamp": 1737531695.0,
+  "versions": [
+    {
+      "timestamp": 1737531695.0,
+      "version": "8 (16-c18afc5-release)",
+      "versionCode": 16,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YetAnotherBootloopProtector/8_16-c18afc5-release.zip",
+      "changelog": "",
+      "size": 9516
+    }
+  ]
+}

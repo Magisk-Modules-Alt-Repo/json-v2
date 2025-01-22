@@ -8,7 +8,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1737549112.234679
+    "timestamp": 1737568720.150188
   },
   "modules": [
     {
@@ -1743,6 +1743,39 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YAKT/v27.3_67.zip",
           "changelog": "",
           "size": 6262
+        }
+      ]
+    },
+    {
+      "id": "YetAnotherBootloopProtector",
+      "name": "Yet Another Bootloop Protector",
+      "version": "8 (16-c18afc5-release)",
+      "versionCode": 16,
+      "author": "rhythmcache.t.me",
+      "description": "This module try to detect and fix bootloops caused by Magisk modules.",
+      "added": 1737568533459.0,
+      "verified": false,
+      "timestamp": 1737531695.0,
+      "size": 9516,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1737568533459.0,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1737531695.0,
+          "version": "8 (16-c18afc5-release)",
+          "versionCode": 16,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YetAnotherBootloopProtector/8_16-c18afc5-release.zip",
+          "changelog": "",
+          "size": 9516
         }
       ]
     },
@@ -4109,6 +4142,34 @@
           "versionCode": 100,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/systemui-bootloop/v1.0.0_100.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "tree",
+      "name": "tree",
+      "version": "1",
+      "versionCode": 1,
+      "author": "rhythmcache.t.me",
+      "description": "Just a shell script which tries to mimic the Linux 'tree' binary",
+      "added": 1737568533459.0,
+      "verified": false,
+      "timestamp": 1736514135.0,
+      "size": 4415,
+      "track": {
+        "type": "GIT",
+        "added": 1737568533459.0,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/tree",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1736514135.0,
+          "version": "1",
+          "versionCode": 1,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/tree/1_1.zip",
+          "changelog": "",
+          "size": 4415
         }
       ]
     },

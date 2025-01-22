@@ -1,8 +1,10 @@
 {
-    "id": "tree",
-    "enable": true,
-    "verified": false,
-    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/tree.git",
-    "source": "https://github.com/Magisk-Modules-Alt-Repo/tree",
-    "added": 1737568533459.0
-  }
+  "id": "tree",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/tree.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/tree",
+  "added": 1737568533459.0,
+  "last_update": 1736514135.0,
+  "versions": 1
+}

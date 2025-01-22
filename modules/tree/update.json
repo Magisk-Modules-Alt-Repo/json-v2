@@ -1,0 +1,14 @@
+{
+  "id": "tree",
+  "timestamp": 1736514135.0,
+  "versions": [
+    {
+      "timestamp": 1736514135.0,
+      "version": "1",
+      "versionCode": 1,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/tree/1_1.zip",
+      "changelog": "",
+      "size": 4415
+    }
+  ]
+}
