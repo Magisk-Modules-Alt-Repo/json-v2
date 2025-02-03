@@ -1,0 +1,14 @@
+{
+  "id": "CustomizedNavbar",
+  "timestamp": 1680734245.0,
+  "versions": [
+    {
+      "timestamp": 1680734245.0,
+      "version": "v0.0.1",
+      "versionCode": 13,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/CustomizedNavbar/v0.0.1_13.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/CustomizedNavbar/v0.0.1_13.md",
+      "size": 548600
+    }
+  ]
+}
