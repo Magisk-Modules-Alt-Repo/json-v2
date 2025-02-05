@@ -8,6 +8,14 @@
       "versionCode": 4,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/BraviaEngine/v4.0.4_4.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1697807984.0,
+      "version": "v5.3",
+      "versionCode": 530,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/BraviaEngine/v5.3_530.zip",
+      "changelog": "",
+      "size": 4513297
     }
   ]
 }
