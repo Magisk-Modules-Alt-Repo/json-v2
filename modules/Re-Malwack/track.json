@@ -1,6 +1,6 @@
 {
   "id": "Re-Malwack",
-  "enable": true,
+  "enable": false,
   "verified": true,
   "update_to": "https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/update.json",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack.git",
