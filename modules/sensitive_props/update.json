@@ -8,6 +8,14 @@
       "versionCode": 3,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sensitive_props/v3_3.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1707749983.0,
+      "version": "v6.64.3_at20240323",
+      "versionCode": 29,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sensitive_props/v6.64.3_at20240323_29.zip",
+      "changelog": "",
+      "size": 16172
     }
   ]
 }
