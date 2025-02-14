@@ -1,0 +1,54 @@
+name: Disable Module
+
+on:
+  workflow_dispatch:
+    inputs:
+      module_id:
+        description: 'Module ID'
+        required: true
+      reason:
+        description: 'Reason for disabling'
+        default: 'Reason was not specified.'
+        required: false
+      state:
+        type: boolean
+        description: 'Enable/Disable'
+        required: true
+        default: true
+
+
+env:
+  TRACK_FILE_JSON: modules/${{ inputs.module_id }}/track.json
+  TRACK_FILE_YAML: modules/${{ inputs.module_id }}/track.yaml
+
+jobs:
+  disable:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Modify JSON file
+        run: |
+          if [ -f "$TRACK_FILE_JSON" ]; then
+            jq '.enable = ${{ inputs.state }}' "$TRACK_FILE_JSON" > tmp.json && mv tmp.json "$TRACK_FILE_JSON"
+          fi
+
+      - name: Modify YAML file
+        run: |
+          if [ -f "$TRACK_FILE_YAML" ]; then
+            yq e '.enable = ${{ inputs.state }}' -i "$TRACK_FILE_YAML"
+          fi
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+      - name: Commit and push changes
+        run: |
+          [ -f "$TRACK_FILE_JSON" ] && git add "$TRACK_FILE_JSON" || true
+          [ -f "$TRACK_FILE_YAML" ] && git add "$TRACK_FILE_YAML" || true
+          
+          git commit -m "Disable ${{ inputs.module_id }}" -m "${{ inputs.reason }}" || true
+          git push
