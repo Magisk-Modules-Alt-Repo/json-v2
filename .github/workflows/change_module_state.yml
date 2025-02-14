@@ -1,4 +1,4 @@
-name: Disable Module
+name: Enable/Disable Module
 
 on:
   workflow_dispatch:
@@ -16,13 +16,13 @@ on:
         required: true
         default: true
 
-
 env:
   TRACK_FILE_JSON: modules/${{ inputs.module_id }}/track.json
   TRACK_FILE_YAML: modules/${{ inputs.module_id }}/track.yaml
+  STATE: ${{ inputs.state }}
 
 jobs:
-  disable:
+  change_state:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -49,6 +49,11 @@ jobs:
         run: |
           [ -f "$TRACK_FILE_JSON" ] && git add "$TRACK_FILE_JSON" || true
           [ -f "$TRACK_FILE_YAML" ] && git add "$TRACK_FILE_YAML" || true
+
+          if [ "$STATE" = "true" ]; then
+            git commit -m "Enable ${{ inputs.module_id }}" || true
+          else
+            git commit -m "Disable ${{ inputs.module_id }}" -m "${{ inputs.reason }}" || true
+          fi
           
-          git commit -m "Disable ${{ inputs.module_id }}" -m "${{ inputs.reason }}" || true
           git push
