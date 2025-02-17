@@ -1,5 +1,5 @@
 {
-  "id": "mmar",
+  "id": "magtrenv2",
   "name": "Magisk Modules Alt Repo",
   "website": null,
   "support": null,
@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1739709095.11345
+    "timestamp": 1739755016.969343
   },
   "modules": [
     {
@@ -34,7 +34,8 @@
         "type": "GIT",
         "added": 1719067576.588606,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/1_MARS_SOM_BASE-GEAR_FIRST/track.json"
       },
       "versions": [
         {
@@ -68,7 +69,8 @@
         "type": "GIT",
         "added": 1719067604.03648,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/AFWall-Boot-AntiLeak/track.json"
       },
       "versions": [
         {
@@ -98,7 +100,8 @@
         "type": "GIT",
         "added": 1719067626.83773,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Better-MIUI-Icons/track.json"
       },
       "versions": [
         {
@@ -157,7 +160,8 @@
         "type": "GIT",
         "added": 1719067632.419611,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/BraviaEngine/track.json"
       },
       "versions": [
         {
@@ -202,7 +206,8 @@
         "source": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox.git",
         "antifeatures": [
           "NonFreeNet"
-        ]
+        ],
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/BuiltIn-BusyBox/track.json"
       },
       "versions": [
         {
@@ -237,7 +242,8 @@
         "type": "GIT",
         "added": 1719067708.052639,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Bye-Blur.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Bye-Blur/track.json"
       },
       "versions": [
         {
@@ -276,7 +282,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067742.043893,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Clash4Magisk/track.json"
       },
       "versions": [
         {
@@ -312,7 +319,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067747.503678,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/CloudflareDNS4Magisk/track.json"
       },
       "versions": [
         {
@@ -348,7 +356,8 @@
         "type": "GIT",
         "added": 1719067753.243856,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/CloudflareDNS4Magisk-IPv6/track.json"
       },
       "versions": [
         {
@@ -380,7 +389,8 @@
         "type": "GIT",
         "added": 1719067787.166582,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/DalvikHyperthreading/track.json"
       },
       "versions": [
         {
@@ -416,7 +426,8 @@
         "type": "GIT",
         "added": 1719067810.428558,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Detach.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Detach/track.json"
       },
       "versions": [
         {
@@ -453,7 +464,8 @@
         "type": "GIT",
         "added": 1719067837.604001,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Evolve-Evo/track.json"
       },
       "versions": [
         {
@@ -493,7 +505,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067865.432444,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Fdroid-Priv/track.json"
       },
       "versions": [
         {
@@ -528,7 +541,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067870.505344,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/FluentEmojiMagisk/track.json"
       },
       "versions": [
         {
@@ -562,7 +576,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067904.85273,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GMS-Doze_Block_FindMyDevice/track.json"
       },
       "versions": [
         {
@@ -596,7 +611,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067910.536928,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GMSDoze/track.json"
       },
       "versions": [
         {
@@ -626,7 +642,8 @@
         "type": "GIT",
         "added": 1719067916.317884,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Google-Sans/track.json"
       },
       "versions": [
         {
@@ -672,7 +689,8 @@
         "type": "GIT",
         "added": 1719067922.216497,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Google-Sans-Plus/track.json"
       },
       "versions": [
         {
@@ -716,7 +734,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067927.690385,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GoogleDNS4Magisk/track.json"
       },
       "versions": [
         {
@@ -752,7 +771,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067933.340494,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GoogleDNS4Magisk-IPv6/track.json"
       },
       "versions": [
         {
@@ -786,7 +806,8 @@
         "type": "GIT",
         "added": 1719067951.726043,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/track.json"
       },
       "versions": [
         {
@@ -835,7 +856,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067975.260472,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Luz-Nocturna_Modded/track.json"
       },
       "versions": [
         {
@@ -876,7 +898,8 @@
         "type": "GIT",
         "added": 1719067981.340433,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/MacRandomizationEnabler/track.json"
       },
       "versions": [
         {
@@ -925,7 +948,8 @@
         "type": "GIT",
         "added": 1719067998.954266,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-Captive-Control/track.json"
       },
       "versions": [
         {
@@ -967,7 +991,8 @@
         "type": "GIT",
         "added": 1719068004.747433,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-DRM-Disabler/track.json"
       },
       "versions": [
         {
@@ -1008,7 +1033,8 @@
         "type": "ONLINE_JSON",
         "added": 1726609558.817265,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-Tailscaled/track.json"
       },
       "versions": [
         {
@@ -1042,7 +1068,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068038.972528,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/track.json"
       },
       "versions": [
         {
@@ -1115,7 +1142,8 @@
         "type": "GIT",
         "added": 1719068053.727193,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/MiXplorer/track.json"
       },
       "versions": [
         {
@@ -1148,7 +1176,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068067.809637,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NavBar_Resize_AOSP/track.json"
       },
       "versions": [
         {
@@ -1190,7 +1219,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068073.737558,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NavBar_Resize_MIUI/track.json"
       },
       "versions": [
         {
@@ -1233,7 +1263,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068085.494562,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NoProcStatRestriction/track.json"
       },
       "versions": [
         {
@@ -1265,7 +1296,8 @@
         "type": "GIT",
         "added": 1719068091.404116,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NoStorageRestrict/track.json"
       },
       "versions": [
         {
@@ -1294,7 +1326,8 @@
         "type": "GIT",
         "added": 1719068103.525852,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/OneController/track.json"
       },
       "versions": [
         {
@@ -1323,7 +1356,8 @@
         "type": "GIT",
         "added": 1719068155.306824,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/track.json"
       },
       "versions": [
         {
@@ -1372,7 +1406,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068172.297147,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/QS_Rectangulares/track.json"
       },
       "versions": [
         {
@@ -1408,7 +1443,8 @@
         "type": "GIT",
         "added": 1719068184.588519,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/RTKS.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/RTKS/track.json"
       },
       "versions": [
         {
@@ -1441,7 +1477,8 @@
         "type": "GIT",
         "added": 1719068208.756352,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Simple_BootloopSaver/track.json"
       },
       "versions": [
         {
@@ -1474,7 +1511,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068220.04079,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/SomcGameEnhancer-Upgrade/track.json"
       },
       "versions": [
         {
@@ -1505,7 +1543,8 @@
         "type": "GIT",
         "added": 1719068231.151094,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/track.json"
       },
       "versions": [
         {
@@ -1556,7 +1595,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068247.892871,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/SystemlessDebloater/track.json"
       },
       "versions": [
         {
@@ -1591,7 +1631,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068280.947017,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ToyBox-Ext/track.json"
       },
       "versions": [
         {
@@ -1621,7 +1662,8 @@
         "type": "GIT",
         "added": 1719068298.85148,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/UbuntuFontVinaooo/track.json"
       },
       "versions": [
         {
@@ -1655,7 +1697,8 @@
         "type": "ONLINE_JSON",
         "added": 1729804427.076371,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/track.json"
       },
       "versions": [
         {
@@ -1729,7 +1772,8 @@
         "type": "GIT",
         "added": 1719068347.172395,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/YAKT.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YAKT/track.json"
       },
       "versions": [
         {
@@ -1769,7 +1813,8 @@
         "type": "GIT",
         "added": 1737568533459.0,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YetAnotherBootloopProtector/track.json"
       },
       "versions": [
         {
@@ -1807,7 +1852,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067581.595615,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/abootloop.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/track.json"
       },
       "versions": [
         {
@@ -1854,7 +1900,8 @@
         "type": "GIT",
         "added": 1719067587.391638,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/acc.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/acc/track.json"
       },
       "versions": [
         {
@@ -1888,7 +1935,8 @@
         "type": "GIT",
         "added": 1719067609.744737,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-jitter-silencer/track.json"
       },
       "versions": [
         {
@@ -1931,7 +1979,8 @@
         "type": "GIT",
         "added": 1719067615.478443,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/track.json"
       },
       "versions": [
         {
@@ -1981,7 +2030,8 @@
         "type": "GIT",
         "added": 1732300316.852201,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/track.json"
       },
       "versions": [
         {
@@ -2044,7 +2094,8 @@
         "type": "GIT",
         "added": 1719067621.067182,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/backup.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/backup/track.json"
       },
       "versions": [
         {
@@ -2080,7 +2131,8 @@
         "type": "GIT",
         "added": 1719067713.891191,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/charch.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch/track.json"
       },
       "versions": [
         {
@@ -2137,7 +2189,8 @@
         "type": "GIT",
         "added": 1719067719.637902,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch_dinit/track.json"
       },
       "versions": [
         {
@@ -2170,7 +2223,8 @@
         "type": "GIT",
         "added": 1719067725.355963,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch_openrc/track.json"
       },
       "versions": [
         {
@@ -2211,7 +2265,8 @@
         "type": "GIT",
         "added": 1719067731.031798,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch_sshd/track.json"
       },
       "versions": [
         {
@@ -2256,7 +2311,8 @@
         "type": "GIT",
         "added": 1719067736.641686,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/chroot-distro/track.json"
       },
       "versions": [
         {
@@ -2327,7 +2383,8 @@
         "type": "GIT",
         "added": 1719067759.135986,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/cmdpatch/track.json"
       },
       "versions": [
         {
@@ -2365,7 +2422,8 @@
         "type": "GIT",
         "added": 1719067769.982062,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/compatible-magisk-mirroring/track.json"
       },
       "versions": [
         {
@@ -2399,7 +2457,8 @@
         "type": "GIT",
         "added": 1719067775.985821,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/custom-certificate-authorities/track.json"
       },
       "versions": [
         {
@@ -2436,7 +2495,8 @@
         "type": "GIT",
         "added": 1719067792.7473,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/data_backup.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_backup/track.json"
       },
       "versions": [
         {
@@ -2466,7 +2526,8 @@
         "type": "GIT",
         "added": 1719067798.379322,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_isolation_support/track.json"
       },
       "versions": [
         {
@@ -2496,7 +2557,8 @@
         "type": "GIT",
         "added": 1719067804.121463,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_restore_Courier/track.json"
       },
       "versions": [
         {
@@ -2529,7 +2591,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067815.614728,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/disable-low-ram/track.json"
       },
       "versions": [
         {
@@ -2560,7 +2623,8 @@
         "type": "GIT",
         "added": 1719067826.378144,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/djs.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/djs/track.json"
       },
       "versions": [
         {
@@ -2593,7 +2657,8 @@
         "type": "GIT",
         "added": 1719067831.995745,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/drc-remover/track.json"
       },
       "versions": [
         {
@@ -2638,7 +2703,8 @@
         "type": "GIT",
         "added": 1729430919.897128,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/enable-blurs.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/enable-blurs/track.json"
       },
       "versions": [
         {
@@ -2680,7 +2746,8 @@
         "type": "GIT",
         "added": 1719067843.180594,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ezme-dex-space/track.json"
       },
       "versions": [
         {
@@ -2713,7 +2780,8 @@
         "type": "GIT",
         "added": 1719067848.736399,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ezme-nodebug/track.json"
       },
       "versions": [
         {
@@ -2746,7 +2814,8 @@
         "type": "GIT",
         "added": 1719067854.226316,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/faina.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/faina/track.json"
       },
       "versions": [
         {
@@ -2789,7 +2858,8 @@
         "type": "GIT",
         "added": 1719067859.948236,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/fbind.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/fbind/track.json"
       },
       "versions": [
         {
@@ -2818,7 +2888,8 @@
         "type": "GIT",
         "added": 1719067881.946281,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/frozen_magisk_app/track.json"
       },
       "versions": [
         {
@@ -2852,7 +2923,8 @@
         "type": "GIT",
         "added": 1719067888.293288,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/gaming.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/gaming/track.json"
       },
       "versions": [
         {
@@ -2890,7 +2962,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067893.603234,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/gboard-dict-3/track.json"
       },
       "versions": [
         {
@@ -2919,7 +2992,8 @@
         "type": "GIT",
         "added": 1719067945.708869,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/heimdall-ndk/track.json"
       },
       "versions": [
         {
@@ -2956,7 +3030,8 @@
         "type": "GIT",
         "added": 1719067957.555546,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/isodrive/track.json"
       },
       "versions": [
         {
@@ -2986,7 +3061,8 @@
         "type": "GIT",
         "added": 1719067963.34456,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/kaina.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/kaina/track.json"
       },
       "versions": [
         {
@@ -3016,7 +3092,8 @@
         "type": "GIT",
         "added": 1719067970.037327,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/lhroot.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/lhroot/track.json"
       },
       "versions": [
         {
@@ -3045,7 +3122,8 @@
         "type": "GIT",
         "added": 1719067987.514888,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magic-flash/track.json"
       },
       "versions": [
         {
@@ -3075,7 +3153,8 @@
         "type": "ONLINE_JSON",
         "added": 1719067992.960715,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-autoboot.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-autoboot/track.json"
       },
       "versions": [
         {
@@ -3109,7 +3188,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068010.423123,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/track.json"
       },
       "versions": [
         {
@@ -3151,7 +3231,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068015.808164,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-mejiro-font/track.json"
       },
       "versions": [
         {
@@ -3189,7 +3270,8 @@
         "type": "ONLINE_JSON",
         "added": 1725291379.467831,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-swapspace.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/track.json"
       },
       "versions": [
         {
@@ -3231,7 +3313,8 @@
         "type": "GIT",
         "added": 1719068027.27877,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk_overlayfs/track.json"
       },
       "versions": [
         {
@@ -3272,7 +3355,8 @@
         "type": "GIT",
         "added": 1719068033.281516,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk_proc_monitor/track.json"
       },
       "versions": [
         {
@@ -3312,7 +3396,8 @@
         "type": "GIT",
         "added": 1719068044.941416,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/microG-GApps/track.json"
       },
       "versions": [
         {
@@ -3357,7 +3442,8 @@
         "type": "GIT",
         "added": 1719068059.74496,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/mkshrc/track.json"
       },
       "versions": [
         {
@@ -3416,7 +3502,8 @@
         "type": "GIT",
         "added": 1719068080.044674,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/node/track.json"
       },
       "versions": [
         {
@@ -3468,7 +3555,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068109.355209,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplus-8series-9r-camera-unlocker/track.json"
       },
       "versions": [
         {
@@ -3498,7 +3586,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068114.940889,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplusdotfix/track.json"
       },
       "versions": [
         {
@@ -3537,7 +3626,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068120.536177,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/open_fonts/track.json"
       },
       "versions": [
         {
@@ -3571,7 +3661,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068126.207347,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/open_webview.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/open_webview/track.json"
       },
       "versions": [
         {
@@ -3617,7 +3708,8 @@
         "type": "GIT",
         "added": 1719068135.57275,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/pdx213_assistant_camera_remap/track.json"
       },
       "versions": [
         {
@@ -3658,7 +3750,8 @@
         "type": "GIT",
         "added": 1719068142.55562,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/perf-limit-xiaomi-12/track.json"
       },
       "versions": [
         {
@@ -3687,7 +3780,8 @@
         "type": "GIT",
         "added": 1719068149.393722,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/pixel-tensor-audio-decompressor/track.json"
       },
       "versions": [
         {
@@ -3738,7 +3832,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068160.569835,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/pmmp.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/pmmp/track.json"
       },
       "versions": [
         {
@@ -3775,7 +3870,8 @@
         "type": "GIT",
         "added": 1719068166.665426,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/qdl-ndk/track.json"
       },
       "versions": [
         {
@@ -3808,7 +3904,8 @@
         "type": "GIT",
         "added": 1719068178.481958,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/resampling-for-cheapies/track.json"
       },
       "versions": [
         {
@@ -3856,7 +3953,8 @@
         "type": "GIT",
         "added": 1719068190.902213,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/saturation.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/saturation/track.json"
       },
       "versions": [
         {
@@ -3898,7 +3996,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068196.522604,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/selinux_mode/track.json"
       },
       "versions": [
         {
@@ -3933,7 +4032,8 @@
         "type": "GIT",
         "added": 1719068202.547405,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sensitive_props/track.json"
       },
       "versions": [
         {
@@ -3981,7 +4081,8 @@
         "type": "GIT",
         "added": 1719068214.636996,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/smallbattery/track.json"
       },
       "versions": [
         {
@@ -4019,7 +4120,8 @@
         "type": "GIT",
         "added": 1719068225.667242,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sqlite3/track.json"
       },
       "versions": [
         {
@@ -4076,7 +4178,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068237.106092,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/supl-replacer/track.json"
       },
       "versions": [
         {
@@ -4106,7 +4209,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068242.529812,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/systemless-adblocker/track.json"
       },
       "versions": [
         {
@@ -4176,7 +4280,8 @@
         "type": "GIT",
         "added": 1719068253.900527,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/systemui-bootloop/track.json"
       },
       "versions": [
         {
@@ -4203,7 +4308,8 @@
         "type": "GIT",
         "added": 1737568533459.0,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/tree",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/tree/track.json"
       },
       "versions": [
         {
@@ -4245,7 +4351,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068286.821944,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/trichromelibrary-squoosh/track.json"
       },
       "versions": [
         {
@@ -4275,7 +4382,8 @@
         "type": "GIT",
         "added": 1719068292.839718,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ttf-twemoji/track.json"
       },
       "versions": [
         {
@@ -4316,7 +4424,8 @@
         "type": "GIT",
         "added": 1719068304.944555,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/unityfix/track.json"
       },
       "versions": [
         {
@@ -4345,7 +4454,8 @@
         "type": "GIT",
         "added": 1719068311.023353,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/upx-ndk/track.json"
       },
       "versions": [
         {
@@ -4379,7 +4489,8 @@
         "type": "GIT",
         "added": 1719068317.694499,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/track.json"
       },
       "versions": [
         {
@@ -4424,7 +4535,8 @@
         "type": "GIT",
         "added": 1732300967.018943,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/video-to-bootanimation/track.json"
       },
       "versions": [
         {
@@ -4471,7 +4583,8 @@
         "type": "GIT",
         "added": 1719068323.858956,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/vintf-bypass/track.json"
       },
       "versions": [
         {
@@ -4520,7 +4633,8 @@
         "type": "GIT",
         "added": 1732300680.547536,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/wadbd.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/track.json"
       },
       "versions": [
         {
@@ -4594,7 +4708,8 @@
         "type": "GIT",
         "added": 1719068329.758584,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wifi-bonding-nolog/track.json"
       },
       "versions": [
         {
@@ -4637,7 +4752,8 @@
         "type": "GIT",
         "added": 1719068335.848726,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/xhhttp/track.json"
       },
       "versions": [
         {
@@ -4674,7 +4790,8 @@
         "type": "ONLINE_JSON",
         "added": 1719068341.238523,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/xmlpak-RE/track.json"
       },
       "versions": [
         {
@@ -4708,7 +4825,8 @@
         "type": "GIT",
         "added": 1719068359.009728,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ytrevancedinject/track.json"
       },
       "versions": [
         {
