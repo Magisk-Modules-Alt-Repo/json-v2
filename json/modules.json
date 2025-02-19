@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1739968229.952991
+    "timestamp": 1739989284.357272
   },
   "modules": [
     {
@@ -830,6 +830,14 @@
           "version": "v1.0.8",
           "versionCode": 1008,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/v1.0.8_1008.zip",
+          "changelog": "",
+          "size": 11527824
+        },
+        {
+          "timestamp": 1731855817.0,
+          "version": "v1.3.9",
+          "versionCode": 1309,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/v1.3.9_1309.zip",
           "changelog": "",
           "size": 11527824
         }
