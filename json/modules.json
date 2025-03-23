@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1742667682.782893
+    "timestamp": 1742693034.732713
   },
   "modules": [
     {
@@ -27,6 +27,9 @@
       "verified": false,
       "timestamp": 1701132905.0,
       "size": 4306937,
+      "permissions": [
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "resetprop": true
       },
@@ -61,6 +64,10 @@
       "verified": false,
       "timestamp": 1640525162.0,
       "size": 16532,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true
@@ -152,6 +159,10 @@
       "verified": false,
       "timestamp": 1697807984.0,
       "size": 4513297,
+      "permissions": [
+        "magisk.permission.RESETPROP",
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "resetprop": true,
         "apks": true
@@ -196,6 +207,10 @@
       "verified": false,
       "timestamp": 1691527282.0,
       "size": 10031,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true
@@ -235,6 +250,9 @@
       "verified": false,
       "timestamp": 1705505468.0,
       "size": 3679,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "post_fs_data": true
       },
@@ -310,6 +328,11 @@
       "verified": false,
       "timestamp": 1644450020.0,
       "size": 10320,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -347,6 +370,11 @@
       "verified": false,
       "timestamp": 1673388915.0,
       "size": 9348,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -382,6 +410,9 @@
       "verified": false,
       "timestamp": 1673728563.0,
       "size": 3962,
+      "permissions": [
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "resetprop": true
       },
@@ -416,6 +447,12 @@
       "verified": false,
       "timestamp": 1645534294.0,
       "size": 1757608,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP",
+        "magisk.permission.SEPOLICY"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -498,6 +535,9 @@
       "verified": false,
       "timestamp": 1647226419.0,
       "size": 37632,
+      "permissions": [
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "apks": true
       },
@@ -532,6 +572,11 @@
       "verified": false,
       "timestamp": 1691803198.0,
       "size": 24700925,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -568,6 +613,10 @@
       "verified": false,
       "timestamp": 1683468277.0,
       "size": 13744,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true
@@ -603,6 +652,10 @@
       "verified": false,
       "timestamp": 1683468066.0,
       "size": 13394,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true
@@ -733,6 +786,11 @@
       "verified": false,
       "timestamp": 1700979143.0,
       "size": 22907,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -770,6 +828,11 @@
       "verified": false,
       "timestamp": 1700978584.0,
       "size": 23301,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -807,6 +870,9 @@
       "verified": false,
       "timestamp": 1731855817.0,
       "size": 11527824,
+      "permissions": [
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "apks": true
       },
@@ -865,6 +931,9 @@
       "verified": false,
       "timestamp": 1661027636.0,
       "size": 18854,
+      "permissions": [
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "apks": true
       },
@@ -907,6 +976,9 @@
       "verified": false,
       "timestamp": 1598109398.0,
       "size": 20786,
+      "permissions": [
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "apks": true
       },
@@ -957,6 +1029,9 @@
       "verified": false,
       "timestamp": 1604596410.0,
       "size": 19808,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -1000,6 +1075,9 @@
       "verified": false,
       "timestamp": 1612778235.0,
       "size": 33489,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -1042,6 +1120,9 @@
       "verified": false,
       "timestamp": 1718066953.0,
       "size": 32364591,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -1076,6 +1157,10 @@
       "verified": false,
       "timestamp": 1741285368.656368,
       "size": 6804834,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.ACTION"
+      ],
       "features": {
         "service": true,
         "action": true
@@ -1151,6 +1236,9 @@
       "verified": false,
       "timestamp": 1711189357.0,
       "size": 45326744,
+      "permissions": [
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "apks": true
       },
@@ -1185,6 +1273,9 @@
       "verified": false,
       "timestamp": 1725221931.0,
       "size": 19572,
+      "permissions": [
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "apks": true
       },
@@ -1227,6 +1318,10 @@
       "verified": false,
       "timestamp": 1665058819.0,
       "size": 13369,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true
@@ -1271,6 +1366,10 @@
       "verified": false,
       "timestamp": 1673519027.0,
       "size": 2262,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY"
+      ],
       "features": {
         "post_fs_data": true,
         "sepolicy": true
@@ -1305,6 +1404,9 @@
       "verified": false,
       "timestamp": 1703269294.0,
       "size": 75944,
+      "permissions": [
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "apks": true
       },
@@ -1415,6 +1517,9 @@
       "verified": false,
       "timestamp": 1660425389.0,
       "size": 44917,
+      "permissions": [
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "apks": true
       },
@@ -1449,6 +1554,12 @@
       "verified": false,
       "timestamp": 1669914042.0,
       "size": 1803989,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP",
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -1486,6 +1597,9 @@
       "verified": false,
       "timestamp": 1690305811.0,
       "size": 15149,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -1520,6 +1634,9 @@
       "verified": false,
       "timestamp": 1663296809.0,
       "size": 23979075,
+      "permissions": [
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "apks": true
       },
@@ -1604,6 +1721,9 @@
       "verified": false,
       "timestamp": 1696314908.0,
       "size": 16274,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -1639,6 +1759,10 @@
       "verified": false,
       "timestamp": 1691427222.0,
       "size": 1499417,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true
@@ -1705,6 +1829,10 @@
       "verified": false,
       "timestamp": 1738909405.363689,
       "size": 1051997,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.ACTION"
+      ],
       "features": {
         "service": true,
         "action": true
@@ -1781,6 +1909,9 @@
       "verified": false,
       "timestamp": 1693126069.0,
       "size": 6262,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -1828,6 +1959,11 @@
       "verified": false,
       "timestamp": 1737531695.0,
       "size": 9516,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -1865,6 +2001,11 @@
       "verified": true,
       "timestamp": 1741587011.0,
       "size": 5011,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -1965,6 +2106,10 @@
       "verified": false,
       "timestamp": 1719564654.0,
       "size": 20160,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true
@@ -2008,6 +2153,11 @@
       "verified": false,
       "timestamp": 1729225085.0,
       "size": 26321,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -2060,6 +2210,10 @@
       "verified": false,
       "timestamp": 1734025040.0,
       "size": 39541,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "service": true,
         "resetprop": true
@@ -2220,6 +2374,9 @@
       "verified": false,
       "timestamp": 1648456059.0,
       "size": 137315,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -2254,6 +2411,9 @@
       "verified": false,
       "timestamp": 1600642258.0,
       "size": 15195,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -2296,6 +2456,9 @@
       "verified": false,
       "timestamp": 1600642223.0,
       "size": 15151,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -2488,6 +2651,9 @@
       "verified": false,
       "timestamp": 1644751003.0,
       "size": 18191,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "post_fs_data": true
       },
@@ -2622,6 +2788,9 @@
       "verified": false,
       "timestamp": 1716766415.0,
       "size": 2144,
+      "permissions": [
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "resetprop": true
       },
@@ -2688,6 +2857,9 @@
       "verified": false,
       "timestamp": 1719401720.0,
       "size": 18811,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -2732,6 +2904,11 @@
       "verified": false,
       "timestamp": 1729109800.0,
       "size": 15220,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.RESETPROP",
+        "magisk.permission.ACTION"
+      ],
       "features": {
         "service": true,
         "resetprop": true,
@@ -2777,6 +2954,9 @@
       "verified": false,
       "timestamp": 1662814335.0,
       "size": 2851,
+      "permissions": [
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "resetprop": true
       },
@@ -2811,6 +2991,9 @@
       "verified": false,
       "timestamp": 1663012287.0,
       "size": 3402,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -2845,6 +3028,9 @@
       "verified": false,
       "timestamp": 1711371168.0,
       "size": 5146,
+      "permissions": [
+        "magisk.permission.SEPOLICY"
+      ],
       "features": {
         "sepolicy": true
       },
@@ -2889,6 +3075,9 @@
       "verified": false,
       "timestamp": 1638809703.0,
       "size": 415160,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -2953,6 +3142,10 @@
       "verified": false,
       "timestamp": 1603068712.0,
       "size": 248018,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "service": true,
         "resetprop": true
@@ -3219,6 +3412,9 @@
       "verified": false,
       "timestamp": 1734613350.0,
       "size": 7681857,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "post_fs_data": true
       },
@@ -3262,6 +3458,9 @@
       "verified": false,
       "timestamp": 1711254365.0,
       "size": 11018099,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "post_fs_data": true
       },
@@ -3301,6 +3500,9 @@
       "verified": false,
       "timestamp": 1733164388.0,
       "size": 27888,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -3343,6 +3545,10 @@
       "verified": false,
       "timestamp": 1686805349.0,
       "size": 6964577,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true
@@ -3386,6 +3592,9 @@
       "verified": false,
       "timestamp": 1694360679.0,
       "size": 4196261,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "post_fs_data": true
       },
@@ -3427,6 +3636,9 @@
       "verified": false,
       "timestamp": 1690613826.0,
       "size": 36850858,
+      "permissions": [
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "apks": true
       },
@@ -3532,6 +3744,9 @@
       "verified": false,
       "timestamp": 1734232789.0,
       "size": 27182774,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true,
         "modconf": true
@@ -3692,6 +3907,9 @@
       "verified": false,
       "timestamp": 1734388190.0,
       "size": 22201610,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "post_fs_data": true
       },
@@ -3781,6 +3999,9 @@
       "verified": false,
       "timestamp": 1695975711.0,
       "size": 59693,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -3935,6 +4156,9 @@
       "verified": false,
       "timestamp": 1721913090.0,
       "size": 17925,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -3984,6 +4208,9 @@
       "verified": false,
       "timestamp": 1598478612.0,
       "size": 15359,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -4027,6 +4254,9 @@
       "verified": false,
       "timestamp": 1657442127.0,
       "size": 216689,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "post_fs_data": true
       },
@@ -4061,6 +4291,11 @@
       "verified": false,
       "timestamp": 1707749983.0,
       "size": 16172,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -4112,6 +4347,9 @@
       "verified": false,
       "timestamp": 1692753832.0,
       "size": 2849,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "post_fs_data": true
       },
@@ -4217,6 +4455,9 @@
       "verified": false,
       "timestamp": 1678882493.0,
       "size": 4660,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "post_fs_data": true
       },
@@ -4319,6 +4560,9 @@
       "verified": false,
       "timestamp": 1643775613.0,
       "size": 16545,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -4398,6 +4642,9 @@
       "verified": false,
       "timestamp": 1655967999.0,
       "size": 7804,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -4470,6 +4717,10 @@
       "verified": false,
       "timestamp": 1713299452.0,
       "size": 3817,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "service": true,
         "resetprop": true
@@ -4535,6 +4786,10 @@
       "verified": false,
       "timestamp": 1729236859.0,
       "size": 19770,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "post_fs_data": true,
         "resetprop": true
@@ -4679,6 +4934,10 @@
       "verified": false,
       "timestamp": 1736594565.0,
       "size": 49969,
+      "permissions": [
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
+      ],
       "features": {
         "action": true,
         "webroot": true
@@ -4754,6 +5013,10 @@
       "verified": false,
       "timestamp": 1698433306.0,
       "size": 7570,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true
@@ -4797,6 +5060,11 @@
       "verified": false,
       "timestamp": 1719138327.0,
       "size": 4614463,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -4870,6 +5138,11 @@
       "verified": false,
       "timestamp": 1673704299.0,
       "size": 28630027,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
