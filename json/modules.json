@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1743186240.865542
+    "timestamp": 1743211104.095182
   },
   "modules": [
     {
@@ -1818,8 +1818,8 @@
     {
       "id": "Xtreme-Battery-Saver",
       "name": "Xtreme Battery Saver",
-      "version": "v2.1.1",
-      "versionCode": 211,
+      "version": "v2.1.2",
+      "versionCode": 212,
       "author": "DethByte64",
       "description": "An extreme battery saver for Magisk users who really want to stretch their battery life",
       "added": 1729804427.076371,
@@ -1827,8 +1827,8 @@
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/main/README.md",
       "verified": false,
-      "timestamp": 1738909405.363689,
-      "size": 1051997,
+      "timestamp": 1743211084.071612,
+      "size": 1053145,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION"
@@ -1845,14 +1845,6 @@
         "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1729819103.964432,
-          "version": "v1.0.3",
-          "versionCode": 103,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v1.0.3_103.zip",
-          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v1.0.3_103.md",
-          "size": 991352
-        },
         {
           "timestamp": 1736922118.224769,
           "version": "v1.0.5",
@@ -1892,6 +1884,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v2.1.1_211.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v2.1.1_211.md",
           "size": 1051997
+        },
+        {
+          "timestamp": 1743211084.071612,
+          "version": "v2.1.2",
+          "versionCode": 212,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v2.1.2_212.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v2.1.2_212.md",
+          "size": 1053145
         }
       ]
     },
