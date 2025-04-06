@@ -8,6 +8,14 @@
       "versionCode": 1,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/kaina/0.1_1.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1710968944.0,
+      "version": "v2021.12.6",
+      "versionCode": 202112060,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/kaina/v2021.12.6_202112060.zip",
+      "changelog": "",
+      "size": 5483
     }
   ]
 }
