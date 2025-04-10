@@ -23,6 +23,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/resampling-for-cheapies/v2.0.0_2000.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/resampling-for-cheapies/v2.0.0_2000.md",
       "size": 17925
+    },
+    {
+      "timestamp": 1724858594.0,
+      "version": "v3.1.2",
+      "versionCode": 30102,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/resampling-for-cheapies/v3.1.2_30102.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/resampling-for-cheapies/v3.1.2_30102.md",
+      "size": 18055
     }
   ]
 }
