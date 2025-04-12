@@ -15,6 +15,14 @@
       "versionCode": 222,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/xhhttp/v0.22.2_222.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1719138327.0,
+      "version": "1.6.15",
+      "versionCode": 1615,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/xhhttp/1.6.15_1615.zip",
+      "changelog": "",
+      "size": 4614463
     }
   ]
 }
