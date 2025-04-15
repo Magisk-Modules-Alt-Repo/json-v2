@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1744698340.921508
+    "timestamp": 1744720545.943937
   },
   "modules": [
     {
@@ -2771,6 +2771,14 @@
           "versionCode": 8,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_restore_Courier/v2.14_8.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_restore_Courier/v2.14_8.md"
+        },
+        {
+          "timestamp": 1686221785.0,
+          "version": "v1",
+          "versionCode": 1000,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_restore_Courier/v1_1000.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_restore_Courier/v1_1000.md",
+          "size": 2839164
         }
       ]
     },
