@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1744893316.068508
+    "timestamp": 1744914250.436619
   },
   "modules": [
     {
@@ -430,6 +430,14 @@
           "versionCode": 2,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/DalvikHyperthreading/v2_2.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1673728563.0,
+          "version": "v2.7",
+          "versionCode": 27,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/DalvikHyperthreading/v2.7_27.zip",
+          "changelog": "",
+          "size": 3962
         }
       ]
     },
