@@ -24,6 +24,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Google-Sans-Plus/v1.3.9_1309.zip",
       "changelog": "",
       "size": 23286386
+    },
+    {
+      "timestamp": 1598227265.0,
+      "version": "v2023.10.16",
+      "versionCode": 202310160,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Google-Sans-Plus/v2023.10.16_202310160.zip",
+      "changelog": "",
+      "size": 23286386
     }
   ]
 }
