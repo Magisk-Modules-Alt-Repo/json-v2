@@ -8,6 +8,14 @@
       "versionCode": 3,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_isolation_support/1.2_3.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1670983400.0,
+      "version": "v1.1.3",
+      "versionCode": 1103,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_isolation_support/v1.1.3_1103.zip",
+      "changelog": "",
+      "size": 15011
     }
   ]
 }
