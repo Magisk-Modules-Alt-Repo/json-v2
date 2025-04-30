@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1745951068.641133
+    "timestamp": 1745976182.672082
   },
   "modules": [
     {
@@ -2371,6 +2371,14 @@
           "version": "v1.1.3",
           "versionCode": 1103,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch/v1.1.3_1103.zip",
+          "changelog": "",
+          "size": 4295
+        },
+        {
+          "timestamp": 1638831717.0,
+          "version": "v2023.10.16",
+          "versionCode": 202310160,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch/v2023.10.16_202310160.zip",
           "changelog": "",
           "size": 4295
         }
