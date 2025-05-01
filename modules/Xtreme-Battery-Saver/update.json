@@ -3,14 +3,6 @@
   "timestamp": 1729819103.964432,
   "versions": [
     {
-      "timestamp": 1736922118.224769,
-      "version": "v1.0.5",
-      "versionCode": 105,
-      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v1.0.5_105.zip",
-      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v1.0.5_105.md",
-      "size": 995307
-    },
-    {
       "timestamp": 1738261274.598216,
       "version": "v1.0.6",
       "versionCode": 106,
@@ -49,6 +41,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v2.1.2_212.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v2.1.2_212.md",
       "size": 1053145
+    },
+    {
+      "timestamp": 1746063492.551066,
+      "version": "v2.1.3",
+      "versionCode": 213,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v2.1.3_213.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Xtreme-Battery-Saver/v2.1.3_213.md",
+      "size": 1053205
     }
   ]
 }
