@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1746469390.483362
+    "timestamp": 1746494706.887393
   },
   "modules": [
     {
@@ -3532,10 +3532,10 @@
     {
       "id": "magisk-swapspace",
       "name": "Magisk SwapSpace",
-      "version": "v2.2",
-      "versionCode": 22,
+      "version": "v2.3",
+      "versionCode": 23,
       "author": "chickendrop89",
-      "description": "Save memory a bit by swapping some to a disk (magiskswap in terminal)",
+      "description": "Create a persistent swap space on android (magiskswap in terminal)",
       "added": 1725291379.467831,
       "categories": [
         "Configurable",
@@ -3546,8 +3546,8 @@
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/README.md",
       "verified": false,
-      "timestamp": 1733164388.0,
-      "size": 27888,
+      "timestamp": 1746475435.0,
+      "size": 27416,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -3577,6 +3577,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.2_22.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.2_22.md",
           "size": 27888
+        },
+        {
+          "timestamp": 1746475435.0,
+          "version": "v2.3",
+          "versionCode": 23,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.3_23.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.3_23.md",
+          "size": 27416
         }
       ]
     },

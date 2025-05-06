@@ -17,6 +17,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.2_22.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.2_22.md",
       "size": 27888
+    },
+    {
+      "timestamp": 1746475435.0,
+      "version": "v2.3",
+      "versionCode": 23,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.3_23.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-swapspace/v2.3_23.md",
+      "size": 27416
     }
   ]
 }
