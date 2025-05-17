@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1747463054.437907
+    "timestamp": 1747485203.142136
   },
   "modules": [
     {
@@ -1440,6 +1440,14 @@
           "versionCode": 6,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NoStorageRestrict/v5_6.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1703269294.0,
+          "version": "v1.5.2",
+          "versionCode": 152,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NoStorageRestrict/v1.5.2_152.zip",
+          "changelog": "",
+          "size": 75944
         }
       ]
     },
