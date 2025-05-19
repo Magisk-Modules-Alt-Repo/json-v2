@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1747658322.351412
+    "timestamp": 1747679201.068339
   },
   "modules": [
     {
@@ -4455,6 +4455,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/smallbattery/v3_3.zip",
           "changelog": "",
           "size": 2849
+        },
+        {
+          "timestamp": 1692753832.0,
+          "version": "v1.0",
+          "versionCode": 20220806,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/smallbattery/v1.0_20220806.zip",
+          "changelog": "",
+          "size": 2849
         }
       ]
     },
@@ -5004,6 +5012,14 @@
           "version": "v3.47.2",
           "versionCode": 20241212,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/vintf-bypass/v3.47.2_20241212.zip",
+          "changelog": "",
+          "size": 17311
+        },
+        {
+          "timestamp": 1598025275.0,
+          "version": "v3.49.1",
+          "versionCode": 20250220,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/vintf-bypass/v3.49.1_20250220.zip",
           "changelog": "",
           "size": 17311
         }

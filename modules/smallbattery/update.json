@@ -16,6 +16,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/smallbattery/v3_3.zip",
       "changelog": "",
       "size": 2849
+    },
+    {
+      "timestamp": 1692753832.0,
+      "version": "v1.0",
+      "versionCode": 20220806,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/smallbattery/v1.0_20220806.zip",
+      "changelog": "",
+      "size": 2849
     }
   ]
 }
