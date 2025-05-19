@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1747592600.460115
+    "timestamp": 1747618132.953037
   },
   "modules": [
     {
@@ -1561,6 +1561,14 @@
           "versionCode": 1,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/QS_Rectangulares/v1.0_1.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1660425389.0,
+          "version": "v2",
+          "versionCode": 3,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/QS_Rectangulares/v2_3.zip",
+          "changelog": "",
+          "size": 44917
         }
       ]
     },
