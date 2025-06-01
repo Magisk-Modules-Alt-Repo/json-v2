@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1748781294.307175
+    "timestamp": 1748802215.673317
   },
   "modules": [
     {
@@ -2239,8 +2239,8 @@
     {
       "id": "audio-samplerate-changer",
       "name": "Audio samplerate changer",
-      "version": "v1.1.2",
-      "versionCode": 1102,
+      "version": "v1.1.5",
+      "versionCode": 1105,
       "author": "zyhk",
       "description": "A Magisk module changing audio samplerates at the system-wide mixer for the best Hi-Fi experience.",
       "added": 1732300316.852201,
@@ -2248,8 +2248,8 @@
       "license": "AGPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/README.md",
       "verified": false,
-      "timestamp": 1734025040.0,
-      "size": 39541,
+      "timestamp": 1746272289.0,
+      "size": 41425,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.RESETPROP"
@@ -2305,6 +2305,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/v1.3.9_1309.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/v1.3.9_1309.md",
           "size": 39541
+        },
+        {
+          "timestamp": 1746272289.0,
+          "version": "v1.3.10",
+          "versionCode": 1310,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/v1.3.10_1310.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-samplerate-changer/v1.3.10_1310.md",
+          "size": 41425
         }
       ]
     },
