@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1748975223.100785
+    "timestamp": 1749000442.724787
   },
   "modules": [
     {
@@ -1983,6 +1983,14 @@
           "version": "v27.5",
           "versionCode": 68,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YAKT/v27.5_68.zip",
+          "changelog": "",
+          "size": 6262
+        },
+        {
+          "timestamp": 1693126069.0,
+          "version": "v4.6.6",
+          "versionCode": 466,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YAKT/v4.6.6_466.zip",
           "changelog": "",
           "size": 6262
         }

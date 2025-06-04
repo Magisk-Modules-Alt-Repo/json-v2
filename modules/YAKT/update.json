@@ -24,6 +24,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YAKT/v27.5_68.zip",
       "changelog": "",
       "size": 6262
+    },
+    {
+      "timestamp": 1693126069.0,
+      "version": "v4.6.6",
+      "versionCode": 466,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YAKT/v4.6.6_466.zip",
+      "changelog": "",
+      "size": 6262
     }
   ]
 }
