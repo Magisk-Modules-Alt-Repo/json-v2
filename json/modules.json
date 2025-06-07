@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1749299655.461704
+    "timestamp": 1749320618.380036
   },
   "modules": [
     {
@@ -2926,8 +2926,8 @@
     {
       "id": "drc-remover",
       "name": "DRC remover",
-      "version": "v1.2.4",
-      "versionCode": 1204,
+      "version": "v1.2.5",
+      "versionCode": 1205,
       "author": "zyhk",
       "description": "A remover of DRC (Dynamic Range Control, i.e., compression) sticking to all audio outputs on some major devices.",
       "added": 1719067831.995745,
@@ -2935,8 +2935,8 @@
       "license": "AGPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
       "verified": false,
-      "timestamp": 1719401720.0,
-      "size": 18811,
+      "timestamp": 1749308179.0,
+      "size": 19056,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -2964,6 +2964,14 @@
           "versionCode": 1204,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/drc-remover/v1.2.4_1204.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/drc-remover/v1.2.4_1204.md"
+        },
+        {
+          "timestamp": 1749308179.0,
+          "version": "v1.2.5",
+          "versionCode": 1205,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/drc-remover/v1.2.5_1205.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/drc-remover/v1.2.5_1205.md",
+          "size": 19056
         }
       ]
     },
