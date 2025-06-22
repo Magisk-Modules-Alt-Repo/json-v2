@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1750595683.664159
+    "timestamp": 1750599414.817622
   },
   "modules": [
     {
@@ -402,6 +402,38 @@
           "versionCode": 27,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/CloudflareDNS4Magisk-IPv6/v2.7_27.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "CustomizedNavbar",
+      "name": "Customized Navbar",
+      "version": "3.2",
+      "versionCode": 5,
+      "author": "Pycm [4PDA]",
+      "description": "Change Navbar Gesture Indicator color to match the theme's accent color, increase wide and thickness",
+      "added": 1719067781.608091,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/README.md",
+      "verified": false,
+      "timestamp": 1680734245.0,
+      "size": 548600,
+      "track": {
+        "type": "GIT",
+        "added": 1719067781.608091,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar.git",
+        "antifeatures": null,
+        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/CustomizedNavbar/track.json"
+      },
+      "versions": [
+        {
+          "timestamp": 1680734245.0,
+          "version": "v0.0.1",
+          "versionCode": 13,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/CustomizedNavbar/v0.0.1_13.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/CustomizedNavbar/v0.0.1_13.md",
+          "size": 548600
         }
       ]
     },
