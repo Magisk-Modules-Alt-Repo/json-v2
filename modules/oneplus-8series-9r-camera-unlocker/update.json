@@ -8,6 +8,14 @@
       "versionCode": 1200,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.md"
+    },
+    {
+      "timestamp": 1750658979.0,
+      "version": "v1.3",
+      "versionCode": 1300,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplus-8series-9r-camera-unlocker/v1.3_1300.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplus-8series-9r-camera-unlocker/v1.3_1300.md",
+      "size": 2090817
     }
   ]
 }

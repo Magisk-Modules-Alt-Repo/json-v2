@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1750642927.843475
+    "timestamp": 1750660165.471309
   },
   "modules": [
     {
@@ -3945,17 +3945,17 @@
     {
       "id": "oneplus-8series-9r-camera-unlocker",
       "name": "OnePlus 8 Series & 9R Camera Unlocker",
-      "version": "v1.2",
-      "versionCode": 1200,
-      "author": "AnierinB, Cartesian8445, haiderijaz, JeusChrit, Luk1377, shadowstep",
-      "description": "Unlocks features like 48MP RAW10 support, auxiliary lenses (in custom ROMs only), Zero Shutter Lag (ZSL), etc. on the OnePlus 8, 8 Pro, 8T, and 9R",
+      "version": "v1.3",
+      "versionCode": 1300,
+      "author": "shadowstep @ XDA",
+      "description": "Unlocks features like 48MP RAW10 support, auxiliary lenses (in custom ROMs only), Zero Shutter Lag (ZSL), etc. on the OnePlus 8, 8 Pro, 8T, and 9R.",
       "added": 1719068109.355209,
       "support": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/issues",
       "license": "GPL-2.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/master/README.md",
       "verified": false,
-      "timestamp": 1668837132.0,
-      "size": 4854953,
+      "timestamp": 1750658979.0,
+      "size": 2090817,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068109.355209,
@@ -3970,6 +3970,14 @@
           "versionCode": 1200,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.md"
+        },
+        {
+          "timestamp": 1750658979.0,
+          "version": "v1.3",
+          "versionCode": 1300,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplus-8series-9r-camera-unlocker/v1.3_1300.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/oneplus-8series-9r-camera-unlocker/v1.3_1300.md",
+          "size": 2090817
         }
       ]
     },
