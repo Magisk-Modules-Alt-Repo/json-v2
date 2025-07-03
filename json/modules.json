@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1751480957.274878
+    "timestamp": 1751506108.562277
   },
   "modules": [
     {
@@ -3108,6 +3108,14 @@
           "version": "v1.2.5",
           "versionCode": 1205,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ezme-dex-space/v1.2.5_1205.zip",
+          "changelog": "",
+          "size": 2851
+        },
+        {
+          "timestamp": 1662814335.0,
+          "version": "v2021.11.3",
+          "versionCode": 202111030,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ezme-dex-space/v2021.11.3_202111030.zip",
           "changelog": "",
           "size": 2851
         }

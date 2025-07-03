@@ -16,6 +16,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ezme-dex-space/v1.2.5_1205.zip",
       "changelog": "",
       "size": 2851
+    },
+    {
+      "timestamp": 1662814335.0,
+      "version": "v2021.11.3",
+      "versionCode": 202111030,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ezme-dex-space/v2021.11.3_202111030.zip",
+      "changelog": "",
+      "size": 2851
     }
   ]
 }
