@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1751718923.183753
+    "timestamp": 1751736584.362386
   },
   "modules": [
     {
@@ -3641,13 +3641,13 @@
       "author": "chickendrop89",
       "description": "Create a persistent swap space on android (magiskswap in terminal)",
       "added": 1725291379.467831,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk-swapspace/issues",
+      "license": "GPL-3.0",
       "categories": [
         "Configurable",
         "Tweaks and Hacks",
         "System"
       ],
-      "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk-swapspace/issues",
-      "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/README.md",
       "verified": false,
       "timestamp": 1746475435.0,
@@ -3839,16 +3839,16 @@
       "support": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues",
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
-      "categories": [
-        "Coding",
-        "Configurable",
-        "Tools"
-      ],
       "cover": "https://miro.medium.com/v2/resize:fit:1200/format:png/1*R6CVgKDLTenXSGUxgt0t7Q.png",
       "screenshots": [
         "https://cdn.dergoogler.com/images/mkshrc-screen1.png",
         "https://cdn.dergoogler.com/images/mkshrc-screen2.png",
         "https://cdn.dergoogler.com/images/mkshrc-screen3.png"
+      ],
+      "categories": [
+        "Coding",
+        "Configurable",
+        "Tools"
       ],
       "verified": false,
       "timestamp": 1719756360.0,
@@ -3888,7 +3888,7 @@
       ]
     },
     {
-      "id": "node_on_android",
+      "id": "node",
       "name": "Systemless Node.js",
       "version": "1.6.7",
       "versionCode": 167,
@@ -3898,17 +3898,17 @@
       "donate": "https://github.com/sponsors/DerGoogler",
       "support": "https://github.com/Magisk-Modules-Alt-Repo/node/issues",
       "license": "MIT",
+      "cover": "https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true",
+      "icon": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
+      "require": [
+        "mkshrc"
+      ],
       "categories": [
         "Coding",
         "Configurable",
         "Tools"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
-      "cover": "https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
-      "require": [
-        "mkshrc"
-      ],
       "verified": false,
       "timestamp": 1734232789.0,
       "size": 27182774,
@@ -3916,8 +3916,7 @@
         "magisk.permission.SERVICE"
       ],
       "features": {
-        "service": true,
-        "modconf": true
+        "service": true
       },
       "track": {
         "type": "GIT",
@@ -4247,14 +4246,14 @@
       "support": "https://github.com/Magisk-Modules-Alt-Repo/pmmp/issues",
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/main/README.md",
+      "icon": "https://tukangm.github.io/asset/img/pocketmine4android/logo.png",
+      "cover": "https://tukangm.github.io/asset/img/pocketmine4android/pocketmine.jpg",
       "categories": [
         "Server",
         "App Additions and Features",
         "Gaming",
         "Tools"
       ],
-      "icon": "https://tukangm.github.io/asset/img/pocketmine4android/logo.png",
-      "cover": "https://tukangm.github.io/asset/img/pocketmine4android/pocketmine.jpg",
       "screenshots": [
         "https://github.com/TukangM/PocketMine-MP4Android/assets/91467886/2c3438f5-4cf6-4d08-9b6c-5e3c5b8caa56",
         "https://github.com/TukangM/PocketMine-MP4Android/assets/91467886/612e50c3-bc8a-4f72-bade-37ad2187bd76",
@@ -5260,12 +5259,12 @@
       "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues",
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
-      "categories": [
-        "System"
-      ],
       "cover": "https://raw.githubusercontent.com/ducaale/xh/master/assets/xh-demo.gif",
       "screenshots": [
         "https://raw.githubusercontent.com/ducaale/xh/master/assets/xh-demo.gif"
+      ],
+      "categories": [
+        "System"
       ],
       "verified": false,
       "timestamp": 1719138327.0,
