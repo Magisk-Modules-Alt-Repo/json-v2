@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1751783213.33081
+    "timestamp": 1751805333.035027
   },
   "modules": [
     {
@@ -4968,6 +4968,14 @@
           "versionCode": 396,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/upx-ndk/v3.96_396.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1659745041.0,
+          "version": "v1.5.10",
+          "versionCode": 1510,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/upx-ndk/v1.5.10_1510.zip",
+          "changelog": "",
+          "size": 3677980
         }
       ]
     },
