@@ -8,6 +8,14 @@
       "versionCode": 1,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/UbuntuFontVinaooo/v1.0.1_1.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1683467033.0,
+      "version": "v4.6.6",
+      "versionCode": 466,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/UbuntuFontVinaooo/v4.6.6_466.zip",
+      "changelog": "",
+      "size": 2220084
     }
   ]
 }
