@@ -8,6 +8,14 @@
       "versionCode": 7,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_backup/v2.14_7.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_backup/v2.14_7.md"
+    },
+    {
+      "timestamp": 1686425610.0,
+      "version": "v2.14",
+      "versionCode": 8,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_backup/v2.14_8.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/data_backup/v2.14_8.md",
+      "size": 3238593
     }
   ]
 }
