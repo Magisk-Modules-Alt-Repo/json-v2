@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1753079432.166097
+    "timestamp": 1753101714.216668
   },
   "modules": [
     {
@@ -2191,8 +2191,8 @@
     {
       "id": "audio-jitter-silencer",
       "name": "Audio jitter silencer",
-      "version": "v1.0.8",
-      "versionCode": 1008,
+      "version": "v1.0.10",
+      "versionCode": 1010,
       "author": "zyhk",
       "description": "Disabling very large audio jitter generators (w.r.t. battery draining & optimizations, and wireless connectivity) for reducing audio jitter distortion on all digital audio outputs.",
       "added": 1719067609.744737,
@@ -2200,8 +2200,8 @@
       "license": "AGPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
       "verified": false,
-      "timestamp": 1719564654.0,
-      "size": 20160,
+      "timestamp": 1752752852.0,
+      "size": 20250,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA"
@@ -2232,6 +2232,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-jitter-silencer/v1.3.9_1309.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-jitter-silencer/v1.3.9_1309.md",
           "size": 20160
+        },
+        {
+          "timestamp": 1752752852.0,
+          "version": "v1.3.11",
+          "versionCode": 1311,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-jitter-silencer/v1.3.11_1311.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-jitter-silencer/v1.3.11_1311.md",
+          "size": 20250
         }
       ]
     },
