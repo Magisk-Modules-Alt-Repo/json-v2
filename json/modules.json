@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1753252242.868026
+    "timestamp": 1753274484.84589
   },
   "modules": [
     {
@@ -3846,6 +3846,14 @@
           "version": "v0.22.2",
           "versionCode": 222,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/microG-GApps/v0.22.2_222.zip",
+          "changelog": "",
+          "size": 36850858
+        },
+        {
+          "timestamp": 1690613826.0,
+          "version": "1.6.15",
+          "versionCode": 1615,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/microG-GApps/1.6.15_1615.zip",
           "changelog": "",
           "size": 36850858
         }

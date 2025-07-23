@@ -16,6 +16,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/microG-GApps/v0.22.2_222.zip",
       "changelog": "",
       "size": 36850858
+    },
+    {
+      "timestamp": 1690613826.0,
+      "version": "1.6.15",
+      "versionCode": 1615,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/microG-GApps/1.6.15_1615.zip",
+      "changelog": "",
+      "size": 36850858
     }
   ]
 }
