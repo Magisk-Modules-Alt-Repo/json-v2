@@ -40,6 +40,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sqlite3/v3.49.1_20250220.zip",
       "changelog": "",
       "size": 2655207
+    },
+    {
+      "timestamp": 1754583768.0,
+      "version": "v3.50.4",
+      "versionCode": 20250807,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sqlite3/v3.50.4_20250807.zip",
+      "changelog": "",
+      "size": 2668753
     }
   ]
 }
