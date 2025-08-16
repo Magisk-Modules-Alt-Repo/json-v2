@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1755377363.162207
+    "timestamp": 1755377564.555722
   },
   "modules": [
     {
@@ -2047,23 +2047,25 @@
     {
       "id": "YetAnotherBootloopProtector",
       "name": "Yet Another Bootloop Protector",
-      "version": "8 (16-c18afc5-release)",
-      "versionCode": 16,
+      "version": "9.3 (21-5ba7362-release)",
+      "versionCode": 21,
       "author": "rhythmcache.t.me",
       "description": "This module try to detect and fix bootloops caused by Magisk modules.",
       "added": 1737568533459.0,
       "verified": false,
-      "timestamp": 1737531695.0,
-      "size": 9516,
+      "timestamp": 1741073179.0,
+      "size": 16401,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
-        "magisk.permission.ACTION"
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
       ],
       "features": {
         "service": true,
         "post_fs_data": true,
-        "action": true
+        "action": true,
+        "webroot": true
       },
       "track": {
         "type": "GIT",
@@ -2080,6 +2082,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YetAnotherBootloopProtector/8_16-c18afc5-release.zip",
           "changelog": "",
           "size": 9516
+        },
+        {
+          "timestamp": 1741073179.0,
+          "version": "9.3 (21-5ba7362-release)",
+          "versionCode": 21,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YetAnotherBootloopProtector/9.3_21-5ba7362-release.zip",
+          "changelog": "",
+          "size": 16401
         }
       ]
     },
@@ -4212,8 +4222,8 @@
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/main/README.md",
       "verified": false,
-      "timestamp": 1695975711.0,
-      "size": 59693,
+      "timestamp": 1693840051.0,
+      "size": 4276,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -4234,6 +4244,14 @@
           "versionCode": 24,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/perf-limit-xiaomi-12/v2.4_24.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1693840051.0,
+          "version": "v2.1.0",
+          "versionCode": 210,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/perf-limit-xiaomi-12/v2.1.0_210.zip",
+          "changelog": "",
+          "size": 4276
         }
       ]
     },
@@ -5195,16 +5213,16 @@
     {
       "id": "wadbd",
       "name": "WirelessADBD-Controller",
-      "version": "4.3",
-      "versionCode": 6,
+      "version": "4.7",
+      "versionCode": 10,
       "author": "rhythmcache.t.me",
       "description": "A Wireless ADB Controller",
       "added": 1732300680.547536,
       "support": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/main/README.md",
       "verified": false,
-      "timestamp": 1741925017.0,
-      "size": 56156,
+      "timestamp": 1739700272.0,
+      "size": 44870,
       "permissions": [
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ACTION",
@@ -5223,14 +5241,6 @@
         "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1732293876.0,
-          "version": "v1.1",
-          "versionCode": 2,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/v1.1_2.zip",
-          "changelog": "",
-          "size": 4176
-        },
         {
           "timestamp": 1735063355.0,
           "version": "3",
@@ -5270,6 +5280,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/v8_8.zip",
           "changelog": "",
           "size": 56156
+        },
+        {
+          "timestamp": 1739700272.0,
+          "version": "4.7",
+          "versionCode": 10,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/4.7_10.zip",
+          "changelog": "",
+          "size": 44870
         }
       ]
     },
