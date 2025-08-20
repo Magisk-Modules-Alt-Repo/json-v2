@@ -17,6 +17,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YetAnotherBootloopProtector/9.3_21-5ba7362-release.zip",
       "changelog": "",
       "size": 16401
+    },
+    {
+      "timestamp": 1741073179.0,
+      "version": "v2023.10.16",
+      "versionCode": 202310160,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YetAnotherBootloopProtector/v2023.10.16_202310160.zip",
+      "changelog": "",
+      "size": 16401
     }
   ]
 }

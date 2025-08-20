@@ -16,6 +16,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/pdx213_assistant_camera_remap/v2.4_24.zip",
       "changelog": "",
       "size": 4022
+    },
+    {
+      "timestamp": 1661242317.0,
+      "version": "v3.1.2",
+      "versionCode": 30102,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/pdx213_assistant_camera_remap/v3.1.2_30102.zip",
+      "changelog": "",
+      "size": 4022
     }
   ]
 }
