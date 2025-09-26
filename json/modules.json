@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1758849584.95034
+    "timestamp": 1758868000.156114
   },
   "modules": [
     {
@@ -3888,8 +3888,8 @@
     {
       "id": "mkshrc",
       "name": "Systemless Mkshrc",
-      "version": "1.6.15",
-      "versionCode": 1615,
+      "version": "1.5.13",
+      "versionCode": 1513,
       "author": "Der_Googler",
       "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
       "added": 1719068059.74496,
@@ -3897,20 +3897,9 @@
       "support": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues",
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
-      "cover": "https://miro.medium.com/v2/resize:fit:1200/format:png/1*R6CVgKDLTenXSGUxgt0t7Q.png",
-      "screenshots": [
-        "https://cdn.dergoogler.com/images/mkshrc-screen1.png",
-        "https://cdn.dergoogler.com/images/mkshrc-screen2.png",
-        "https://cdn.dergoogler.com/images/mkshrc-screen3.png"
-      ],
-      "categories": [
-        "Coding",
-        "Configurable",
-        "Tools"
-      ],
       "verified": false,
-      "timestamp": 1719756360.0,
-      "size": 6837148,
+      "timestamp": 1705018349.0,
+      "size": 21511279,
       "features": {
         "modconf": true
       },
@@ -3942,6 +3931,14 @@
           "versionCode": 1615,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/mkshrc/1.6.15_1615.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1705018349.0,
+          "version": "v3.1.2",
+          "versionCode": 30102,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/mkshrc/v3.1.2_30102.zip",
+          "changelog": "",
+          "size": 21511279
         }
       ]
     },
