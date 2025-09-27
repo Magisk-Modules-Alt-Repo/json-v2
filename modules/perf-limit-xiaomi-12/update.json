@@ -16,6 +16,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/perf-limit-xiaomi-12/v2.1.0_210.zip",
       "changelog": "",
       "size": 4276
+    },
+    {
+      "timestamp": 1693840051.0,
+      "version": "1.5.13",
+      "versionCode": 1513,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/perf-limit-xiaomi-12/1.5.13_1513.zip",
+      "changelog": "",
+      "size": 4276
     }
   ]
 }
