@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1761873840.838888
+    "timestamp": 1761892122.757988
   },
   "modules": [
     {
@@ -1219,7 +1219,7 @@
       "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
       "verified": false,
-      "timestamp": 1741285368.656368,
+      "timestamp": 1761892096.39612,
       "size": 6804834,
       "permissions": [
         "magisk.permission.SERVICE",
@@ -1237,14 +1237,6 @@
         "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1734978079.99909,
-          "version": "v4.2.6",
-          "versionCode": 23,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v4.2.6_23.zip",
-          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v4.2.6_23.md",
-          "size": 5883101
-        },
         {
           "timestamp": 1735175612.170428,
           "version": "v4.2.7",
@@ -1283,6 +1275,14 @@
           "versionCode": 30,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v5.0.4_30.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v5.0.4_30.md",
+          "size": 6804834
+        },
+        {
+          "timestamp": 1761892096.39612,
+          "version": "v1.3.1",
+          "versionCode": 131,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v1.3.1_131.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v1.3.1_131.md",
           "size": 6804834
         }
       ]
