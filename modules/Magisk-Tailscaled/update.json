@@ -9,6 +9,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-Tailscaled/v1.66.4.1_1660401.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-Tailscaled/v1.66.4.1_1660401.md",
       "size": 32364591
+    },
+    {
+      "timestamp": 1762252264.0,
+      "version": "v2.0.0.1",
+      "versionCode": 2000001,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-Tailscaled/v2.0.0.1_2000001.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-Tailscaled/v2.0.0.1_2000001.md",
+      "size": 13287
     }
   ]
 }

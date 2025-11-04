@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1762237727.569146
+    "timestamp": 1762260096.512912
   },
   "modules": [
     {
@@ -1173,8 +1173,8 @@
     {
       "id": "Magisk-Tailscaled",
       "name": "Magisk Tailscaled",
-      "version": "v1.66.4.1",
-      "versionCode": 1660401,
+      "version": "v2.0.0.1",
+      "versionCode": 2000001,
       "author": "anasfanani",
       "description": "Tailscale. The easiest, most secure way to use WireGuard and 2FA.",
       "added": 1726609558.817265,
@@ -1182,8 +1182,8 @@
       "license": "BSD-3-Clause-Clear",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/README.md",
       "verified": false,
-      "timestamp": 1718066953.0,
-      "size": 32364591,
+      "timestamp": 1762252264.0,
+      "size": 13287,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -1205,6 +1205,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-Tailscaled/v1.66.4.1_1660401.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-Tailscaled/v1.66.4.1_1660401.md",
           "size": 32364591
+        },
+        {
+          "timestamp": 1762252264.0,
+          "version": "v2.0.0.1",
+          "versionCode": 2000001,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-Tailscaled/v2.0.0.1_2000001.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Magisk-Tailscaled/v2.0.0.1_2000001.md",
+          "size": 13287
         }
       ]
     },
