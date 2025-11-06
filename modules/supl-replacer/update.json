@@ -8,6 +8,14 @@
       "versionCode": 5,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/supl-replacer/v2.2.1_5.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/supl-replacer/v2.2.1_5.md"
+    },
+    {
+      "timestamp": 1762425455.0,
+      "version": "v2.3.1",
+      "versionCode": 7,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/supl-replacer/v2.3.1_7.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/supl-replacer/v2.3.1_7.md",
+      "size": 4868
     }
   ]
 }

@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1762410574.448886
+    "timestamp": 1762432752.154551
   },
   "modules": [
     {
@@ -4754,8 +4754,8 @@
     {
       "id": "supl-replacer",
       "name": "A-GPS SUPL replacer",
-      "version": "v2.2.1",
-      "versionCode": 5,
+      "version": "v2.3.1",
+      "versionCode": 7,
       "author": "PlqnK, D3SOX",
       "description": "Replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf.",
       "added": 1719068237.106092,
@@ -4763,8 +4763,8 @@
       "license": "BSD-3-Clause",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/README.md",
       "verified": false,
-      "timestamp": 1678882493.0,
-      "size": 4660,
+      "timestamp": 1762425455.0,
+      "size": 4868,
       "permissions": [
         "magisk.permission.POST_FS_DATA"
       ],
@@ -4785,6 +4785,14 @@
           "versionCode": 5,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/supl-replacer/v2.2.1_5.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/supl-replacer/v2.2.1_5.md"
+        },
+        {
+          "timestamp": 1762425455.0,
+          "version": "v2.3.1",
+          "versionCode": 7,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/supl-replacer/v2.3.1_7.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/supl-replacer/v2.3.1_7.md",
+          "size": 4868
         }
       ]
     },
