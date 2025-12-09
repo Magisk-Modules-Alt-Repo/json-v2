@@ -93,6 +93,8 @@ jobs:
 
       - name: Index and Push
         if: ${{ env.IS_SYNC == 'true' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mmrl-util index --push
 
