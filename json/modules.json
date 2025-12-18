@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1766039593.393402
+    "timestamp": 1766061699.456987
   },
   "modules": [
     {
@@ -2127,7 +2127,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 102,
+      "stars": 103,
       "track": {
         "type": "GIT",
         "added": 1737568533459.0,
@@ -4873,7 +4873,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 57,
+      "stars": 56,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068237.106092,
