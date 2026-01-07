@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1767724254.630165
+    "timestamp": 1767750115.446715
   },
   "modules": [
     {
@@ -4806,8 +4806,8 @@
     {
       "id": "sqlite3",
       "name": "SQLite for arm, arm64, x86 and x64 devices",
-      "version": "v3.50.4",
-      "versionCode": 20250807,
+      "version": "v3.51.1",
+      "versionCode": 20260106,
       "author": "Rojen Zaman",
       "description": "Provides a statically linked sqlite3 binary for arm, arm64, x86 and x64 devices",
       "added": 1719068225.667242,
@@ -4815,8 +4815,8 @@
       "support": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/README.md",
       "verified": false,
-      "timestamp": 1754583768.0,
-      "size": 2668753,
+      "timestamp": 1767733669.0,
+      "size": 2684527,
       "stars": 24,
       "track": {
         "type": "GIT",
@@ -4826,13 +4826,6 @@
         "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sqlite3/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1718475131.0,
-          "version": "v3.46.0",
-          "versionCode": 20240615,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sqlite3/v3.46.0_20240615.zip",
-          "changelog": ""
-        },
         {
           "timestamp": 1724538295.0,
           "version": "v3.46.1",
@@ -4872,6 +4865,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sqlite3/v3.50.4_20250807.zip",
           "changelog": "",
           "size": 2668753
+        },
+        {
+          "timestamp": 1767733669.0,
+          "version": "v3.51.1",
+          "versionCode": 20260106,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sqlite3/v3.51.1_20260106.zip",
+          "changelog": "",
+          "size": 2684527
         }
       ]
     },
@@ -5259,7 +5260,7 @@
         "post_fs_data": true,
         "resetprop": true
       },
-      "stars": 119,
+      "stars": 120,
       "track": {
         "type": "GIT",
         "added": 1719068317.694499,
