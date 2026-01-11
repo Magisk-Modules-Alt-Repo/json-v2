@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1768135178.019458
+    "timestamp": 1768156121.375971
   },
   "modules": [
     {
@@ -1230,7 +1230,7 @@
       "features": {
         "service": true
       },
-      "stars": 168,
+      "stars": 169,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1726609558.817265,
@@ -1955,8 +1955,8 @@
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/main/README.md",
       "verified": false,
-      "timestamp": 1683467033.0,
-      "size": 2220084,
+      "timestamp": 1683467111.0,
+      "size": 2125964,
       "stars": 8,
       "track": {
         "type": "GIT",
@@ -1980,6 +1980,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/UbuntuFontVinaooo/v4.6.6_466.zip",
           "changelog": "",
           "size": 2220084
+        },
+        {
+          "timestamp": 1683467111.0,
+          "version": "v2023.10.16",
+          "versionCode": 202310160,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/UbuntuFontVinaooo/v2023.10.16_202310160.zip",
+          "changelog": "",
+          "size": 2125964
         }
       ]
     },
