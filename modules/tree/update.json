@@ -25,6 +25,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/tree/v1.0_20220806.zip",
       "changelog": "",
       "size": 4415
+    },
+    {
+      "timestamp": 1736596791.0,
+      "version": "v3.51.1",
+      "versionCode": 20260106,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/tree/v3.51.1_20260106.zip",
+      "changelog": "",
+      "size": 3838
     }
   ]
 }

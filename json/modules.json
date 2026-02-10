@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1770642446.868126
+    "timestamp": 1770702662.506872
   },
   "modules": [
     {
@@ -2232,7 +2232,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 411,
+      "stars": 413,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067581.595615,
@@ -5061,8 +5061,8 @@
       "description": "Just a shell script which tries to mimic the Linux 'tree' binary",
       "added": 1737568533459.0,
       "verified": false,
-      "timestamp": 1736514135.0,
-      "size": 4415,
+      "timestamp": 1736596791.0,
+      "size": 3838,
       "stars": 8,
       "track": {
         "type": "GIT",
@@ -5095,6 +5095,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/tree/v1.0_20220806.zip",
           "changelog": "",
           "size": 4415
+        },
+        {
+          "timestamp": 1736596791.0,
+          "version": "v3.51.1",
+          "versionCode": 20260106,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/tree/v3.51.1_20260106.zip",
+          "changelog": "",
+          "size": 3838
         }
       ]
     },
