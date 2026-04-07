@@ -3,14 +3,6 @@
   "timestamp": 1732293876.0,
   "versions": [
     {
-      "timestamp": 1735063355.0,
-      "version": "3",
-      "versionCode": 3,
-      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/3_3.zip",
-      "changelog": "",
-      "size": 45648
-    },
-    {
       "timestamp": 1735132533.0,
       "version": "4",
       "versionCode": 4,
@@ -49,6 +41,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/4.7_10.zip",
       "changelog": "",
       "size": 44870
+    },
+    {
+      "timestamp": 1775548929.0,
+      "version": "4.8",
+      "versionCode": 11,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/4.8_11.zip",
+      "changelog": "",
+      "size": 45880
     }
   ]
 }
