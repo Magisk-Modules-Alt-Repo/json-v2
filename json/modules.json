@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1777297884.268524
+    "timestamp": 1777317665.894863
   },
   "modules": [
     {
@@ -5339,62 +5339,6 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v3.47.0_20241023.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v3.47.0_20241023.md",
           "size": 19770
-        }
-      ]
-    },
-    {
-      "id": "video-to-bootanimation",
-      "name": "Video To Bootanimation",
-      "version": "4.4",
-      "versionCode": 4,
-      "author": "rhythmcache.t.me",
-      "description": "set Videos as Bootanimation",
-      "added": 1732300967.018943,
-      "support": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/issues",
-      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/main/README.md",
-      "verified": false,
-      "timestamp": 1736368481.0,
-      "size": 9248690,
-      "stars": 107,
-      "track": {
-        "type": "GIT",
-        "added": 1732300967.018943,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation.git",
-        "antifeatures": null,
-        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/video-to-bootanimation/track.json"
-      },
-      "versions": [
-        {
-          "timestamp": 1732289425.0,
-          "version": "v2",
-          "versionCode": 1,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/video-to-bootanimation/v2_1.zip",
-          "changelog": "",
-          "size": 8658620
-        },
-        {
-          "timestamp": 1734368900.0,
-          "version": "V3",
-          "versionCode": 3,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/video-to-bootanimation/V3_3.zip",
-          "changelog": "",
-          "size": 8657415
-        },
-        {
-          "timestamp": 1736369785.0,
-          "version": "V4",
-          "versionCode": 4,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/video-to-bootanimation/V4_4.zip",
-          "changelog": "",
-          "size": 9537507
-        },
-        {
-          "timestamp": 1736368481.0,
-          "version": "v1.5.10",
-          "versionCode": 1510,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/video-to-bootanimation/v1.5.10_1510.zip",
-          "changelog": "",
-          "size": 9248690
         }
       ]
     },
