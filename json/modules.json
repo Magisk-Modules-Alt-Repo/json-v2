@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1782271848.895489
+    "timestamp": 1782293230.626578
   },
   "modules": [
     {
@@ -959,69 +959,6 @@
           "versionCode": 27,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GoogleDNS4Magisk-IPv6/v2.7f_27.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/GoogleDNS4Magisk-IPv6/v2.7f_27.md"
-        }
-      ]
-    },
-    {
-      "id": "HideNavBar",
-      "name": "NavTweaks (former Fullscren/Immersive gestures) (Q-V)",
-      "version": "v27.5",
-      "versionCode": 68,
-      "author": "DanGLES3",
-      "description": "Customize Android 10-15's navigation gestures",
-      "added": 1719067951.726043,
-      "donate": "https://www.paypal.com/donate/?hosted_button_id=BJAJW4755BXFY",
-      "support": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/issues",
-      "license": "GPL-3.0",
-      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
-      "verified": false,
-      "timestamp": 1731855817.0,
-      "size": 11527824,
-      "permissions": [
-        "mmrl.permission.APKS"
-      ],
-      "features": {
-        "apks": true
-      },
-      "stars": 787,
-      "track": {
-        "type": "GIT",
-        "added": 1719067951.726043,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
-        "antifeatures": null,
-        "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/track.json"
-      },
-      "versions": [
-        {
-          "timestamp": 1716752152.0,
-          "version": "v27.3",
-          "versionCode": 67,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/v27.3_67.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1731788534.0,
-          "version": "v27.5",
-          "versionCode": 68,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/v27.5_68.zip",
-          "changelog": "",
-          "size": 11527719
-        },
-        {
-          "timestamp": 1731855817.0,
-          "version": "v1.0.8",
-          "versionCode": 1008,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/v1.0.8_1008.zip",
-          "changelog": "",
-          "size": 11527824
-        },
-        {
-          "timestamp": 1731855817.0,
-          "version": "v1.3.9",
-          "versionCode": 1309,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/v1.3.9_1309.zip",
-          "changelog": "",
-          "size": 11527824
         }
       ]
     },
@@ -3312,7 +3249,7 @@
       "features": {
         "service": true
       },
-      "stars": 75,
+      "stars": 76,
       "track": {
         "type": "GIT",
         "added": 1719067848.736399,
@@ -3690,7 +3627,7 @@
       "verified": false,
       "timestamp": 1652933875.0,
       "size": 4150924,
-      "stars": 203,
+      "stars": 204,
       "track": {
         "type": "GIT",
         "added": 1719067987.514888,
@@ -5421,7 +5358,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 79,
+      "stars": 80,
       "track": {
         "type": "GIT",
         "added": 1732300680.547536,
