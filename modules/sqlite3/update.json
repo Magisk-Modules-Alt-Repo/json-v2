@@ -3,14 +3,6 @@
   "timestamp": 1718475131.0,
   "versions": [
     {
-      "timestamp": 1724538295.0,
-      "version": "v3.46.1",
-      "versionCode": 20240825,
-      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sqlite3/v3.46.1_20240825.zip",
-      "changelog": "",
-      "size": 2580074
-    },
-    {
       "timestamp": 1729715172.0,
       "version": "v3.47.0",
       "versionCode": 20241023,
@@ -49,6 +41,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sqlite3/v3.51.1_20260106.zip",
       "changelog": "",
       "size": 2684527
+    },
+    {
+      "timestamp": 1784115397.0,
+      "version": "v3.53.3",
+      "versionCode": 20260715,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sqlite3/v3.53.3_20260715.zip",
+      "changelog": "",
+      "size": 2802888
     }
   ]
 }
