@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1785958092.981474
+    "timestamp": 1785983204.205256
   },
   "modules": [
     {
@@ -579,7 +579,7 @@
       "verified": false,
       "timestamp": 1685699521.0,
       "size": 494914,
-      "stars": 13,
+      "stars": 14,
       "track": {
         "type": "GIT",
         "added": 1719067837.604001,
@@ -1702,7 +1702,7 @@
       "features": {
         "service": true
       },
-      "stars": 95,
+      "stars": 96,
       "track": {
         "type": "GIT",
         "added": 1719068208.756352,
@@ -1966,7 +1966,7 @@
         "service": true,
         "action": true
       },
-      "stars": 122,
+      "stars": 123,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1729804427.076371,
@@ -2169,7 +2169,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 437,
+      "stars": 438,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067581.595615,
@@ -2700,7 +2700,7 @@
       "verified": false,
       "timestamp": 1729612861.0,
       "size": 690864,
-      "stars": 486,
+      "stars": 487,
       "track": {
         "type": "GIT",
         "added": 1719067736.641686,
@@ -3852,7 +3852,7 @@
         "service": true,
         "post_fs_data": true
       },
-      "stars": 154,
+      "stars": 155,
       "track": {
         "type": "GIT",
         "added": 1719068027.27877,
@@ -4625,6 +4625,14 @@
           "version": "v2.0.1",
           "versionCode": 2001,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/saturation/v2.0.1_2001.zip",
+          "changelog": "",
+          "size": 15359
+        },
+        {
+          "timestamp": 1598478612.0,
+          "version": "v2.0.2",
+          "versionCode": 2002,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/saturation/v2.0.2_2002.zip",
           "changelog": "",
           "size": 15359
         }
