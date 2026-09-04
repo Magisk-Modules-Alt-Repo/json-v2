@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1788536875.622288
+    "timestamp": 1788553111.006679
   },
   "modules": [
     {
@@ -1480,7 +1480,7 @@
       "features": {
         "apks": true
       },
-      "stars": 248,
+      "stars": 247,
       "track": {
         "type": "GIT",
         "added": 1719068091.404116,
