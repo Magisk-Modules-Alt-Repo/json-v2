@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1793276403.887983
+    "timestamp": 1793312856.661254
   },
   "modules": [
     {
@@ -227,7 +227,7 @@
         "service": true,
         "post_fs_data": true
       },
-      "stars": 292,
+      "stars": 293,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067637.469871,
@@ -3241,8 +3241,8 @@
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/README.md",
       "verified": false,
-      "timestamp": 1663012287.0,
-      "size": 3402,
+      "timestamp": 1665941821.0,
+      "size": 3410,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -3264,6 +3264,14 @@
           "versionCode": 1000,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ezme-nodebug/v1_1000.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1665941821.0,
+          "version": "v2021.12.6",
+          "versionCode": 202112060,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ezme-nodebug/v2021.12.6_202112060.zip",
+          "changelog": "",
+          "size": 3410
         }
       ]
     },

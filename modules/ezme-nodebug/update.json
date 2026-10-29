@@ -8,6 +8,14 @@
       "versionCode": 1000,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ezme-nodebug/v1_1000.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1665941821.0,
+      "version": "v2021.12.6",
+      "versionCode": 202112060,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ezme-nodebug/v2021.12.6_202112060.zip",
+      "changelog": "",
+      "size": 3410
     }
   ]
 }
