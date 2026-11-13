@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1794578269.142664
+    "timestamp": 1794611779.948935
   },
   "modules": [
     {
@@ -227,7 +227,7 @@
         "service": true,
         "post_fs_data": true
       },
-      "stars": 293,
+      "stars": 294,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067637.469871,
@@ -1702,7 +1702,7 @@
       "features": {
         "service": true
       },
-      "stars": 98,
+      "stars": 99,
       "track": {
         "type": "GIT",
         "added": 1719068208.756352,
@@ -1878,7 +1878,7 @@
         "service": true,
         "post_fs_data": true
       },
-      "stars": 93,
+      "stars": 94,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068280.947017,
@@ -2110,7 +2110,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 208,
+      "stars": 209,
       "track": {
         "type": "GIT",
         "added": 1737568533459.0,
@@ -2169,7 +2169,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 449,
+      "stars": 450,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067581.595615,
@@ -2931,7 +2931,7 @@
       "verified": false,
       "timestamp": 1670983400.0,
       "size": 15011,
-      "stars": 28,
+      "stars": 29,
       "track": {
         "type": "GIT",
         "added": 1719067798.379322,
@@ -3906,7 +3906,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 48,
+      "stars": 49,
       "track": {
         "type": "GIT",
         "added": 1719068033.281516,
@@ -4709,7 +4709,7 @@
         "post_fs_data": true,
         "sepolicy": true
       },
-      "stars": 185,
+      "stars": 186,
       "track": {
         "type": "GIT",
         "added": 1719068202.547405,
@@ -5382,7 +5382,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 105,
+      "stars": 106,
       "track": {
         "type": "GIT",
         "added": 1732300680.547536,
